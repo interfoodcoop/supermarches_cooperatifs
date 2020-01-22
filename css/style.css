@@ -1,0 +1,19 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+#mapid
+{
+    min-width: 100vh; 
+    min-height: 100vh;
+}
+
+h2{
+    margin-bottom:0;
+    font-size: 2em;
+}
+.logo{
+    width: 150px;
+    display: block;
+}
