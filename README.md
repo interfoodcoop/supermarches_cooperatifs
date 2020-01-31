@@ -8,12 +8,12 @@ Un navigateur moderne, le programme a été completement développé en ECMAScri
 # Fonctionnalité
 La page présente une carte du monde et les projets de supermarché coopératif sont indiqué par des plots.
 
-Les plots sont identifié par différents icônes :
+Les plots sont identifiés par différents icônes :
 - lampe : en phase d'idées.
 - utilisateurs : en phase de création (groupes de travail).
-- sac : en mode laboratoire (commande de produits).
-- panier : l'épicerie est créée.
-- caddie : le supermarché est crée.
+- sac : en mode laboratoire (groupement d’achat).
+- panier : l'épicerie est ouverte.
+- caddie : le supermarché est ouvert.
 
 Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Nom 
@@ -23,7 +23,7 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Courriel
 - Page Facebook
 
---les données sur les différents projets de supermarché coopératif sont en cours de mise à jours--
+__les données sur les différents projets de supermarché coopératif sont en cours de mise à jours__
 
 # Démonstration
 [Page de démonstration](https://zuff69.github.io/supermarches_cooperatifs/)

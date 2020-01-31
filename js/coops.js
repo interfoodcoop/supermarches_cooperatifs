@@ -1,24 +1,26 @@
-class SupermarchesCooperatifs{
+import {SupermarcheCooperatif as SupermarcheCooperatif} from "./coop.js";
+
+export class SupermarchesCooperatifs{
 
    constructor(donneesJson) {
       this.liste = [];
-      donneesJson.forEach(element => {
-         let supermarche = new SupermarcheCooperatif(element); 
-         this.liste.push(supermarche);
+      Array.from(donneesJson, element=> {
+          let supermarche = new SupermarcheCooperatif(element); 
+          this.liste.push(supermarche);
       });
    }
 
-   getSuperMarches() {
+   getSupermarches() {
       return this.liste;
    }
 
-   getSuperMarchesLocalises() {
+   getSupermarchesLocalises() {
       let SupermarchesLocalises = [];
-      this.liste.forEach(element => {
+      Array.from(this.liste, element=> {
          if (element.lattitude!= ""){
             SupermarchesLocalises.push(element);
          }
-      });
+     });
       return SupermarchesLocalises;
    }   
 

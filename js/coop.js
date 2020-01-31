@@ -1,4 +1,4 @@
-class SupermarcheCooperatif{
+export class SupermarcheCooperatif{
 
    constructor(donneesJson) {
       this.nom = donneesJson["nom"];

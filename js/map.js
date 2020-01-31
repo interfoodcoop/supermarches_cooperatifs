@@ -1,4 +1,6 @@
-class Map{
+import {dataDepartements as dataDepartements} from "../geoJson/departements.js";
+import {dataEurope as dataEurope} from "../geoJson/europe.js";
+export class Map{
    
    // ***************** Variables ************************
    // Variables layerGroups
@@ -27,7 +29,7 @@ class Map{
       // Initialisation de la couche département (données préchargées par le fichier departements.js)
       this.layerDepartement = L.geoJson(dataDepartements, { style: this.styleNeutre()});
 
-      // Initialisation de la couche des pys d'europe (données préchargées par le fichier europe.js)
+      // Initialisation de la couche des pays d'europe (données préchargées par le fichier europe.js)
       this.layerEurope = L.geoJson(dataEurope, { style: this.styleNeutre()});
 
       // Initialisation du layerGroup
@@ -55,8 +57,8 @@ class Map{
    
    afficherLesPoints(data){
       //const CouchePoints = L.layerGroup([]);
+      Array.from(data, element=> {
 
-      data.forEach(element => {
          let typeIcone = '';
          if (element.avancement ===0){typeIcone = 'lightbulb-o';}
          if (element.avancement ===1){typeIcone = 'lightbulb-o';}
