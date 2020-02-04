@@ -23,7 +23,7 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Courriel
 - Page Facebook
 
-__les données sur les différents projets de supermarché coopératif sont en cours de mise à jours__
+les données sur les différents projets de supermarché coopératif a été remis à jours le 04 février 2020
 
 # Démonstration
 [Page de démonstration](https://zuff69.github.io/supermarches_cooperatifs/)
