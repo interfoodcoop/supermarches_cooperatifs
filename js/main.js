@@ -5,7 +5,7 @@ import {SupermarchesCooperatifs as SupermarchesCooperatifs} from "./coops.js";
 
 document.addEventListener("DOMContentLoaded", ()=> {
    const superCoop = new SupermarchesCooperatifs(supermarches);
-   const carte = new Map("mapid", 46.6, 2.2 );
+   const carte = new Map(parametres);
    carte.afficherLaCouleurdesDepartements(supermarches, 4);
    carte.afficherLesPoints(superCoop.getSupermarchesLocalises());
 });

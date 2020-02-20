@@ -3,9 +3,10 @@ import {dataEurope as dataEurope} from "../geoJson/europe.js";
 export class Map{
    
    // ***************** Variables ************************
+   
    // Variables layerGroups
    //lgroupDepartement;
-
+    
    // Variables couches
    //layerDepartement;
    
@@ -23,7 +24,8 @@ export class Map{
 
 
    // ***************** Fonctions ************************
-   constructor(idDiv, Lat, Lng) {
+   constructor(parametresDeLaCarte) {
+      this.parametres = parametresDeLaCarte;
       this.osm = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' });
     
       // Initialisation de la couche département (données préchargées par le fichier departements.js)
@@ -36,10 +38,10 @@ export class Map{
       this.lgroupContours = L.layerGroup([this.layerDepartement, this.layerEurope]);
 
       // Initialisation de la carte
-      this.map = L.map(idDiv, {
-         center: new L.LatLng(Lat, Lng),
-         zoom: 6,
-         maxZoom: 18,
+      this.map = L.map(this.parametres.idDiv, {
+         center: new L.LatLng(this.parametres.Lat, this.parametres.Lng),
+         zoom: this.parametres.zoom,
+         maxZoom: this.parametres.maxZoom,
          layers: [this.osm, this.lgroupContours]
       });
 
@@ -59,36 +61,43 @@ export class Map{
       //const CouchePoints = L.layerGroup([]);
       Array.from(data, element=> {
 
-         let typeIcone = '';
-         if (element.avancement ===0){typeIcone = 'lightbulb-o';}
-         if (element.avancement ===1){typeIcone = 'lightbulb-o';}
-         if (element.avancement ===2){typeIcone = 'users';}
-         if (element.avancement ===3){typeIcone = 'shopping-bag';}
-         if (element.avancement ===4){typeIcone = 'shopping-basket';}
-         if (element.avancement ===5){typeIcone = 'shopping-cart';}
-
-         let iconeMagasin = L.AwesomeMarkers.icon({ icon: typeIcone, prefix: 'fa', markerColor: 'green' });
-         let marker = L.marker([element.lattitude, element.longitude ], {icon: iconeMagasin}).addTo(this.map); 
-         let affichage = `
-            <h2>${element.nom}</h2>
-            ${element.adresse}<br>
-            ${element.ville}<br>
-            <img src="./logo/${element.logo}" class="logo">
-            `;
-
-         
-         if (element.site_web !==""){
-            affichage +=`<a href='${element.site_web}'>Site Internet</a><br>`;
+         let typeIcone = this.parametres.marqueurs[0].typeIcone;
+         let couleurIcone = this.parametres.marqueurs[0].couleur;
+         if (element.avancement < this.parametres.marqueurs.length){
+            typeIcone = this.parametres.marqueurs[element.avancement].typeIcone;
+            couleurIcone = this.parametres.marqueurs[element.avancement].couleur;
          }
-         if (element.facebook !==""){
-            affichage +=`<a href='${element.facebook}'>Page Facebook</a><br>`;
-         }   
-         if (element.courriel !==""){
-            affichage +=`<a href='mailto:${element.courriel}'>Courriel</a><br>`;
-         }            
-         marker.bindPopup(affichage );       
+
+         let iconeMagasin = L.AwesomeMarkers.icon({ icon: typeIcone, prefix: 'fa', markerColor: couleurIcone });
+         let marker = L.marker([element.lattitude, element.longitude ], {icon: iconeMagasin}).addTo(this.map); 
+
+         let affichage = this.genererLeMessageDuMarqueur(JSON.stringify(element),this.parametres.affichageMarqueur.message, this.parametres.affichageMarqueur.variables);
+         affichage += this.genererLaPartieOptionnelleDuMessage(element);                  
+         marker.bindPopup(affichage);       
       });
       
+   }
+
+   genererLaPartieOptionnelleDuMessage(element){
+      let texteDeRetour = "";
+      for (let index = 0; index < this.parametres.affichageMarqueur.optionnels.length; index++) {
+         let message = this.parametres.affichageMarqueur.optionnels[index].message;
+         let texte = this.genererLeMessageDuMarqueur(JSON.stringify(element),message, this.parametres.affichageMarqueur.optionnels[index].variables );
+         if (texte != message) {texteDeRetour +=texte;}  
+      }
+      return texteDeRetour;
+   }
+
+   genererLeMessageDuMarqueur(element, message, variables){
+      let texteDeRetour = message;
+      for (let index = 0; index < variables.length; index++) {
+         JSON.parse(element, (key, value) => {
+            if (key.toString() === variables[index]) {
+               texteDeRetour = texteDeRetour.replace ("{" + index + "}", value.trim());
+            }
+         });
+      };
+      return texteDeRetour;
    }
 
    // ***************** styles appliqués ************************
@@ -124,5 +133,19 @@ export class Map{
       d >= choropletheReferent[1] ? choropletheCouleur[1] :
       d >= choropletheReferent[0] ? choropletheCouleur[0] :
       '#FFFFFF';
+   }
+
+
+   // Récupère un fichier Json en Ajax
+   recupererFichierJsonEnAjax(url)
+   {
+      // Création d'une requête HTTP
+      let requete = new XMLHttpRequest();
+      // Requête HTTP GET synchrone vers le fichier langages.txt publié localement
+      requete.open("GET", url, false);
+      // Envoi de la requête
+      requete.send(null);
+      // Affiche la réponse reçue pour la requête
+      console.log(requete.responseText);
    }
 }

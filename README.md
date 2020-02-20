@@ -23,7 +23,28 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Courriel
 - Page Facebook
 
-les données sur les différents projets de supermarché coopératif a été remis à jours le 04 février 2020
+les données sur les différents projets de supermarché coopératif a été remis à jours le 04 février 2020.
+
+# Paramétrage
+Il est possible de personnaliser la carte.
+
+Les paramètres modifiables :
+
+Pour la gestion de la carte :
+- idDiv : L'id du div qui va afficher la carte.
+- Lat : Lattitude du centre de la carte.
+- Lng : Longitude du centre de la carte.
+- zoom : zoom à l'affichage de la carte.
+- maxZoom : zoom maximum de la carte.
+
+Pour la gestion des plots :
+- marqueurs : Affichage des plots suivant l'avancement du projet
+   - typeIcone : L'icone affichée dans le marqueur du plot suivant les [icônes disponibles](https://fontawesome.com/v4.7.0/icons/).
+   - couleur : couleur du plot ('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpurple', 'cadetblue').
+- affichageMarqueur : L'affichage du message lorsque l'on clique sur le plot.
+   - message : le code HTML à générer
+   - variables : les variables à intégrer dans le message suivant leur index.
+   - optionnels : permet de completer le message si la variable optionnelle est renseignée en gardant la même structure que le message principale.
 
 # Démonstration
 [Page de démonstration](https://zuff69.github.io/supermarches_cooperatifs/)
