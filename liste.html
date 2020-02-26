@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+   <title>liste des supermarchés coopératifs</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <link rel="stylesheet" type="text/css" media="screen" href="./css/style.css" />
+</head>
+<body>
+   <div id="divListe">
+      <table id="tblAffichage" summary="Liste des supermarchés coopératifs dans le monde">
+         <caption>Supermarchés coopératifs</caption>
+         <thead>
+            <tr>
+               <th><abbr title="Département">Dpt</abbr></th>
+               <th>Ville</th>
+               <th>Nom</th>
+               <th>Adresse</th>
+               <th>Site web</th>
+               <th>Courriel</th>
+               <th>Facebook</th>
+               <th>Avancement</th>
+            </tr>
+         </thead>
+         <tbody>
+            <tr  v-for="item in items">
+               <td>{{item.departement}}</td>
+               <td>{{item.ville}}</td>
+               <td v-html="item.nom"></td>
+               <td v-html="item.adresse"></td>
+               <td>
+                  <a :href="item.site_web">{{item.site_web}}</a>                 
+               </td>
+               <td>
+                  <a :href="'mailto:' + item.courriel">Courriel</a>      
+               </td>
+               <td>
+                  <a :href="item.facebook">Facebook</a>                 
+               </td>
+               <td>
+                  <div v-if="item.avancement === 1">
+                     En projet
+                   </div>
+                   <div v-else-if="item.avancement === 2">
+                     En cours de création
+                   </div>
+                   <div v-else-if="item.avancement === 3">
+                     Groupement d'achat
+                   </div>
+                   <div v-else-if="item.avancement === 4">
+                     Epicerie
+                   </div>
+                   <div v-else-if="item.avancement === 5">
+                     Supermarché
+                   </div>
+
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+    
+   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+   
+   <script type="module"  src="./js/liste.js"></script>
+</body>
+</html>

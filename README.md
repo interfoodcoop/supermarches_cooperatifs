@@ -25,6 +25,10 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 
 les données sur les différents projets de supermarché coopératif a été remis à jours le 04 février 2020.
 
+# Accesibilité
+Comme la cartographie interactive n'est pas accessible à tout le monde, une page alternative avec un affichage en tableau est proposé :
+[Page d'accessibilité](https://zuff69.github.io/supermarches_cooperatifs/liste.html)
+
 # Paramétrage
 Il est possible de personnaliser la carte.
 

@@ -21,3 +21,33 @@ h2{
     width: 150px;
     display: block;
 }
+
+table {
+    border-collapse:collapse;
+    width:100%;
+    text-align:center;
+}
+    
+caption {
+    caption-side:top;
+    font-weight:bold;
+    font-style:italic;
+    margin:4px;
+}
+
+th {
+    background-image: linear-gradient(aquamarine, rgb(83, 173, 143));
+}
+
+table,th, td {
+    border: 1px solid gray;
+}
+    
+th, td {
+    padding:5px;
+    vertical-align:middle;
+}
+
+table tr:nth-child(odd) td {
+    background-color: #F0F0F0;
+}
