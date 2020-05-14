@@ -5,11 +5,8 @@ export const supermarches =[
       "ville":"New York",
       "adresse":"782 Union Street, Brooklyn",
       "logo":"food_coop.png",
-      "site_web":"https://www.foodcoop.com/",
-      "courriel":"",
-      "facebook":"",     
+      "site_web":"https://www.foodcoop.com/",    
       "avancement":5,
-      "fonctionnement":"",
       "lattitude": 40.67473,
       "longitude":-73.97682
    },
@@ -71,6 +68,34 @@ export const supermarches =[
    },
  
    {
+      "nom": "Aix'Elan Coop",
+      "departement":"13",
+      "ville":"Aix-en-Provence",
+      "adresse":"",
+      "logo":"aix_elan_coop.jpg",
+      "site_web":"http://www.aixelancoop.fr/",
+      "courriel":"contact.aixelancoop@gmail.com",
+      "facebook":"https://www.facebook.com/AixElanCoop/",     
+      "avancement":1,
+      "lattitude":43.5575, 
+      "longitude":5.4890
+   },
+    
+   {
+      "nom": "Ma Coop",
+      "departement":"17",
+      "ville":"La Rochelle",
+      "adresse":"",
+      "logo":"ma_coop.jpg",
+      "site_web":"https://ma-coop.fr/",
+      "courriel":"macooplr@gmail.com",
+      "facebook":"https://www.facebook.com/MaCoopLR/",     
+      "avancement":3,
+      "lattitude":46.1620, 
+      "longitude":-1.1765
+   },
+
+   {
       "nom": "Court circuit 21",
       "departement":"21",
       "ville":"Dijon",
@@ -111,7 +136,31 @@ export const supermarches =[
       "lattitude":48.39912, 
       "longitude":-4.47222
    },  
+ 
+   {
+      "nom": "Supermarché <br>Coopératif <br>Morlaix",
+      "departement":"29",
+      "ville":"Morlaix",
+      "adresse":"",
+      "logo":"vide.png",
+      "facebook":"https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/",     
+      "avancement":1,
+      "lattitude":48.5911, 
+      "longitude":-3.7788
+   },  
    
+   {
+      "nom": "Chez Marguerite",
+      "departement":"29",
+      "ville":"Riec-sur-Bélon",
+      "adresse":"",
+      "logo":"marguerite.png",
+      "facebook":"https://www.facebook.com/laRIECoop/",     
+      "avancement":1,
+      "lattitude":47.8511, 
+      "longitude":-3.6801
+   }, 
+  
    {
       "nom": "La chouette coop",
       "departement":"31",
@@ -146,8 +195,6 @@ export const supermarches =[
       "ville":"Soulac-sur-Mer",
       "adresse":"",
       "logo":"coopocean.jpg",
-      "site_web":"",
-      "courriel":"",
       "facebook":"https://www.facebook.com/groups/1035375806594111/",     
       "avancement":1,
       "lattitude":45.5070, 
@@ -216,7 +263,6 @@ export const supermarches =[
       "ville":"Lons le Saunier",
       "adresse":"",
       "logo":"La_Cambuse.jpg",
-      "site_web":"",
       "courriel":"amimacolons@gmail.com",
       "facebook":"https://www.facebook.com/magasincooperatitflonslesaunier/",     
       "avancement":2,
@@ -231,13 +277,25 @@ export const supermarches =[
       "adresse":"19 rue Nicolas Chaize",
       "logo":"fourmiliere.jpg",
       "site_web":"http://coop-lafourmiliere.fr/",
-      "courriel":"contact@coop-lafourmiliere.fr",
-      "facebook":"",     
+      "courriel":"contact@coop-lafourmiliere.fr",    
       "avancement":5,
       "lattitude":45.41849, 
       "longitude":4.39713
    },
   
+   {
+      "nom": "Supcoop",
+      "departement":"42",
+      "ville":"Roanne",
+      "adresse":"",
+      "logo":"supcoop.png",
+      "site_web":"https://www.facebook.com/communeroanne/",
+      "courriel":"mcrc.la.commune@gmail.com",    
+      "avancement":1,
+      "lattitude":46.03899,
+      "longitude":4.05973
+   },
+   
    {
       "nom": "Scopéli",
       "departement":"44",
@@ -300,7 +358,6 @@ export const supermarches =[
       "ville":"Agen",
       "adresse":"",
       "logo":"coop_agenaise.jpg",
-      "site_web":"",
       "courriel":"supermarchecoopagen@bbox.fr",
       "facebook":"https://www.facebook.com/LaCoopAgenaise/",     
       "avancement":1,
@@ -329,7 +386,6 @@ export const supermarches =[
       "adresse":"",
       "logo":"coopenbaie.png",
       "site_web":"http://coopenbaie.fr/",
-      "courriel":"",
       "facebook":"https://www.facebook.com/coopenbaie/",     
       "avancement":1,
       "lattitude":48.8418002, 
@@ -377,7 +433,20 @@ export const supermarches =[
       "lattitude":50.63228, 
       "longitude":3.08717
    },
-   
+    
+   {
+      "nom": "La Clac",
+      "departement":"60",
+      "ville":"Creil",
+      "adresse":"4 allée de la faïencerie",
+      "logo":"clac.png",
+      "courriel":"asso.creonslacoop@gmail.com",
+      "facebook":"https://www.facebook.com/Creonslacoop/",     
+      "avancement":4,
+      "lattitude":49.2561, 
+      "longitude":2.4658
+   },
+
    {
       "nom": "La coop <br>des dômes",
       "departement":"63",
@@ -391,7 +460,20 @@ export const supermarches =[
       "lattitude":45.81259, 
       "longitude":3.12860
    },
-   
+    
+   {
+      "nom": "L'alternateur'",
+      "departement":"63",
+      "ville":"SAUXILLANGES",
+      "adresse":"17-19 Rue du Monastère",
+      "logo":"alternateur.jpg",
+      "site_web":"http://www.alternateur63.fr/",
+      "facebook":"https://www.facebook.com/alternateursauxillanges/",     
+      "avancement":4,
+      "lattitude":45.55090, 
+      "longitude":3.37189
+   },
+
    {
       "nom": "Otsokop",
       "departement":"64",
@@ -568,7 +650,6 @@ export const supermarches =[
       "logo":"logo_serre_citoyenne.png",
       "site_web":"https://jachetemonsupermarche.com/",
       "courriel":"contact@laserrecitoyenne.fr",
-      "facebook":"",
       "avancement":1, 
       "lattitude":49.9213789, 
       "longitude":1.0739232 
@@ -580,7 +661,6 @@ export const supermarches =[
       "ville":"Le Havre",
       "adresse":"60 rue Michelet",
       "logo":"la_mouette.jpg",
-      "site_web":"",
       "courriel":"epicerie.cooperative@gmail.com",
       "facebook":"https://www.facebook.com/LaMouette.epicerie.coop.havraise/",
       "avancement":3, 
@@ -659,6 +739,19 @@ export const supermarches =[
    },
    
    {
+      "nom": "le peuplié",
+      "departement":"80",
+      "ville":"Amiens",
+      "adresse":"161, rue Dejean",
+      "logo":"vide.png",
+      "site_web":"http://www.lepeuplie.org/",
+      "courriel":"contact@lepeuplie.org",   
+      "avancement":4,
+      "lattitude":49.89002, 
+      "longitude":2.32389
+   },
+
+   {
       "nom": "Les amis de la CASA",
       "departement":"81",
       "ville":"Albi",
@@ -679,7 +772,6 @@ export const supermarches =[
       "adresse":"Rue du Noyer",
       "logo":"coop_sur_mer.jpg",
       "site_web":"http://lacoopsurmer.fr/",
-      "courriel":"",
       "facebook":"https://www.facebook.com/LaCoopSurMer/",     
       "avancement":4, 
       "lattitude":43.12180, 
@@ -790,7 +882,6 @@ export const supermarches =[
       "ville":"Le Pré-Saint-Gervais",
       "adresse":"2 rue Danton",
       "logo":"La_coop_du_pre.jpg",
-      "site_web":"",
       "courriel":"coopdupre@gmail.com",
       "facebook":"https://www.facebook.com/coopdupre/",     
       "avancement":2,
@@ -815,17 +906,17 @@ export const supermarches =[
    {
       "nom": "Coop'cot",
       "departement":"94",
-      "ville":"Valle de Marne",
-      "adresse":"",
+      "ville":"Créteil",
+      "adresse":"Centre Commercial l’Échat<br>92 Avenue du Général de Gaulle",
       "logo":"coopcot.png",
       "site_web":"http://coopcot.fr/",
       "courriel":"contact@coopcot.fr",
       "facebook":"https://fr-fr.facebook.com/supermarchecooperatif94/",     
       "avancement":3,
-      "lattitude":48.7647331, 
-      "longitude":2.4116822  
-   },  
-      
+      "lattitude":48.78692, 
+      "longitude":2.44684  
+   },
+   
    {
       "nom": "Coop les bains",
       "departement":"95",
@@ -846,7 +937,6 @@ export const supermarches =[
       "ville":"Guadeloupe",
       "adresse":"",
       "logo":"la_calebasse.jpg",
-      "site_web":"",
       "courriel":"lacalebasse.coop@gmail.com",
       "facebook":"https://www.facebook.com/lacalebasse971/",     
       "avancement":2,
@@ -1002,10 +1092,24 @@ export const supermarches =[
       "logo":"chez_Emmy.svg",
       "site_web":"https://about.chez-emmy.ch/",
       "courriel":"epicerie@chez-emmy.ch",
-      "facebook":"", 
       "avancement":4,
       "lattitude":47.01291,
       "longitude":6.98710
+   },
+   
+
+   {
+      "nom": "Epicoop Riviera",
+      "departement":"CH",
+      "ville":"Vevey",
+      "adresse":"Rue des Marroniers 3B",
+      "logo":"riviera.png",
+      "site_web":"https://epicoopriviera.ch/",
+      "courriel":"contact@epicoopriviera.ch",
+      "facebook":"https://www.facebook.com/EpicoopRiviera/",
+      "avancement":3,
+      "lattitude":46.46605,
+      "longitude":6.84260
    },
    
    {
@@ -1056,8 +1160,6 @@ export const supermarches =[
       "ville":"Stockholm",
       "adresse":"",
       "logo":"Stockholm_Cooperative_Supermarket.jpg",
-      "site_web":"",
-      "courriel":"",
       "facebook":"https://www.facebook.com/groups/1503136399808982/",     
       "avancement":1,
       "lattitude":59.3255,

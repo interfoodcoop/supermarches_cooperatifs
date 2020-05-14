@@ -23,7 +23,7 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Courriel
 - Page Facebook
 
-les données sur les différents projets de supermarché coopératif a été remis à jours le 04 février 2020.
+les données sur les différents projets de supermarché coopératif a été remis à jours le 14 mai 2020.
 
 # Accesibilité
 Comme la cartographie interactive n'est pas accessible à tout le monde, une page alternative avec un affichage en tableau est proposé :

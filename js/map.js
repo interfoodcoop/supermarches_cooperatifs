@@ -93,7 +93,7 @@ export class Map{
       for (let index = 0; index < variables.length; index++) {
          JSON.parse(element, (key, value) => {
             if (key.toString() === variables[index]) {
-               texteDeRetour = texteDeRetour.replace ("{" + index + "}", value.trim());
+                  texteDeRetour = texteDeRetour.replace ("{" + index + "}", value.trim());
             }
          });
       };
