@@ -1155,13 +1155,15 @@ export const supermarches =[
    },  
     
    {
-      "nom": "Stockholm Cooperative Supermarket",
+      "nom": "Lokatten Supermarket",
       "departement":"SE",
       "ville":"Stockholm",
       "adresse":"",
-      "logo":"Stockholm_Cooperative_Supermarket.jpg",
+      "logo":"lokatten.png",
+      "site_web":"https://www.lokatten.org/",
+      "courriel":"contact@lokatten.org",
       "facebook":"https://www.facebook.com/groups/1503136399808982/",     
-      "avancement":1,
+      "avancement":3,
       "lattitude":59.3255,
       "longitude":18.0711
    },
