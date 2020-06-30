@@ -615,6 +615,20 @@ export const supermarches =[
    },
 
    {
+      "nom": "Coop 14",
+      "departement":"75",
+      "ville":"Paris XIVème",
+      "adresse":"",
+      "logo":"coop14.png",
+      "site_web":"https://coop14.fr/",
+      "courriel":"contact@coop14.fr",
+      "facebook":"https://www.facebook.com/coop14paris",     
+      "avancement":2,
+      "lattitude":48.82601, 
+      "longitude":2.33135  
+   },
+
+   {
       "nom": "La Louve",
       "departement":"75",
       "ville":"Paris XVIIIème",
