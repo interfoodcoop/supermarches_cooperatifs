@@ -930,6 +930,20 @@ export const supermarches =[
       "lattitude":48.78692, 
       "longitude":2.44684  
    },
+    
+   {
+      "nom": "Coquelicoop",
+      "departement":"94",
+      "ville":"Fresnes",
+      "adresse":"43 rue Émile Zola",
+      "logo":"coquelicoop.png",
+      "site_web":"https://coquelicoop.fr/v1/",
+      "courriel":"contact@coquelicoop.fr",
+      "facebook":"https://www.facebook.com/coquelicoop.fr/",     
+      "avancement":4,
+      "lattitude":48.76133, 
+      "longitude":2.32645  
+   },
    
    {
       "nom": "Coop les bains",
