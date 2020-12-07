@@ -396,14 +396,14 @@ export const supermarches =[
       "nom": "Grande épicerie<br> générale",
       "departement":"54",
       "ville":"Nancy",
-      "adresse":"61 Rue St Nicolas",
+      "adresse":"88 avenue du XX corps",
       "logo":"grande_epicerie.jpg",
       "site_web":"https://www.grandeepiceriegenerale.fr/",
       "courriel":"contact@grandeepiceriegenerale.fr",
       "facebook":"https://www.facebook.com/GEGNancy/",     
-      "avancement":3,
-      "lattitude":48.68816, 
-      "longitude":6.18723
+      "avancement":4,
+      "lattitude":48.69811, 
+      "longitude":6.20029
    },
    
    {
@@ -542,6 +542,19 @@ export const supermarches =[
       "avancement":4,
       "lattitude":45.72920, 
       "longitude":4.82997 
+   },
+
+   {
+      "nom": "Les fourmis sarthoise",
+      "departement":"72",
+      "ville":"Le Mans",
+      "adresse":"",
+      "logo":"fourmis_sarthoise.jpg",
+      "courriel":"mailto:contact@lesfourmissarthoises.fr",
+      "facebook":"https://www.facebook.com/Les-fourmis-sarthoises-Super-Coop-Le-Mans-113575293764329",     
+      "avancement":2,
+      "lattitude":48.00816, 
+      "longitude":0.19518 
    },
    
    {
@@ -843,7 +856,7 @@ export const supermarches =[
       "site_web":"http://www.lalouetcoop.fr/",
       "courriel":"contact@lalouetcoop.fr",
       "facebook":"https://www.facebook.com/LalouetCoop/",     
-      "avancement":4,
+      "avancement":5,
       "lattitude": 46.86902, 
       "longitude":-1.00104
    },
