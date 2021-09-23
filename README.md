@@ -54,4 +54,4 @@ Pour la gestion des plots :
 [Page de démonstration](https://zuff69.github.io/supermarches_cooperatifs/)
 
 # Licence
-Le projet est sous licence MIT - voir la [LICENCE](https://github.com/michaeldeloris/people-collector/blob/master/LICENSE) pour plus de détails.
+Le projet est sous licence MIT - voir la [LICENCE](./LICENSE) pour plus de détails.
