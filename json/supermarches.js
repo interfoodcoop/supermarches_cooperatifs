@@ -544,18 +544,19 @@ export const supermarches =[
       "longitude":4.82997 
    },
 
-   {
-      "nom": "Les fourmis sarthoise",
-      "departement":"72",
-      "ville":"Le Mans",
-      "adresse":"",
-      "logo":"fourmis_sarthoise.jpg",
-      "courriel":"mailto:contact@lesfourmissarthoises.fr",
-      "facebook":"https://www.facebook.com/Les-fourmis-sarthoises-Super-Coop-Le-Mans-113575293764329",     
-      "avancement":2,
-      "lattitude":48.00816, 
-      "longitude":0.19518 
-   },
+  {
+    "nom": "Les fourmis sarthoise",
+    "departement":"72",
+    "ville":"Le Mans",
+    "adresse":"89 rue Gambetta",
+    "logo":"fourmis_sarthoise.jpg",
+    "site_web": "http://www.lesfourmissarthoises.fr",
+    "courriel":"mailto:contact@lesfourmissarthoises.fr",
+    "facebook":"https://www.facebook.com/Les-fourmis-sarthoises-Super-Coop-Le-Mans-113575293764329",     
+    "avancement":4,
+    "lattitude":48.007107,
+    "longitude":0.189676
+  },
    
    {
       "nom": "Eko-Syst'M",
