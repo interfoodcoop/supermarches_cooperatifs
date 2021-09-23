@@ -1209,5 +1209,18 @@ export const supermarches =[
       "lattitude":59.3255,
       "longitude":18.0711
    },
-   
-   ];
+
+  {
+    "nom": "Rizoma coop",
+    "departement":"PT",
+    "ville":"Lisboa",
+    "adresse":"Beco do Rosendo 8",
+    "logo":"rizoma.svg",
+    "site_web":"https://www.rizomacoop.pt/",
+    "courriel":"geral@rizomacoop.pt",
+    "facebook":"https://www.facebook.com/rizomacoop.pt",
+    "avancement":4,
+    "lattitude": 38.713767,
+    "longitude": -9.136232
+  },
+];
