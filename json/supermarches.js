@@ -82,17 +82,17 @@ export const supermarches =[
    },
     
    {
-      "nom": "Ma Coop",
+      "nom": "La Roch’coop",
       "departement":"17",
-      "ville":"La Rochelle",
-      "adresse":"",
-      "logo":"ma_coop.jpg",
+      "ville":"Puilboreau, La Rochelle",
+      "adresse":"9 place du général de Gaulle",
+      "logo":"roch-coop.jpg",
       "site_web":"https://ma-coop.fr/",
       "courriel":"macooplr@gmail.com",
-      "facebook":"https://www.facebook.com/MaCoopLR/",     
-      "avancement":3,
-      "lattitude":46.1620, 
-      "longitude":-1.1765
+      "facebook":"https://www.facebook.com/pg/LaRochcoop/",
+      "avancement": 5,
+      "lattitude": 46.186031,
+      "longitude": -1.117599
    },
 
    {
