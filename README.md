@@ -27,7 +27,7 @@ les données sur les différents projets de supermarché coopératif a été rem
 
 # Accesibilité
 Comme la cartographie interactive n'est pas accessible à tout le monde, une page alternative avec un affichage en tableau est proposé :
-[Page d'accessibilité](https://zuff69.github.io/supermarches_cooperatifs/liste.html)
+[Page d'accessibilité](https://interfoodcoop.github.io/supermarches_cooperatifs/liste.html)
 
 # Paramétrage
 Il est possible de personnaliser la carte.
@@ -51,7 +51,7 @@ Pour la gestion des plots :
    - optionnels : permet de completer le message si la variable optionnelle est renseignée en gardant la même structure que le message principale.
 
 # Démonstration
-[Page de démonstration](https://zuff69.github.io/supermarches_cooperatifs/)
+[Page de démonstration](https://interfoodcoop.github.io/supermarches_cooperatifs/)
 
 # Licence
 Le projet est sous licence MIT - voir la [LICENCE](./LICENSE) pour plus de détails.
