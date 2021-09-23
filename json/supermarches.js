@@ -1223,4 +1223,16 @@ export const supermarches =[
     "lattitude": 38.713767,
     "longitude": -9.136232
   },
+  {
+    "nom": "Coop des Luys",
+    "departement":"64",
+    "ville":"Sauvagnon",
+    "adresse":"3 place du champ de foire",
+    "logo":"coop-luys.jpg",
+    "site_web":"https://coopdesluys.fr/",
+    "courriel":"contact.coopdesluys@gmail.com",
+    "avancement":4,
+    "lattitude": 43.404078,
+    "longitude": -0.38633
+  },
 ];
