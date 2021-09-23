@@ -1,10 +1,11 @@
-import {supermarches as supermarches} from "../json/supermarches.js";
+/* global Vue */
+import { supermarches } from '../json/supermarches.js'
 
-document.addEventListener("DOMContentLoaded", ()=> {
-  
-   const app = new Vue({
-      el: '#divListe',
-      data: {items:supermarches}
-    });
+document.addEventListener('DOMContentLoaded', () => {
+  const app = new Vue({
+    el: '#divListe',
+    data: { items: supermarches }
+  })
 
-});
+  return app
+})
