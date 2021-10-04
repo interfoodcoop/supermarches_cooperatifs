@@ -1233,5 +1233,17 @@ export const supermarches = [
     avancement: 4,
     lattitude: 43.404078,
     longitude: -0.38633
+  },
+  {
+    nom: 'Graoucoop',
+    departement: '57',
+    ville: 'Metz',
+    adresse: '11 Rue du XXe corps',
+    logo: 'logo-graoucoop.png',
+    site_web: 'https://graoucoop.fr/',
+    facebook: 'https://www.facebook.com/graoucoop',
+    avancement: 4,
+    lattitude: 49.103996,
+    longitude: 6.165329
   }
 ]
