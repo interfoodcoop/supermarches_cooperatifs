@@ -665,7 +665,7 @@ export const supermarches = [
     site_web: 'http://cooplasource.fr/',
     courriel: 'contact@cooplasource.fr',
     facebook: 'https://www.facebook.com/cooplasource/',
-    avancement: 3,
+    avancement: 4,
     lattitude: 48.85731,
     longitude: 2.41086
   },
