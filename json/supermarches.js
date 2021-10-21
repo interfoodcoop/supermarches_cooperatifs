@@ -657,17 +657,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'La source',
+    nom: 'La Source',
     departement: '75',
     ville: 'Paris XXème',
-    adresse: 'rue sorbier',
+    adresse: '4 rue Félix Terrier, 75020 Paris',
     logo: 'la_source.png',
     site_web: 'http://cooplasource.fr/',
     courriel: 'contact@cooplasource.fr',
     facebook: 'https://www.facebook.com/cooplasource/',
-    avancement: 3,
-    lattitude: 48.86824,
-    longitude: 2.39001
+    avancement: 4,
+    lattitude: 48.85731,
+    longitude: 2.41086
   },
 
   {
