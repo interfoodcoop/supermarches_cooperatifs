@@ -113,14 +113,14 @@ export const supermarches = [
     nom: "T'as meilleur temps !",
     departement: '25',
     ville: 'Besançon',
-    adresse: '',
+    adresse: '31 Boulevard Kennedy',
     logo: 'creacoop25.jpg',
     site_web: 'http://www.tas-meilleur-temps.fr/',
-    courriel: 'coopsolidairebesancon@gmail.com',
+    courriel: 'magasin@tasmeilleurtemps.fr',
     facebook: 'https://www.facebook.com/creacoop25/',
-    avancement: 2,
-    lattitude: 47.2604,
-    longitude: 6.0122
+    avancement: 4,
+    lattitude: 47.2350,
+    longitude: 5.9852
   },
 
   {
