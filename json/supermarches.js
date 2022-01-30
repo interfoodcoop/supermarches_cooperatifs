@@ -833,8 +833,8 @@ export const supermarches = [
     lattitude: 43.53779,
     longitude: 6.467465
   },
-  
-  {
+
+	{
     nom: "Les Pot'iront",
     departement: '83',
     ville: 'Fréjus',
