@@ -373,7 +373,7 @@ export const supermarches = [
     logo: 'lavieauvert.jpg',
     site_web: 'http://cdurable.info/-Ma-Coop-La-Vie-au-Vert-75-',
     courriel: 'macoop@cdurable.info',
-    facebook: 'https://www.facebook.com/Ma-Coop-La-Vie-au-Vert-515261028532421/',
+    facebook: 'https://www.facebook.com/MaCoopLaVieAuVert/',
     avancement: 4,
     lattitude: 44.47569,
     longitude: 3.98530
