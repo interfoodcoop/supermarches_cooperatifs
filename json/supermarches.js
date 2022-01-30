@@ -1286,4 +1286,17 @@ export const supermarches = [
     lattitude: 44.75223,
     longitude: 5.37471
   }
+
+  {
+    nom: 'https://coopsinguliere.fr/',
+    departement: '34',
+    ville: 'Sète',
+    adresse: '38 rue Pierre Sémard',
+    logo: 'coop_singuliere.png',
+    site_web: 'https://coopsinguliere.fr/',
+    facebook: 'https://www.facebook.com/CoopSinguliere/',
+    avancement: 4,
+    lattitude: 43.40554,
+    longitude: 3.69974
+  }
 ]
