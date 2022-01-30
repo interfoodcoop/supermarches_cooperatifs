@@ -1270,7 +1270,7 @@ export const supermarches = [
     adresse: '174 Rue Des Alliés',
     logo: 'bloum_logo.png',
     site_web: 'https://bloum.be/',
-    courriel: 'info@bloum.be'
+    courriel: 'info@bloum.be',
     facebook: 'https://www.facebook.com/bloumcoop1190/',
     avancement: 4,
     lattitude: 50.81946,
