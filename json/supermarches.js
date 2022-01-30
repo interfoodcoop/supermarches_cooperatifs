@@ -1102,14 +1102,14 @@ export const supermarches = [
     nom: 'Le Nid',
     departement: 'CH',
     ville: 'Genève',
-    adresse: '3 Sentier des saules',
+    adresse: 'Chemin du 23 Août 5',
     logo: 'lenid.png',
     site_web: 'https://lenid.ch/',
     courriel: 'info@lenid.ch',
     facebook: 'https://www.facebook.com/lenidgeneve/',
     avancement: 4,
-    lattitude: 46.20249,
-    longitude: 6.13080
+    lattitude: 46.20274,
+    longitude: 6.13502
   },
 
   {
