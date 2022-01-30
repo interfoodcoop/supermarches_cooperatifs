@@ -978,14 +978,14 @@ export const supermarches = [
     nom: 'Coop les bains',
     departement: '95',
     ville: 'Enghien-les-Bains',
-    adresse: '',
+    adresse: '22 bis Rue de Malleville<br>95880 Enghien-les-Bains',
     logo: 'coop_les_bains.png',
     site_web: 'https://www.cooplesbains.fr/',
-    courriel: 'coop.alimentaire.enghien@gmail.com',
+    courriel: 'contact@cooplesbains.fr',
     facebook: 'https://www.facebook.com/coopenghien/',
-    avancement: 3,
-    lattitude: 48.96991,
-    longitude: 2.30293
+    avancement: 4,
+    lattitude: 48.96901,
+    longitude: 2.30729
   },
 
   {
