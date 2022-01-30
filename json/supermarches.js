@@ -87,9 +87,9 @@ export const supermarches = [
     ville: 'Puilboreau, La Rochelle',
     adresse: '9 place du général de Gaulle',
     logo: 'roch-coop.png',
-    site_web: 'https://ma-coop.fr/',
-    courriel: 'macooplr@gmail.com',
-    facebook: 'https://www.facebook.com/pg/LaRochcoop/',
+    site_web: 'https://larochcoop.fr/',
+    courriel: 'contact@larochcoop.fr',
+    facebook: 'https://www.facebook.com/LaRochcoop',
     avancement: 5,
     lattitude: 46.186031,
     longitude: -1.117599
