@@ -43,14 +43,14 @@ export const supermarches = [
     nom: 'Marcasserie',
     departement: '08',
     ville: 'Charleville-Mézières',
-    adresse: '',
+    adresse: '7 place de Montcy Saint Pierre',
     logo: 'marcasserie.jpg',
     site_web: 'http://marcasserie.org/',
     courriel: 'contact@marcasserie.org',
     facebook: 'https://www.facebook.com/marcasserie/',
     avancement: 3,
-    lattitude: 49.767542,
-    longitude: 4.718328
+    lattitude: 49.77742,
+    longitude: 4.73542
   },
 
   {
