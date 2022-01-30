@@ -1273,4 +1273,17 @@ export const supermarches = [
     lattitude: 50.81946,
     longitude: 4.32684
   }
+
+  {
+    nom: 'La Carline',
+    departement: '26',
+    ville: 'Die',
+    adresse: '21, Rue Du Viaduc',
+    logo: 'carline.png',
+    site_web: 'https://www.lacarline.coop/',
+    facebook: 'https://www.facebook.com/LaCarlineCoop/',
+    avancement: 4,
+    lattitude: 44.75223,
+    longitude: 5.37471
+  }
 ]
