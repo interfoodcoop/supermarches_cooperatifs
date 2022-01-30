@@ -1333,6 +1333,5 @@ export const supermarches = [
     avancement: 4,
     lattitude: 50.71466,
     longitude: 4.60906
-  },
-  
-];
+  }
+]
