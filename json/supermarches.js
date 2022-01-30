@@ -1237,6 +1237,7 @@ export const supermarches = [
     lattitude: 38.713767,
     longitude: -9.136232
   },
+
   {
     nom: 'Coop des Luys',
     departement: '64',
@@ -1249,6 +1250,7 @@ export const supermarches = [
     lattitude: 43.404078,
     longitude: -0.38633
   },
+
   {
     nom: 'Graoucoop',
     departement: '57',
