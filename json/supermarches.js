@@ -797,13 +797,14 @@ export const supermarches = [
     nom: 'La coop sur mer',
     departement: '83',
     ville: 'Toulon',
-    adresse: 'Rue du Noyer',
+    adresse: '270 Avenue Général Pruneau',
     logo: 'coop_sur_mer.jpg',
     site_web: 'http://lacoopsurmer.fr/',
+    courriel: 'bonjour@lacoopsurmer.fr'
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
     avancement: 4,
-    lattitude: 43.12180,
-    longitude: 5.93143
+    lattitude: 43.11985,
+    longitude: 5.95289
   },
 
   {
