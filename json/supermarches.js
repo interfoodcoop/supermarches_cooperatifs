@@ -966,7 +966,7 @@ export const supermarches = [
     ville: 'Fresnes',
     adresse: '43 rue Émile Zola',
     logo: 'coquelicoop.png',
-    site_web: 'https://coquelicoop.fr/v1/',
+    site_web: 'https://coquelicoop.fr/',
     courriel: 'contact@coquelicoop.fr',
     facebook: 'https://www.facebook.com/coquelicoop.fr/',
     avancement: 4,
