@@ -98,15 +98,15 @@ export const supermarches = [
   {
     nom: 'Court circuit 21',
     departement: '21',
-    ville: 'Dijon',
-    adresse: '2 rue des Corroyeurs',
-    logo: 'court-circuit21.jpg',
-    site_web: 'https://supermarchecoop.wixsite.com/dijon',
-    courriel: 'contact@magasin-cooperatif-dijon.org',
+    ville: 'Chenove',
+    adresse: '23, rue de la justice',
+    logo: 'court-circuit_new.png',
+    site_web: 'https://www.courtcircuit21.org/',
+    courriel: 'contact@courtcircuit21.org',
     facebook: 'https://www.facebook.com/courtcircuit21/',
-    avancement: 3,
-    lattitude: 47.31514,
-    longitude: 5.03160
+    avancement: 4,
+    lattitude: 47.29516,
+    longitude: 5.02020
   },
 
   {
