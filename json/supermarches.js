@@ -261,13 +261,13 @@ export const supermarches = [
     nom: 'La Cambuse',
     departement: '39',
     ville: 'Lons le Saunier',
-    adresse: '',
+    adresse: '69, rue du Pont Neuf<br>39000 Lons le Saunier',
     logo: 'La_Cambuse.jpg',
-    courriel: 'amimacolons@gmail.com',
+    courriel: 'contact@cooplacambuse.fr',
     facebook: 'https://www.facebook.com/magasincooperatitflonslesaunier/',
-    avancement: 2,
-    lattitude: 46.6758,
-    longitude: 5.5572
+    avancement: 4,
+    lattitude: 46.67450,
+    longitude: 5.54819
   },
 
   {
