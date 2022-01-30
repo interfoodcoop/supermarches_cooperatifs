@@ -113,14 +113,14 @@ export const supermarches = [
     nom: "T'as meilleur temps !",
     departement: '25',
     ville: 'Besançon',
-    adresse: '',
+    adresse: '31 Boulevard Kennedy',
     logo: 'creacoop25.jpg',
     site_web: 'http://www.tas-meilleur-temps.fr/',
-    courriel: 'coopsolidairebesancon@gmail.com',
+    courriel: 'magasin@tasmeilleurtemps.fr',
     facebook: 'https://www.facebook.com/creacoop25/',
-    avancement: 2,
-    lattitude: 47.2604,
-    longitude: 6.0122
+    avancement: 4,
+    lattitude: 47.2350,
+    longitude: 5.9852
   },
 
   {
@@ -824,14 +824,28 @@ export const supermarches = [
     nom: "Les Pot'iront",
     departement: '83',
     ville: 'Draguignan',
-    adresse: 'rue de trans',
-    logo: 'Les_Pot_iront.jpg',
-    site_web: 'https://www.coop-lespotiront.fr/',
+    adresse: '38 rue de trans',
+    logo: 'Les_Pot_iront_new.png',
+    site_web: 'https://coop-lespotiront.fr/',
     courriel: 'lespotiront83@gmail.com',
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
-    lattitude: 43.53722,
-    longitude: 6.46800
+    lattitude: 43.53779,
+    longitude: 6.467465
+  },
+
+  {
+    nom: "Les Pot'iront",
+    departement: '83',
+    ville: 'Fréjus',
+    adresse: '753 boulevad de la Mer',
+    logo: 'Les_Pot_iront_new.png',
+    site_web: 'https://coop-lespotiront.fr/',
+    courriel: 'lespotiront83@gmail.com',
+    facebook: 'https://www.facebook.com/cooperativepotiront/',
+    avancement: 4,
+    lattitude: 43.422619,
+    longitude: 6.742483
   },
 
   {
@@ -1171,14 +1185,14 @@ export const supermarches = [
     nom: 'AlterCoop',
     departement: 'LU',
     ville: 'Luxembourg',
-    adresse: '',
-    logo: 'altercoop.png',
+    adresse: '18A & 18D rue de la cimenterie 1337 Luxembourg',
+    logo: 'altercoop_logo_final.png',
     site_web: 'http://www.altercoop.lu/',
-    courriel: 'altercooplux@gmail.com',
+    courriel: 'contact@altercoop.lu',
     facebook: 'https://www.facebook.com/AlterCoopLuxembourg/',
-    avancement: 2,
-    lattitude: 49.6115465,
-    longitude: 6.1310611
+    avancement: 4,
+    lattitude: 49.641337,
+    longitude: 6.135053
   },
 
   {
