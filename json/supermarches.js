@@ -800,7 +800,7 @@ export const supermarches = [
     adresse: '270 Avenue Général Pruneau',
     logo: 'coop_sur_mer.jpg',
     site_web: 'http://lacoopsurmer.fr/',
-    courriel: 'bonjour@lacoopsurmer.fr'
+    courriel: 'bonjour@lacoopsurmer.fr',
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
     avancement: 4,
     lattitude: 43.11985,
@@ -1237,6 +1237,7 @@ export const supermarches = [
     lattitude: 38.713767,
     longitude: -9.136232
   },
+
   {
     nom: 'Coop des Luys',
     departement: '64',
@@ -1249,6 +1250,7 @@ export const supermarches = [
     lattitude: 43.404078,
     longitude: -0.38633
   },
+
   {
     nom: 'Graoucoop',
     departement: '57',
@@ -1261,7 +1263,7 @@ export const supermarches = [
     avancement: 4,
     lattitude: 49.103996,
     longitude: 6.165329
-  }
+  },
 
   {
     nom: 'Bloum',
@@ -1270,12 +1272,12 @@ export const supermarches = [
     adresse: '174 Rue Des Alliés',
     logo: 'bloum_logo.png',
     site_web: 'https://bloum.be/',
-    courriel: 'info@bloum.be'
+    courriel: 'info@bloum.be',
     facebook: 'https://www.facebook.com/bloumcoop1190/',
     avancement: 4,
     lattitude: 50.81946,
     longitude: 4.32684
-  }
+  },
 
   {
     nom: 'La Carline',
@@ -1289,7 +1291,7 @@ export const supermarches = [
     avancement: 4,
     lattitude: 44.75223,
     longitude: 5.37471
-  }
+  },
 
   {
     nom: 'Coop singulière',
@@ -1303,7 +1305,7 @@ export const supermarches = [
     avancement: 4,
     lattitude: 43.40554,
     longitude: 3.69974
-  }
+  },
 
   {
     nom: 'Hendaia Koop',
@@ -1317,7 +1319,7 @@ export const supermarches = [
     avancement: 4,
     lattitude: 43.35817,
     longitude: -1.77568
-  }
+  },
 
   {
     nom: 'Macavrac',
