@@ -1255,6 +1255,7 @@ export const supermarches = [
     adresse: '11 Rue du XXe corps',
     logo: 'logo-graoucoop.png',
     site_web: 'https://graoucoop.fr/',
+    courriel: 'info@graoucoop.fr',
     facebook: 'https://www.facebook.com/graoucoop',
     avancement: 4,
     lattitude: 49.103996,
@@ -1268,6 +1269,7 @@ export const supermarches = [
     adresse: '174 Rue Des Alliés',
     logo: 'bloum_logo.png',
     site_web: 'https://bloum.be/',
+    courriel: 'info@bloum.be'
     facebook: 'https://www.facebook.com/bloumcoop1190/',
     avancement: 4,
     lattitude: 50.81946,
@@ -1281,6 +1283,7 @@ export const supermarches = [
     adresse: '21, Rue Du Viaduc',
     logo: 'carline.png',
     site_web: 'https://www.lacarline.coop/',
+    courriel: 'epicerie@lacarline.coop',
     facebook: 'https://www.facebook.com/LaCarlineCoop/',
     avancement: 4,
     lattitude: 44.75223,
@@ -1288,15 +1291,30 @@ export const supermarches = [
   }
 
   {
-    nom: 'https://coopsinguliere.fr/',
+    nom: 'Coop singulière',
     departement: '34',
     ville: 'Sète',
     adresse: '38 rue Pierre Sémard',
     logo: 'coop_singuliere.png',
     site_web: 'https://coopsinguliere.fr/',
+    courriel: 'contact@coopsinguliere.fr',
     facebook: 'https://www.facebook.com/CoopSinguliere/',
     avancement: 4,
     lattitude: 43.40554,
     longitude: 3.69974
+  }
+
+  {
+    nom: 'Hendaia Koop',
+    departement: '64',
+    ville: 'Hendaye',
+    adresse: '10 rue du Port <br> 64700 Hendaye',
+    logo: 'hendaiakoop.png',
+    site_web: 'https://hendaiakoop.org',
+    courriel: 'hendaiakoop@gmail.com',
+    facebook: 'https://www.facebook.com/hendaiakoop/',
+    avancement: 4,
+    lattitude: 43.35817,
+    longitude: -1.77568
   }
 ]
