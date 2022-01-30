@@ -1171,14 +1171,14 @@ export const supermarches = [
     nom: 'AlterCoop',
     departement: 'LU',
     ville: 'Luxembourg',
-    adresse: '',
-    logo: 'altercoop.png',
+    adresse: '18A & 18D rue de la cimenterie 1337 Luxembourg',
+    logo: 'altercoop_logo_final.png',
     site_web: 'http://www.altercoop.lu/',
-    courriel: 'altercooplux@gmail.com',
+    courriel: 'contact@altercoop.lu',
     facebook: 'https://www.facebook.com/AlterCoopLuxembourg/',
-    avancement: 2,
-    lattitude: 49.6115465,
-    longitude: 6.1310611
+    avancement: 4,
+    lattitude: 49.641337,
+    longitude: 6.135053
   },
 
   {
