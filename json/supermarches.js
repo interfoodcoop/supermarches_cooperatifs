@@ -1260,4 +1260,17 @@ export const supermarches = [
     lattitude: 49.103996,
     longitude: 6.165329
   }
+
+  {
+    nom: 'Bloum',
+    departement: 'BE',
+    ville: 'Forest',
+    adresse: '174 Rue Des Alliés',
+    logo: 'bloum_logo.png',
+    site_web: 'https://bloum.be/',
+    facebook: 'https://www.facebook.com/bloumcoop1190/',
+    avancement: 4,
+    lattitude: 50.81946,
+    longitude: 4.32684
+  }
 ]
