@@ -43,14 +43,14 @@ export const supermarches = [
     nom: 'Marcasserie',
     departement: '08',
     ville: 'Charleville-Mézières',
-    adresse: '',
+    adresse: '7 place de Montcy Saint Pierre',
     logo: 'marcasserie.jpg',
     site_web: 'http://marcasserie.org/',
     courriel: 'contact@marcasserie.org',
     facebook: 'https://www.facebook.com/marcasserie/',
     avancement: 3,
-    lattitude: 49.767542,
-    longitude: 4.718328
+    lattitude: 49.77742,
+    longitude: 4.73542
   },
 
   {
@@ -87,9 +87,9 @@ export const supermarches = [
     ville: 'Puilboreau, La Rochelle',
     adresse: '9 place du général de Gaulle',
     logo: 'roch-coop.png',
-    site_web: 'https://ma-coop.fr/',
-    courriel: 'macooplr@gmail.com',
-    facebook: 'https://www.facebook.com/pg/LaRochcoop/',
+    site_web: 'https://larochcoop.fr/',
+    courriel: 'contact@larochcoop.fr',
+    facebook: 'https://www.facebook.com/LaRochcoop',
     avancement: 5,
     lattitude: 46.186031,
     longitude: -1.117599
@@ -98,15 +98,15 @@ export const supermarches = [
   {
     nom: 'Court circuit 21',
     departement: '21',
-    ville: 'Dijon',
-    adresse: '2 rue des Corroyeurs',
-    logo: 'court-circuit21.jpg',
-    site_web: 'https://supermarchecoop.wixsite.com/dijon',
-    courriel: 'contact@magasin-cooperatif-dijon.org',
+    ville: 'Chenove',
+    adresse: '23, rue de la justice',
+    logo: 'court-circuit_new.png',
+    site_web: 'https://www.courtcircuit21.org/',
+    courriel: 'contact@courtcircuit21.org',
     facebook: 'https://www.facebook.com/courtcircuit21/',
-    avancement: 3,
-    lattitude: 47.31514,
-    longitude: 5.03160
+    avancement: 4,
+    lattitude: 47.29516,
+    longitude: 5.02020
   },
 
   {
@@ -165,14 +165,14 @@ export const supermarches = [
     nom: 'La chouette coop',
     departement: '31',
     ville: 'Toulouse',
-    adresse: '12 avenue de Lyon',
+    adresse: '5 rue René Leduc',
     logo: 'La_Chouette.png',
     site_web: 'https://lachouettecoop.fr/',
     courriel: 'contact@lachouettecoop.fr',
     facebook: 'https://www.facebook.com/lachouettecoop/',
     avancement: 4,
-    lattitude: 43.61458,
-    longitude: 1.45164
+    lattitude: 43.61127,
+    longitude: 1.45657
   },
 
   {
@@ -261,13 +261,13 @@ export const supermarches = [
     nom: 'La Cambuse',
     departement: '39',
     ville: 'Lons le Saunier',
-    adresse: '',
+    adresse: '69, rue du Pont Neuf<br>39000 Lons le Saunier',
     logo: 'La_Cambuse.jpg',
-    courriel: 'amimacolons@gmail.com',
+    courriel: 'contact@cooplacambuse.fr',
     facebook: 'https://www.facebook.com/magasincooperatitflonslesaunier/',
-    avancement: 2,
-    lattitude: 46.6758,
-    longitude: 5.5572
+    avancement: 4,
+    lattitude: 46.67450,
+    longitude: 5.54819
   },
 
   {
@@ -373,7 +373,7 @@ export const supermarches = [
     logo: 'lavieauvert.jpg',
     site_web: 'http://cdurable.info/-Ma-Coop-La-Vie-au-Vert-75-',
     courriel: 'macoop@cdurable.info',
-    facebook: 'https://www.facebook.com/Ma-Coop-La-Vie-au-Vert-515261028532421/',
+    facebook: 'https://www.facebook.com/MaCoopLaVieAuVert/',
     avancement: 4,
     lattitude: 44.47569,
     longitude: 3.98530
@@ -687,13 +687,13 @@ export const supermarches = [
     nom: 'La mouette',
     departement: '76',
     ville: 'Le Havre',
-    adresse: '60 rue Michelet',
+    adresse: '145, rue du Maréchal Joffre<br>76600 Le Havre',
     logo: 'la_mouette.jpg',
     courriel: 'epicerie.cooperative@gmail.com',
     facebook: 'https://www.facebook.com/LaMouette.epicerie.coop.havraise/',
-    avancement: 3,
-    lattitude: 49.49748,
-    longitude: 0.12044
+    avancement: 4,
+    lattitude: 49.50015,
+    longitude: 0.12778
   },
 
   {
@@ -741,15 +741,15 @@ export const supermarches = [
   {
     nom: 'Pop la coop',
     departement: '78',
-    ville: 'Saint-Germain-en-Laye',
-    adresse: '',
+    ville: 'Marly-le-roi',
+    adresse: '46 Chem. de Montval à la Montagne<b>78160 Marly-le-Roi',
     logo: 'poplacoop.jpeg',
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
     avancement: 3,
-    lattitude: 48.935664,
-    longitude: 2.0363693
+    lattitude: 48.87371,
+    longitude: 2.08255
   },
 
   {
@@ -797,13 +797,14 @@ export const supermarches = [
     nom: 'La coop sur mer',
     departement: '83',
     ville: 'Toulon',
-    adresse: 'Rue du Noyer',
+    adresse: '270 Avenue Général Pruneau',
     logo: 'coop_sur_mer.jpg',
     site_web: 'http://lacoopsurmer.fr/',
+    courriel: 'bonjour@lacoopsurmer.fr'
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
     avancement: 4,
-    lattitude: 43.12180,
-    longitude: 5.93143
+    lattitude: 43.11985,
+    longitude: 5.95289
   },
 
   {
@@ -965,7 +966,7 @@ export const supermarches = [
     ville: 'Fresnes',
     adresse: '43 rue Émile Zola',
     logo: 'coquelicoop.png',
-    site_web: 'https://coquelicoop.fr/v1/',
+    site_web: 'https://coquelicoop.fr/',
     courriel: 'contact@coquelicoop.fr',
     facebook: 'https://www.facebook.com/coquelicoop.fr/',
     avancement: 4,
@@ -977,14 +978,14 @@ export const supermarches = [
     nom: 'Coop les bains',
     departement: '95',
     ville: 'Enghien-les-Bains',
-    adresse: '',
+    adresse: '22 bis Rue de Malleville<br>95880 Enghien-les-Bains',
     logo: 'coop_les_bains.png',
     site_web: 'https://www.cooplesbains.fr/',
-    courriel: 'coop.alimentaire.enghien@gmail.com',
+    courriel: 'contact@cooplesbains.fr',
     facebook: 'https://www.facebook.com/coopenghien/',
-    avancement: 3,
-    lattitude: 48.96991,
-    longitude: 2.30293
+    avancement: 4,
+    lattitude: 48.96901,
+    longitude: 2.30729
   },
 
   {
@@ -1102,14 +1103,14 @@ export const supermarches = [
     nom: 'Le Nid',
     departement: 'CH',
     ville: 'Genève',
-    adresse: '3 Sentier des saules',
+    adresse: 'Chemin du 23 Août 5',
     logo: 'lenid.png',
     site_web: 'https://lenid.ch/',
     courriel: 'info@lenid.ch',
     facebook: 'https://www.facebook.com/lenidgeneve/',
     avancement: 4,
-    lattitude: 46.20249,
-    longitude: 6.13080
+    lattitude: 46.20274,
+    longitude: 6.13502
   },
 
   {
@@ -1255,9 +1256,80 @@ export const supermarches = [
     adresse: '11 Rue du XXe corps',
     logo: 'logo-graoucoop.png',
     site_web: 'https://graoucoop.fr/',
+    courriel: 'info@graoucoop.fr',
     facebook: 'https://www.facebook.com/graoucoop',
     avancement: 4,
     lattitude: 49.103996,
     longitude: 6.165329
+  }
+
+  {
+    nom: 'Bloum',
+    departement: 'BE',
+    ville: 'Forest',
+    adresse: '174 Rue Des Alliés',
+    logo: 'bloum_logo.png',
+    site_web: 'https://bloum.be/',
+    courriel: 'info@bloum.be'
+    facebook: 'https://www.facebook.com/bloumcoop1190/',
+    avancement: 4,
+    lattitude: 50.81946,
+    longitude: 4.32684
+  }
+
+  {
+    nom: 'La Carline',
+    departement: '26',
+    ville: 'Die',
+    adresse: '21, Rue Du Viaduc',
+    logo: 'carline.png',
+    site_web: 'https://www.lacarline.coop/',
+    courriel: 'epicerie@lacarline.coop',
+    facebook: 'https://www.facebook.com/LaCarlineCoop/',
+    avancement: 4,
+    lattitude: 44.75223,
+    longitude: 5.37471
+  }
+
+  {
+    nom: 'Coop singulière',
+    departement: '34',
+    ville: 'Sète',
+    adresse: '38 rue Pierre Sémard',
+    logo: 'coop_singuliere.png',
+    site_web: 'https://coopsinguliere.fr/',
+    courriel: 'contact@coopsinguliere.fr',
+    facebook: 'https://www.facebook.com/CoopSinguliere/',
+    avancement: 4,
+    lattitude: 43.40554,
+    longitude: 3.69974
+  }
+
+  {
+    nom: 'Hendaia Koop',
+    departement: '64',
+    ville: 'Hendaye',
+    adresse: '10 rue du Port <br> 64700 Hendaye',
+    logo: 'hendaiakoop.png',
+    site_web: 'https://hendaiakoop.org',
+    courriel: 'hendaiakoop@gmail.com',
+    facebook: 'https://www.facebook.com/hendaiakoop/',
+    avancement: 4,
+    lattitude: 43.35817,
+    longitude: -1.77568
+  }
+
+  {
+    nom: 'Macavrac',
+    departement: 'BE',
+    ville: 'Wavre',
+    adresse: 'Rue des Fontaines 51<br>1300 Wavre',
+    logo: 'macavrac.png',
+    site_web: 'https://macavrac.be/',
+    courriel: 'miam@macavrac.be',
+    facebook: 'https://www.facebook.com/Macavrac/',
+    avancement: 4,
+    lattitude: 50.71466,
+    longitude: 4.60906
   }
 ]
