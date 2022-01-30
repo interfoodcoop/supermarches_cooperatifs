@@ -900,7 +900,7 @@ export const supermarches = [
     site_web: 'https://epautre.fr/',
     courriel: 'contact@epautre.fr',
     facebook: 'https://www.facebook.com/Ep.autre',
-    avancement: 3,
+    avancement: 4,
     lattitude: 48.68521,
     longitude: 2.37678
   },
