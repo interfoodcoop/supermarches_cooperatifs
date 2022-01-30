@@ -165,14 +165,14 @@ export const supermarches = [
     nom: 'La chouette coop',
     departement: '31',
     ville: 'Toulouse',
-    adresse: '12 avenue de Lyon',
+    adresse: '5 rue René Leduc',
     logo: 'La_Chouette.png',
     site_web: 'https://lachouettecoop.fr/',
     courriel: 'contact@lachouettecoop.fr',
     facebook: 'https://www.facebook.com/lachouettecoop/',
     avancement: 4,
-    lattitude: 43.61458,
-    longitude: 1.45164
+    lattitude: 43.61127,
+    longitude: 1.45657
   },
 
   {
