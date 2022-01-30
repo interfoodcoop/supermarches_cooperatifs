@@ -824,14 +824,28 @@ export const supermarches = [
     nom: "Les Pot'iront",
     departement: '83',
     ville: 'Draguignan',
-    adresse: 'rue de trans',
-    logo: 'Les_Pot_iront.jpg',
-    site_web: 'https://www.coop-lespotiront.fr/',
+    adresse: '38 rue de trans',
+    logo: 'Les_Pot_iront_new.png',
+    site_web: 'https://coop-lespotiront.fr/',
     courriel: 'lespotiront83@gmail.com',
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
-    lattitude: 43.53722,
-    longitude: 6.46800
+    lattitude: 43.53779,
+    longitude: 6.467465
+  },
+  
+    {
+    nom: "Les Pot'iront",
+    departement: '83',
+    ville: 'Fréjus',
+    adresse: '753 boulevad de la Mer',
+    logo: 'Les_Pot_iront_new.png',
+    site_web: 'https://coop-lespotiront.fr/',
+    courriel: 'lespotiront83@gmail.com',
+    facebook: 'https://www.facebook.com/cooperativepotiront/',
+    avancement: 4,
+    lattitude: 43.422619,
+    longitude: 6.742483
   },
 
   {
