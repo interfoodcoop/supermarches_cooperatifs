@@ -1318,4 +1318,18 @@ export const supermarches = [
     lattitude: 43.35817,
     longitude: -1.77568
   }
+
+  {
+    nom: 'Macavrac',
+    departement: 'BE',
+    ville: 'Wavre',
+    adresse: 'Rue des Fontaines 51<br>1300 Wavre',
+    logo: 'macavrac.png',
+    site_web: 'https://macavrac.be/',
+    courriel: 'miam@macavrac.be',
+    facebook: 'https://www.facebook.com/Macavrac/',
+    avancement: 4,
+    lattitude: 50.71466,
+    longitude: 4.60906
+  }
 ]
