@@ -741,15 +741,15 @@ export const supermarches = [
   {
     nom: 'Pop la coop',
     departement: '78',
-    ville: 'Saint-Germain-en-Laye',
-    adresse: '',
+    ville: 'Marly-le-roi',
+    adresse: '46 Chem. de Montval à la Montagne<b>78160 Marly-le-Roi',
     logo: 'poplacoop.jpeg',
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
     avancement: 3,
-    lattitude: 48.935664,
-    longitude: 2.0363693
+    lattitude: 48.87371,
+    longitude: 2.08255
   },
 
   {
