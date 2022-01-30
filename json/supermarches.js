@@ -687,13 +687,13 @@ export const supermarches = [
     nom: 'La mouette',
     departement: '76',
     ville: 'Le Havre',
-    adresse: '60 rue Michelet',
+    adresse: '145, rue du Maréchal Joffre<br>76600 Le Havre',
     logo: 'la_mouette.jpg',
     courriel: 'epicerie.cooperative@gmail.com',
     facebook: 'https://www.facebook.com/LaMouette.epicerie.coop.havraise/',
-    avancement: 3,
-    lattitude: 49.49748,
-    longitude: 0.12044
+    avancement: 4,
+    lattitude: 49.50015,
+    longitude: 0.12778
   },
 
   {
