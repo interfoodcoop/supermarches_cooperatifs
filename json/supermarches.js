@@ -138,15 +138,16 @@ export const supermarches = [
   },
 
   {
-    nom: 'Supermarché <br>Coopératif <br>Morlaix',
+    nom: 'Le Gase de la Baie',
     departement: '29',
     ville: 'Morlaix',
-    adresse: '',
+    adresse: 'Chapelle St Joseph<br>13 rue Villeneuve<br>29600 Morlaix',
     logo: 'vide.png',
+    courriel: 'lesgasieresdelabaie@gmail.com',
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
     avancement: 1,
-    lattitude: 48.5911,
-    longitude: -3.7788
+    lattitude: 48.58208,
+    longitude: -3.83405
   },
 
   {
