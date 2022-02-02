@@ -1345,7 +1345,7 @@ export const supermarches = [
     site_web: 'http://magasincooperatifrouen.fr',
     courriel: 'kissikol@ik.me',
     facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
-    avancement: 2,
+    avancement: 3,
     lattitude: 49.44242,
     longitude: 1.10561
   }
