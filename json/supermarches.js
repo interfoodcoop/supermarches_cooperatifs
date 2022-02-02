@@ -1344,7 +1344,7 @@ export const supermarches = [
     logo: 'kissikol.png',
     site_web: 'http://magasincooperatifrouen.fr',
     courriel: 'kissikol@ik.me',
-    facebook: 'https://www.facebook.com/Macavrac/',
+    facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
     avancement: 2,
     lattitude: 49.44242,
     longitude: 1.10561
