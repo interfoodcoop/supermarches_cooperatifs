@@ -1349,5 +1349,4 @@ export const supermarches = [
     lattitude: 49.44242,
     longitude: 1.10561
   }
-  
 ]
