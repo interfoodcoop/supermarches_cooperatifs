@@ -1343,7 +1343,7 @@ export const supermarches = [
     adresse: '11-13 rue Saint Vivien, 76000 Rouen',
     logo: 'kissikol.png',
     site_web: 'http://magasincooperatifrouen.fr',
-    courriel: ' issikol@ik.me',
+    courriel: 'kissikol@ik.me',
     facebook: 'https://www.facebook.com/Macavrac/',
     avancement: 2,
     lattitude: 49.44242,
