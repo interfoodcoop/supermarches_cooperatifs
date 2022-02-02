@@ -1334,5 +1334,19 @@ export const supermarches = [
     avancement: 4,
     lattitude: 50.71466,
     longitude: 4.60906
+  },
+
+  {
+    nom: 'KissiKol',
+    departement: '76',
+    ville: 'Rouen',
+    adresse: '11-13 rue Saint Vivien, 76000 Rouen',
+    logo: 'kissikol.png',
+    site_web: 'http://magasincooperatifrouen.fr',
+    courriel: 'kissikol@ik.me',
+    facebook: 'https://www.facebook.com/Macavrac/',
+    avancement: 2,
+    lattitude: 49.44242,
+    longitude: 1.10561
   }
 ]
