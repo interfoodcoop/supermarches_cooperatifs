@@ -1349,7 +1349,7 @@ export const supermarches = [
     lattitude: 49.44242,
     longitude: 1.10561
   },
-  
+
   {
     nom: 'Dublin FoodCoop',
     departement: 'IE',
@@ -1360,8 +1360,8 @@ export const supermarches = [
     courriel: 'info@dublinfood.coop',
     facebook: 'https://www.facebook.com/DublinFoodCoop/',
     avancement: 5,
-    lattitude: 53.34296,
-    longitude: -6.30996
+    lattitude: 53.34239,
+    longitude: -6.31017
   },
 
   {
@@ -1378,7 +1378,7 @@ export const supermarches = [
     longitude: -8.58885
   },
 
-    {
+  {
     nom: 'Belfast Food Co-op',
     departement: 'IE_N',
     ville: 'Belfast',
