@@ -1348,5 +1348,47 @@ export const supermarches = [
     avancement: 3,
     lattitude: 49.44242,
     longitude: 1.10561
+  },
+  
+  {
+    nom: 'Dublin FoodCoop',
+    departement: 'IE',
+    ville: 'Dublin',
+    adresse: 'Unit 1 Building 1<br>The Old Chocolate Factory<br>Kilmainham Square, Inchicore road',
+    logo: 'dublin_foodcoop.jpg',
+    site_web: 'http://magasincooperatifrouen.fr',
+    courriel: 'info@dublinfood.coop',
+    facebook: 'https://www.facebook.com/DublinFoodCoop/',
+    avancement: 5,
+    lattitude: 53.34296,
+    longitude: -6.30996
+  },
+
+  {
+    nom: 'The Urban Co-Op',
+    departement: 'IE',
+    ville: 'Limerick V94 N7D3',
+    adresse: '8 Eastway Business Park Limerick<br>Limerick V94 N7D3',
+    logo: 'the_urban_coop.png',
+    site_web: 'https://www.theurbanco-op.ie/',
+    courriel: 'info@theurbanco-op.ie',
+    facebook: 'https://www.facebook.com/TheUrbanCoOp/',
+    avancement: 5,
+    lattitude: 52.64936,
+    longitude: -8.58885
+  },
+
+    {
+    nom: 'Belfast Food Co-op',
+    departement: 'IE_N',
+    ville: 'Belfast',
+    adresse: '29 Chichester Avenue BT15 5EH',
+    logo: 'belfast.svg',
+    site_web: 'https://belfast.coop/',
+    courriel: 'belfastfoodcoopni@gmail.com',
+    facebook: 'https://www.facebook.com/belfastfoodcoop/',
+    avancement: 5,
+    lattitude: 54.63048,
+    longitude: -5.94133
   }
 ]
