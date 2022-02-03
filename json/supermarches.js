@@ -145,7 +145,7 @@ export const supermarches = [
     logo: 'vide.png',
     courriel: 'lesgasieresdelabaie@gmail.com',
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
-    avancement: 1,
+    avancement: 3,
     lattitude: 48.58208,
     longitude: -3.83405
   },
