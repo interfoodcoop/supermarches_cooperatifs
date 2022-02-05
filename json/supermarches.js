@@ -1390,5 +1390,19 @@ export const supermarches = [
     avancement: 5,
     lattitude: 54.63048,
     longitude: -5.94133
+  },
+
+  {
+    nom: 'La Osa',
+    departement: 'ES',
+    ville: 'Madrid',
+    adresse: 'Av. de Asturias, 57<br>28029 Madrid',
+    logo: 'la_osa_es.jpg',
+    site_web: 'https://laosa.coop/',
+    courriel: 'hola@laosa.coop',
+    facebook: 'https://www.facebook.com/LaOsaCoop/',
+    avancement: 5,
+    lattitude: 40.47141,
+    longitude: -3.69835
   }
 ]
