@@ -1008,14 +1008,14 @@ export const supermarches = [
     nom: 'La coop à nous',
     departement: '988',
     ville: 'Nouméa',
-    adresse: '14 rue bouquet de la Grye - la vallée des colons',
+    adresse: '3 impasse uitoe',
     logo: 'lacoopanous.jpg',
     site_web: 'http://lacoopanous.nc/',
     courriel: 'lacoopanous@gmail.com',
     facebook: 'https://www.facebook.com/coopanous/',
     avancement: 3,
-    lattitude: -22.26879,
-    longitude: 166.45062
+    lattitude: -22.26569,
+    longitude: 166.47021
   },
 
   {
