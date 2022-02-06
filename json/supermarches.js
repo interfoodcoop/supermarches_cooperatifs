@@ -48,7 +48,7 @@ export const supermarches = [
     site_web: 'http://marcasserie.org/',
     courriel: 'contact@marcasserie.org',
     facebook: 'https://www.facebook.com/marcasserie/',
-    avancement: 3,
+    avancement: 4,
     lattitude: 49.77742,
     longitude: 4.73542
   },
@@ -72,7 +72,7 @@ export const supermarches = [
     departement: '13',
     ville: 'Aix-en-Provence',
     adresse: '',
-    logo: 'aix_elan_coop.jpg',
+    logo: 'aixelan_nouveau.png',
     site_web: 'http://www.aixelancoop.fr/',
     courriel: 'contact.aixelancoop@gmail.com',
     facebook: 'https://www.facebook.com/AixElanCoop/',
@@ -151,15 +151,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Chez Marguerite',
+    nom: 'La RieCoop',
     departement: '29',
     ville: 'Riec-sur-Bélon',
-    adresse: '',
-    logo: 'marguerite.png',
+    adresse: '25 rue François Cadoret<br>29340 Riec-sur-Bélon',
+    logo: 'lariecoop.png',
+    site_web: 'https://lariecoop.wixsite.com/epicerie',
+    courriel: 'lariecoop@gmail.com',
     facebook: 'https://www.facebook.com/laRIECoop/',
-    avancement: 1,
-    lattitude: 47.8511,
-    longitude: -3.6801
+    avancement: 4,
+    lattitude: 47.84409,
+    longitude: -3.69194
   },
 
   {
@@ -290,8 +292,8 @@ export const supermarches = [
     ville: 'Roanne',
     adresse: '',
     logo: 'supcoop.png',
-    site_web: 'https://www.facebook.com/communeroanne/',
-    courriel: 'mcrc.la.commune@gmail.com',
+    site_web: 'www.monepi.fr',
+    courriel: 'epi-roanne@framalistes.org',
     avancement: 1,
     lattitude: 46.03899,
     longitude: 4.05973
@@ -410,15 +412,15 @@ export const supermarches = [
   {
     nom: 'Coop des Vénètes',
     departement: '56',
-    ville: 'Vannes',
-    adresse: '',
+    ville: 'Séné',
+    adresse: '3 Rue de Lorraine<br>56860 Séné',
     logo: 'coop_venetes.jpg',
     site_web: 'https://www.coopdesvenetes.bzh/',
     courriel: 'contact@coopdesvenetes.bzh',
-    facebook: 'https://www.facebook.com/Coop-des-V%C3%A9n%C3%A8tes-1858337227811822/',
-    avancement: 2,
-    lattitude: 47.6576484,
-    longitude: -2.7735705
+    facebook: 'https://www.facebook.com/coopdesvenetes/',
+    avancement: 4,
+    lattitude: 47.65080,
+    longitude: -2.71331
   },
 
   {
@@ -700,15 +702,15 @@ export const supermarches = [
   {
     nom: 'Valcoop',
     departement: '77',
-    ville: 'Val Maubuée',
-    adresse: '',
+    ville: 'Noisiel',
+    adresse: '7 Bd Pierre Carle<br>77186 Noisiel',
     logo: 'valcoop.jpg',
     site_web: 'https://www.valcoop.fr/',
     courriel: 'contact@valcoop.fr',
     facebook: 'https://www.facebook.com/Valcoop-713079712233414/',
-    avancement: 3,
-    lattitude: 48.84249,
-    longitude: 2.63091
+    avancement: 4,
+    lattitude: 48.85735,
+    longitude: 2.62382
   },
 
   {
@@ -748,7 +750,7 @@ export const supermarches = [
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
-    avancement: 3,
+    avancement: 4,
     lattitude: 48.87371,
     longitude: 2.08255
   },
@@ -811,15 +813,15 @@ export const supermarches = [
   {
     nom: 'La cerise sur le Gapeau',
     departement: '83',
-    ville: 'La vallée du Gapeau',
-    adresse: '136 rue du Partegal - 83210 La Farlède',
+    ville: 'La Farlède',
+    adresse: '136 Rue du Partégal<br>83210 La Farlède',
     logo: 'cerise_gapeau.png',
     site_web: 'https://www.cooplacerise.fr/',
     courriel: 'contact@cooplacerise.fr',
     facebook: 'https://www.facebook.com/lacerisesurlegapeau/',
     avancement: 4,
-    lattitude: 43.16629,
-    longitude: 6.04076
+    lattitude: 43.17083,
+    longitude: 6.03964
   },
 
   {
@@ -854,14 +856,14 @@ export const supermarches = [
     nom: 'Gem la coop',
     departement: '84',
     ville: 'Avignon',
-    adresse: '3 boulevard Talabot',
+    adresse: '49 Rue Alexandre Blanc<br>84000 Avignon',
     logo: 'gemlacoop.png',
     site_web: 'http://gem-la-coop.org/',
     courriel: 'contact@gem-la-coop.org',
     facebook: 'https://www.facebook.com/lesamiesgemlacoop/',
-    avancement: 1,
-    lattitude: 43.93735,
-    longitude: 4.81731
+    avancement: 4,
+    lattitude: 43.94053,
+    longitude: 4.82196
   },
 
   {
@@ -1006,14 +1008,14 @@ export const supermarches = [
     nom: 'La coop à nous',
     departement: '988',
     ville: 'Nouméa',
-    adresse: '14 rue bouquet de la Grye - la vallée des colons',
+    adresse: '3 impasse uitoe',
     logo: 'lacoopanous.jpg',
     site_web: 'http://lacoopanous.nc/',
     courriel: 'lacoopanous@gmail.com',
     facebook: 'https://www.facebook.com/coopanous/',
     avancement: 3,
-    lattitude: -22.26879,
-    longitude: 166.45062
+    lattitude: -22.26569,
+    longitude: 166.47021
   },
 
   {
@@ -1115,17 +1117,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'La Mini-fève',
+    nom: 'La fêve',
     departement: 'CH',
     ville: 'Meyrin',
-    adresse: '6 Rue des Arpenteurs',
+    adresse: 'Esplanade des Récréations 19<br>1217 Meyrin',
     logo: 'la_feve.jpg',
-    site_web: 'https://spp-vergers.ch/',
+    site_web: 'https://la-feve.ch/',
     courriel: 'info@spp-vergers.ch',
     facebook: 'https://www.facebook.com/SupermarcheParticipatifPaysan/',
     avancement: 4,
-    lattitude: 46.23060,
-    longitude: 6.06894
+    lattitude: 46.23182,
+    longitude: 6.07173
   },
 
   {
@@ -1404,5 +1406,33 @@ export const supermarches = [
     avancement: 5,
     lattitude: 40.47141,
     longitude: -3.69835
+  },
+
+  {
+    nom: 'La briochaine',
+    departement: '22',
+    ville: 'Saint-Brieuc',
+    adresse: '',
+    logo: 'labriochaine.png',
+    site_web: '',
+    courriel: 'bienvenue@labriochaine.fr',
+    facebook: 'https://www.facebook.com/labriochaine/',
+    avancement: 1,
+    lattitude: 48.49867,
+    longitude: -2.74692
+  },
+
+  {
+    nom: 'O Vrac Coop',
+    departement: '66',
+    ville: 'Perpignan',
+    adresse: '145 Chemin de la  Passio Vella<br>66100 Perpignan',
+    logo: 'ovracoop.jpg',
+    site_web: 'http://ovrac-coop.fr/',
+    courriel: 'o.vrac.coop66@gmail.com',
+    facebook: 'https://www.facebook.com/ovrac.coop/',
+    avancement: 4,
+    lattitude: 42.67770,
+    longitude: 2.89405
   }
 ]
