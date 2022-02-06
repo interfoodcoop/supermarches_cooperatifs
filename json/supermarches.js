@@ -151,15 +151,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Chez Marguerite',
+    nom: 'La RieCoop',
     departement: '29',
     ville: 'Riec-sur-Bélon',
-    adresse: '',
-    logo: 'marguerite.png',
+    adresse: '25 rue François Cadoret<br>29340 Riec-sur-Bélon',
+    logo: 'lariecoop.png',
+    site_web: 'https://lariecoop.wixsite.com/epicerie',
+    courriel: 'lariecoop@gmail.com',
     facebook: 'https://www.facebook.com/laRIECoop/',
-    avancement: 1,
-    lattitude: 47.8511,
-    longitude: -3.6801
+    avancement: 4,
+    lattitude: 47.84409,
+    longitude: -3.69194
   },
 
   {
