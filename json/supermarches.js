@@ -72,7 +72,7 @@ export const supermarches = [
     departement: '13',
     ville: 'Aix-en-Provence',
     adresse: '',
-    logo: 'aix_elan_coop.jpg',
+    logo: 'aixelan_nouveau.png',
     site_web: 'http://www.aixelancoop.fr/',
     courriel: 'contact.aixelancoop@gmail.com',
     facebook: 'https://www.facebook.com/AixElanCoop/',
