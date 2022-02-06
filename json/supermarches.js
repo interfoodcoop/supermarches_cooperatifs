@@ -1420,5 +1420,19 @@ export const supermarches = [
     avancement: 1,
     lattitude: 48.49867,
     longitude: -2.74692
+  },
+
+    {
+    nom: 'O Vrac Coop',
+    departement: '66',
+    ville: 'Perpignan',
+    adresse: '145 Chemin de la  Passio Vella<br>66100 Perpignan',
+    logo: 'ovracoop.jpg',
+    site_web: 'http://ovrac-coop.fr/',
+    courriel: 'o.vrac.coop66@gmail.com',
+    facebook: 'https://www.facebook.com/ovrac.coop/',
+    avancement: 4,
+    lattitude: 42.67770,
+    longitude: 2.89405
   }
 ]
