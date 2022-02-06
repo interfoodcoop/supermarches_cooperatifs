@@ -48,7 +48,7 @@ export const supermarches = [
     site_web: 'http://marcasserie.org/',
     courriel: 'contact@marcasserie.org',
     facebook: 'https://www.facebook.com/marcasserie/',
-    avancement: 3,
+    avancement: 4,
     lattitude: 49.77742,
     longitude: 4.73542
   },
