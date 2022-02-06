@@ -1434,7 +1434,7 @@ export const supermarches = [
     longitude: 2.89405
   },
 
-    {
+  {
     nom: 'La Coopette',
     departement: '49',
     ville: 'Angers',
