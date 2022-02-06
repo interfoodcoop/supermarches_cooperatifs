@@ -1406,5 +1406,19 @@ export const supermarches = [
     avancement: 5,
     lattitude: 40.47141,
     longitude: -3.69835
+  },
+
+  {
+    nom: 'La briochaine',
+    departement: '22',
+    ville: 'Saint-Brieuc',
+    adresse: '',
+    logo: 'labriochaine.png',
+    site_web: '',
+    courriel: 'bienvenue@labriochaine.fr',
+    facebook: 'https://www.facebook.com/labriochaine/',
+    avancement: 1,
+    lattitude: 48.49867,
+    longitude: -2.74692
   }
 ]
