@@ -702,15 +702,15 @@ export const supermarches = [
   {
     nom: 'Valcoop',
     departement: '77',
-    ville: 'Val Maubuée',
-    adresse: '',
+    ville: 'Noisiel',
+    adresse: '7 Bd Pierre Carle<br>77186 Noisiel',
     logo: 'valcoop.jpg',
     site_web: 'https://www.valcoop.fr/',
     courriel: 'contact@valcoop.fr',
     facebook: 'https://www.facebook.com/Valcoop-713079712233414/',
-    avancement: 3,
-    lattitude: 48.84249,
-    longitude: 2.63091
+    avancement: 4,
+    lattitude: 48.85735,
+    longitude: 2.62382
   },
 
   {
