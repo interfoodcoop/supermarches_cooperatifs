@@ -1115,17 +1115,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'La Mini-fève',
+    nom: 'La fêve',
     departement: 'CH',
     ville: 'Meyrin',
-    adresse: '6 Rue des Arpenteurs',
+    adresse: 'Esplanade des Récréations 19<br>1217 Meyrin',
     logo: 'la_feve.jpg',
-    site_web: 'https://spp-vergers.ch/',
+    site_web: 'https://la-feve.ch/',
     courriel: 'info@spp-vergers.ch',
     facebook: 'https://www.facebook.com/SupermarcheParticipatifPaysan/',
     avancement: 4,
-    lattitude: 46.23060,
-    longitude: 6.06894
+    lattitude: 46.23182,
+    longitude: 6.07173
   },
 
   {
