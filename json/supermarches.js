@@ -412,15 +412,15 @@ export const supermarches = [
   {
     nom: 'Coop des Vénètes',
     departement: '56',
-    ville: 'Vannes',
-    adresse: '',
+    ville: 'Séné',
+    adresse: '3 Rue de Lorraine<br>56860 Séné',
     logo: 'coop_venetes.jpg',
     site_web: 'https://www.coopdesvenetes.bzh/',
     courriel: 'contact@coopdesvenetes.bzh',
-    facebook: 'https://www.facebook.com/Coop-des-V%C3%A9n%C3%A8tes-1858337227811822/',
-    avancement: 2,
-    lattitude: 47.6576484,
-    longitude: -2.7735705
+    facebook: 'https://www.facebook.com/coopdesvenetes/',
+    avancement: 4,
+    lattitude: 47.65080,
+    longitude: -2.71331
   },
 
   {
