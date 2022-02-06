@@ -821,7 +821,7 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lacerisesurlegapeau/',
     avancement: 4,
     lattitude: 43.17083,
-    longitude: 6.03964,
+    longitude: 6.03964
   },
 
   {
@@ -1422,7 +1422,7 @@ export const supermarches = [
     longitude: -2.74692
   },
 
-    {
+  {
     nom: 'O Vrac Coop',
     departement: '66',
     ville: 'Perpignan',
