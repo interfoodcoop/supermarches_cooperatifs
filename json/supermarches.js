@@ -748,7 +748,7 @@ export const supermarches = [
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
-    avancement: 3,
+    avancement: 4,
     lattitude: 48.87371,
     longitude: 2.08255
   },
