@@ -811,15 +811,15 @@ export const supermarches = [
   {
     nom: 'La cerise sur le Gapeau',
     departement: '83',
-    ville: 'La vallée du Gapeau',
-    adresse: '136 rue du Partegal - 83210 La Farlède',
+    ville: 'La Farlède',
+    adresse: '136 Rue du Partégal<br>83210 La Farlède',
     logo: 'cerise_gapeau.png',
     site_web: 'https://www.cooplacerise.fr/',
     courriel: 'contact@cooplacerise.fr',
     facebook: 'https://www.facebook.com/lacerisesurlegapeau/',
     avancement: 4,
-    lattitude: 43.16629,
-    longitude: 6.04076
+    lattitude: 43.17083,
+    longitude: 6.03964,
   },
 
   {
