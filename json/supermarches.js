@@ -292,8 +292,8 @@ export const supermarches = [
     ville: 'Roanne',
     adresse: '',
     logo: 'supcoop.png',
-    site_web: 'https://www.facebook.com/communeroanne/',
-    courriel: 'mcrc.la.commune@gmail.com',
+    site_web: 'www.monepi.fr',
+    courriel: 'epi-roanne@framalistes.org',
     avancement: 1,
     lattitude: 46.03899,
     longitude: 4.05973
