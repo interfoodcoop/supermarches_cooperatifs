@@ -856,14 +856,14 @@ export const supermarches = [
     nom: 'Gem la coop',
     departement: '84',
     ville: 'Avignon',
-    adresse: '3 boulevard Talabot',
+    adresse: '49 Rue Alexandre Blanc<br>84000 Avignon',
     logo: 'gemlacoop.png',
     site_web: 'http://gem-la-coop.org/',
     courriel: 'contact@gem-la-coop.org',
     facebook: 'https://www.facebook.com/lesamiesgemlacoop/',
-    avancement: 1,
-    lattitude: 43.93735,
-    longitude: 4.81731
+    avancement: 4,
+    lattitude: 43.94053,
+    longitude: 4.82196
   },
 
   {
