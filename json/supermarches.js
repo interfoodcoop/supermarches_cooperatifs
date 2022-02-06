@@ -1412,9 +1412,7 @@ export const supermarches = [
     nom: 'La briochaine',
     departement: '22',
     ville: 'Saint-Brieuc',
-    adresse: '',
     logo: 'labriochaine.png',
-    site_web: '',
     courriel: 'bienvenue@labriochaine.fr',
     facebook: 'https://www.facebook.com/labriochaine/',
     avancement: 1,
@@ -1434,5 +1432,17 @@ export const supermarches = [
     avancement: 4,
     lattitude: 42.67770,
     longitude: 2.89405
+  },
+
+  {
+    nom: 'La Coopette',
+    departement: '49',
+    ville: 'Angers',
+    logo: 'lacoopette.png',
+    courriel: 'coopette@netc.fr',
+    facebook: 'https://www.facebook.com/coopette.angers/',
+    avancement: 3,
+    lattitude: 47.47185,
+    longitude: -0.54760
   }
 ]
