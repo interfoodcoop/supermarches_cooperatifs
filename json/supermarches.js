@@ -396,7 +396,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Grande épicerie<br> générale',
+    nom: 'Grande épicerie générale',
     departement: '54',
     ville: 'Nancy',
     adresse: '88 avenue du XX corps',
@@ -451,7 +451,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'La coop <br>des dômes',
+    nom: 'La coop des dômes',
     departement: '63',
     ville: 'Clermont-Ferrand',
     adresse: '103 rue d’Aulteribe',
@@ -506,7 +506,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Les Oies <br>Sauvages',
+    nom: 'Les Oies Sauvages',
     departement: '68',
     ville: 'Colmar',
     adresse: '27 rue du Logelbach',
@@ -520,7 +520,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Le Panier du<br> Mehlala',
+    nom: 'Le Panier du Mehlala',
     departement: '68',
     ville: 'Mulhouse',
     adresse: '52 avenue Aristide Briand',
@@ -548,7 +548,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Les fourmis sarthoise',
+    nom: 'Les fourmis sarthoises',
     departement: '72',
     ville: 'Le Mans',
     adresse: '89 rue Gambetta',
@@ -805,7 +805,7 @@ export const supermarches = [
     site_web: 'http://lacoopsurmer.fr/',
     courriel: 'bonjour@lacoopsurmer.fr',
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
-    avancement: 4,
+    avancement: 5,
     lattitude: 43.11985,
     longitude: 5.95289
   },
@@ -1117,7 +1117,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'La fêve',
+    nom: 'La fève',
     departement: 'CH',
     ville: 'Meyrin',
     adresse: 'Esplanade des Récréations 19<br>1217 Meyrin',
