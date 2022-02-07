@@ -110,6 +110,18 @@ export const supermarches = [
   },
 
   {
+    nom: 'La briochaine',
+    departement: '22',
+    ville: 'Saint-Brieuc',
+    logo: 'labriochaine.png',
+    courriel: 'bienvenue@labriochaine.fr',
+    facebook: 'https://www.facebook.com/labriochaine/',
+    avancement: 1,
+    lattitude: 48.49867,
+    longitude: -2.74692
+  },
+
+  {
     nom: "T'as meilleur temps !",
     departement: '25',
     ville: 'Besançon',
@@ -121,6 +133,20 @@ export const supermarches = [
     avancement: 4,
     lattitude: 47.2350,
     longitude: 5.9852
+  },
+
+  {
+    nom: 'La Carline',
+    departement: '26',
+    ville: 'Die',
+    adresse: '21, Rue Du Viaduc',
+    logo: 'carline.png',
+    site_web: 'https://www.lacarline.coop/',
+    courriel: 'epicerie@lacarline.coop',
+    facebook: 'https://www.facebook.com/LaCarlineCoop/',
+    avancement: 4,
+    lattitude: 44.75223,
+    longitude: 5.37471
   },
 
   {
@@ -216,6 +242,33 @@ export const supermarches = [
     avancement: 5,
     lattitude: 43.60398,
     longitude: 3.87330
+  },
+
+  {
+    nom: 'La Crèmerie',
+    departement: 'Clapiers',
+    ville: '34',
+    logo: 'la_cremerie.png',
+    site_web: 'http://www.lacremerie-coop.fr/',
+    courriel: 'contact@lacremerie-coop.fr',
+    facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
+    avancement: 1,
+    lattitude: 43.65719,
+    longitude: 3.88784
+  },
+
+  {
+    nom: 'Coop singulière',
+    departement: '34',
+    ville: 'Sète',
+    adresse: '38 rue Pierre Sémard',
+    logo: 'coop_singuliere.png',
+    site_web: 'https://coopsinguliere.fr/',
+    courriel: 'contact@coopsinguliere.fr',
+    facebook: 'https://www.facebook.com/CoopSinguliere/',
+    avancement: 4,
+    lattitude: 43.40554,
+    longitude: 3.69974
   },
 
   {
@@ -383,6 +436,18 @@ export const supermarches = [
   },
 
   {
+    nom: 'La Coopette',
+    departement: '49',
+    ville: 'Angers',
+    logo: 'lacoopette.png',
+    courriel: 'coopette@netc.fr',
+    facebook: 'https://www.facebook.com/coopette.angers/',
+    avancement: 3,
+    lattitude: 47.47185,
+    longitude: -0.54760
+  },
+
+  {
     nom: 'coop en Baie',
     departement: '50',
     ville: 'Avranches/Granville',
@@ -424,6 +489,32 @@ export const supermarches = [
   },
 
   {
+    nom: 'Graoucoop',
+    departement: '57',
+    ville: 'Metz',
+    adresse: '11 Rue du XXe corps',
+    logo: 'logo-graoucoop.png',
+    site_web: 'https://graoucoop.fr/',
+    courriel: 'info@graoucoop.fr',
+    facebook: 'https://www.facebook.com/graoucoop',
+    avancement: 4,
+    lattitude: 49.103996,
+    longitude: 6.165329
+  },
+
+  {
+    nom: 'La Cocotte',
+    departement: '58',
+    ville: 'Nevers',
+    logo: 'la_cocotte.jpg',
+    courriel: 'cooperativenevers@riseup.net',
+    facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
+    avancement: 3,
+    lattitude: 46.98903,
+    longitude: 3.16134
+  },
+
+  {
     nom: 'SuperQuinquin',
     departement: '59',
     ville: 'Lille',
@@ -435,6 +526,20 @@ export const supermarches = [
     avancement: 5,
     lattitude: 50.63228,
     longitude: 3.08717
+  },
+
+  {
+    nom: 'La Baraque En Vrac',
+    departement: '59',
+    ville: 'La Madeleine',
+    adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
+    logo: 'la_baraque_en_vrac.png',
+    site_web: 'https://labaraqueenvrac.com/',
+    courriel: 'labaraque.vrac@gmail.com',
+    facebook: 'https://www.facebook.com/labaraque.envrac/',
+    avancement: 2,
+    lattitude: 50.65143,
+    longitude: 3.06997
   },
 
   {
@@ -489,6 +594,60 @@ export const supermarches = [
     avancement: 4,
     lattitude: 43.502204,
     longitude: -1.4705459
+  },
+
+  {
+    nom: 'Larrunkoop',
+    departement: '64',
+    ville: 'Urrugne',
+    adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
+    logo: 'Larrunkoop.jpg',
+    courriel: 'larrunkoop@gmail.com',
+    facebook: 'https://www.facebook.com/larrunkoop/',
+    avancement: 4,
+    lattitude: 43.36436,
+    longitude: -1.69864
+  },
+
+  {
+    nom: 'Hendaia Koop',
+    departement: '64',
+    ville: 'Hendaye',
+    adresse: '10 rue du Port <br> 64700 Hendaye',
+    logo: 'hendaiakoop.png',
+    site_web: 'https://hendaiakoop.org',
+    courriel: 'hendaiakoop@gmail.com',
+    facebook: 'https://www.facebook.com/hendaiakoop/',
+    avancement: 4,
+    lattitude: 43.35817,
+    longitude: -1.77568
+  },
+
+  {
+    nom: 'Coop des Luys',
+    departement: '64',
+    ville: 'Sauvagnon',
+    adresse: '3 place du champ de foire',
+    logo: 'coop-luys.jpg',
+    site_web: 'https://coopdesluys.fr/',
+    courriel: 'contact.coopdesluys@gmail.com',
+    avancement: 4,
+    lattitude: 43.404078,
+    longitude: -0.38633
+  },
+
+  {
+    nom: 'O Vrac Coop',
+    departement: '66',
+    ville: 'Perpignan',
+    adresse: '145 Chemin de la  Passio Vella<br>66100 Perpignan',
+    logo: 'ovracoop.jpg',
+    site_web: 'http://ovrac-coop.fr/',
+    courriel: 'o.vrac.coop66@gmail.com',
+    facebook: 'https://www.facebook.com/ovrac.coop/',
+    avancement: 4,
+    lattitude: 42.67770,
+    longitude: 2.89405
   },
 
   {
@@ -697,6 +856,20 @@ export const supermarches = [
     avancement: 4,
     lattitude: 49.50015,
     longitude: 0.12778
+  },
+
+  {
+    nom: 'KissiKol',
+    departement: '76',
+    ville: 'Rouen',
+    adresse: '11-13 rue Saint Vivien, 76000 Rouen',
+    logo: 'kissikol.png',
+    site_web: 'http://magasincooperatifrouen.fr',
+    courriel: 'kissikol@ik.me',
+    facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
+    avancement: 3,
+    lattitude: 49.44242,
+    longitude: 1.10561
   },
 
   {
@@ -1089,6 +1262,34 @@ export const supermarches = [
   },
 
   {
+    nom: 'Bloum',
+    departement: 'BE',
+    ville: 'Forest',
+    adresse: '174 Rue Des Alliés',
+    logo: 'bloum_logo.png',
+    site_web: 'https://bloum.be/',
+    courriel: 'info@bloum.be',
+    facebook: 'https://www.facebook.com/bloumcoop1190/',
+    avancement: 4,
+    lattitude: 50.81946,
+    longitude: 4.32684
+  },
+
+  {
+    nom: 'Macavrac',
+    departement: 'BE',
+    ville: 'Wavre',
+    adresse: 'Rue des Fontaines 51<br>1300 Wavre',
+    logo: 'macavrac.png',
+    site_web: 'https://macavrac.be/',
+    courriel: 'miam@macavrac.be',
+    facebook: 'https://www.facebook.com/Macavrac/',
+    avancement: 4,
+    lattitude: 50.71466,
+    longitude: 4.60906
+  },
+
+  {
     nom: 'Co-é-sion - La Cagette 1791',
     departement: 'CH',
     ville: 'Champlan',
@@ -1242,117 +1443,6 @@ export const supermarches = [
   },
 
   {
-    nom: 'Coop des Luys',
-    departement: '64',
-    ville: 'Sauvagnon',
-    adresse: '3 place du champ de foire',
-    logo: 'coop-luys.jpg',
-    site_web: 'https://coopdesluys.fr/',
-    courriel: 'contact.coopdesluys@gmail.com',
-    avancement: 4,
-    lattitude: 43.404078,
-    longitude: -0.38633
-  },
-
-  {
-    nom: 'Graoucoop',
-    departement: '57',
-    ville: 'Metz',
-    adresse: '11 Rue du XXe corps',
-    logo: 'logo-graoucoop.png',
-    site_web: 'https://graoucoop.fr/',
-    courriel: 'info@graoucoop.fr',
-    facebook: 'https://www.facebook.com/graoucoop',
-    avancement: 4,
-    lattitude: 49.103996,
-    longitude: 6.165329
-  },
-
-  {
-    nom: 'Bloum',
-    departement: 'BE',
-    ville: 'Forest',
-    adresse: '174 Rue Des Alliés',
-    logo: 'bloum_logo.png',
-    site_web: 'https://bloum.be/',
-    courriel: 'info@bloum.be',
-    facebook: 'https://www.facebook.com/bloumcoop1190/',
-    avancement: 4,
-    lattitude: 50.81946,
-    longitude: 4.32684
-  },
-
-  {
-    nom: 'La Carline',
-    departement: '26',
-    ville: 'Die',
-    adresse: '21, Rue Du Viaduc',
-    logo: 'carline.png',
-    site_web: 'https://www.lacarline.coop/',
-    courriel: 'epicerie@lacarline.coop',
-    facebook: 'https://www.facebook.com/LaCarlineCoop/',
-    avancement: 4,
-    lattitude: 44.75223,
-    longitude: 5.37471
-  },
-
-  {
-    nom: 'Coop singulière',
-    departement: '34',
-    ville: 'Sète',
-    adresse: '38 rue Pierre Sémard',
-    logo: 'coop_singuliere.png',
-    site_web: 'https://coopsinguliere.fr/',
-    courriel: 'contact@coopsinguliere.fr',
-    facebook: 'https://www.facebook.com/CoopSinguliere/',
-    avancement: 4,
-    lattitude: 43.40554,
-    longitude: 3.69974
-  },
-
-  {
-    nom: 'Hendaia Koop',
-    departement: '64',
-    ville: 'Hendaye',
-    adresse: '10 rue du Port <br> 64700 Hendaye',
-    logo: 'hendaiakoop.png',
-    site_web: 'https://hendaiakoop.org',
-    courriel: 'hendaiakoop@gmail.com',
-    facebook: 'https://www.facebook.com/hendaiakoop/',
-    avancement: 4,
-    lattitude: 43.35817,
-    longitude: -1.77568
-  },
-
-  {
-    nom: 'Macavrac',
-    departement: 'BE',
-    ville: 'Wavre',
-    adresse: 'Rue des Fontaines 51<br>1300 Wavre',
-    logo: 'macavrac.png',
-    site_web: 'https://macavrac.be/',
-    courriel: 'miam@macavrac.be',
-    facebook: 'https://www.facebook.com/Macavrac/',
-    avancement: 4,
-    lattitude: 50.71466,
-    longitude: 4.60906
-  },
-
-  {
-    nom: 'KissiKol',
-    departement: '76',
-    ville: 'Rouen',
-    adresse: '11-13 rue Saint Vivien, 76000 Rouen',
-    logo: 'kissikol.png',
-    site_web: 'http://magasincooperatifrouen.fr',
-    courriel: 'kissikol@ik.me',
-    facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
-    avancement: 3,
-    lattitude: 49.44242,
-    longitude: 1.10561
-  },
-
-  {
     nom: 'Dublin FoodCoop',
     departement: 'IE',
     ville: 'Dublin',
@@ -1406,95 +1496,5 @@ export const supermarches = [
     avancement: 5,
     lattitude: 40.47141,
     longitude: -3.69835
-  },
-
-  {
-    nom: 'La briochaine',
-    departement: '22',
-    ville: 'Saint-Brieuc',
-    logo: 'labriochaine.png',
-    courriel: 'bienvenue@labriochaine.fr',
-    facebook: 'https://www.facebook.com/labriochaine/',
-    avancement: 1,
-    lattitude: 48.49867,
-    longitude: -2.74692
-  },
-
-  {
-    nom: 'O Vrac Coop',
-    departement: '66',
-    ville: 'Perpignan',
-    adresse: '145 Chemin de la  Passio Vella<br>66100 Perpignan',
-    logo: 'ovracoop.jpg',
-    site_web: 'http://ovrac-coop.fr/',
-    courriel: 'o.vrac.coop66@gmail.com',
-    facebook: 'https://www.facebook.com/ovrac.coop/',
-    avancement: 4,
-    lattitude: 42.67770,
-    longitude: 2.89405
-  },
-
-  {
-    nom: 'La Coopette',
-    departement: '49',
-    ville: 'Angers',
-    logo: 'lacoopette.png',
-    courriel: 'coopette@netc.fr',
-    facebook: 'https://www.facebook.com/coopette.angers/',
-    avancement: 3,
-    lattitude: 47.47185,
-    longitude: -0.54760
-  },
-
-  {
-    nom: 'Larrunkoop',
-    departement: '64',
-    ville: 'Urrugne',
-    adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
-    logo: 'Larrunkoop.jpg',
-    courriel: 'larrunkoop@gmail.com',
-    facebook: 'https://www.facebook.com/larrunkoop/',
-    avancement: 4,
-    lattitude: 43.36436,
-    longitude: -1.69864
-  },
-
-  {
-    nom: 'La Crèmerie',
-    departement: 'Clapiers',
-    ville: '34',
-    logo: 'la_cremerie.png',
-    site_web: 'http://www.lacremerie-coop.fr/',
-    courriel: 'contact@lacremerie-coop.fr',
-    facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
-    avancement: 1,
-    lattitude: 43.65719,
-    longitude: 3.88784
-  },
-
-  {
-    nom: 'La Cocotte',
-    departement: '58',
-    ville: 'Nevers',
-    logo: 'la_cocotte.jpg',
-    courriel: 'cooperativenevers@riseup.net',
-    facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
-    avancement: 3,
-    lattitude: 46.98903,
-    longitude: 3.16134
-  },
-
-  {
-    nom: 'La Baraque En Vrac',
-    departement: '59',
-    ville: 'La Madeleine',
-    adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
-    logo: 'la_baraque_en_vrac.png',
-    site_web: 'https://labaraqueenvrac.com/',
-    courriel: 'labaraque.vrac@gmail.com',
-    facebook: 'https://www.facebook.com/labaraque.envrac/',
-    avancement: 2,
-    lattitude: 50.65143,
-    longitude: 3.06997
   }
 ]
