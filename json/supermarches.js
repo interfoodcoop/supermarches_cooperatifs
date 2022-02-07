@@ -396,7 +396,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Grande épicerie<br> générale',
+    nom: 'Grande épicerie générale',
     departement: '54',
     ville: 'Nancy',
     adresse: '88 avenue du XX corps',
@@ -451,7 +451,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'La coop <br>des dômes',
+    nom: 'La coop des dômes',
     departement: '63',
     ville: 'Clermont-Ferrand',
     adresse: '103 rue d’Aulteribe',
@@ -506,7 +506,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Les Oies <br>Sauvages',
+    nom: 'Les Oies Sauvages',
     departement: '68',
     ville: 'Colmar',
     adresse: '27 rue du Logelbach',
@@ -520,7 +520,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Le Panier du<br> Mehlala',
+    nom: 'Le Panier du Mehlala',
     departement: '68',
     ville: 'Mulhouse',
     adresse: '52 avenue Aristide Briand',
@@ -548,7 +548,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Les fourmis sarthoise',
+    nom: 'Les fourmis sarthoises',
     departement: '72',
     ville: 'Le Mans',
     adresse: '89 rue Gambetta',
@@ -805,7 +805,7 @@ export const supermarches = [
     site_web: 'http://lacoopsurmer.fr/',
     courriel: 'bonjour@lacoopsurmer.fr',
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
-    avancement: 4,
+    avancement: 5,
     lattitude: 43.11985,
     longitude: 5.95289
   },
@@ -1117,7 +1117,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'La fêve',
+    nom: 'La fève',
     departement: 'CH',
     ville: 'Meyrin',
     adresse: 'Esplanade des Récréations 19<br>1217 Meyrin',
@@ -1444,5 +1444,57 @@ export const supermarches = [
     avancement: 3,
     lattitude: 47.47185,
     longitude: -0.54760
+  },
+
+  {
+    nom: 'Larrunkoop',
+    departement: '64',
+    ville: 'Urrugne',
+    adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
+    logo: 'Larrunkoop.jpg',
+    courriel: 'larrunkoop@gmail.com',
+    facebook: 'https://www.facebook.com/larrunkoop/',
+    avancement: 4,
+    lattitude: 43.36436,
+    longitude: -1.69864
+  },
+
+  {
+    nom: 'La Crèmerie',
+    departement: 'Clapiers',
+    ville: '34',
+    logo: 'la_cremerie.png',
+    site_web: 'http://www.lacremerie-coop.fr/',
+    courriel: 'contact@lacremerie-coop.fr',
+    facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
+    avancement: 1,
+    lattitude: 43.65719,
+    longitude: 3.88784
+  },
+
+  {
+    nom: 'La Cocotte',
+    departement: '58',
+    ville: 'Nevers',
+    logo: 'la_cocotte.jpg',
+    courriel: 'cooperativenevers@riseup.net',
+    facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
+    avancement: 3,
+    lattitude: 46.98903,
+    longitude: 3.16134
+  },
+
+  {
+    nom: 'La Baraque En Vrac',
+    departement: '59',
+    ville: 'La Madeleine',
+    adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
+    logo: 'la_baraque_en_vrac.png',
+    site_web: 'https://labaraqueenvrac.com/',
+    courriel: 'labaraque.vrac@gmail.com',
+    facebook: 'https://www.facebook.com/labaraque.envrac/',
+    avancement: 2,
+    lattitude: 50.65143,
+    longitude: 3.06997
   }
 ]
