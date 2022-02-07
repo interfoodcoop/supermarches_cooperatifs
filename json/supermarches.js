@@ -1444,5 +1444,57 @@ export const supermarches = [
     avancement: 3,
     lattitude: 47.47185,
     longitude: -0.54760
+  },
+
+  {
+    nom: 'Larrunkoop',
+    departement: '64',
+    ville: 'Urrugne',
+    adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
+    logo: 'Larrunkoop.jpg',
+    courriel: 'larrunkoop@gmail.com',
+    facebook: 'https://www.facebook.com/larrunkoop/',
+    avancement: 4,
+    lattitude: 43.36436,
+    longitude: -1.69864
+  },
+
+  {
+    nom: 'La Crèmerie',
+    departement: 'Clapiers',
+    ville: '34',
+    logo: 'la_cremerie.png',
+    site_web: 'http://www.lacremerie-coop.fr/',
+    courriel: 'contact@lacremerie-coop.fr',
+    facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
+    avancement: 1,
+    lattitude: 43.65719,
+    longitude: 3.88784
+  },
+
+  {
+    nom: 'La Cocotte',
+    departement: '58',
+    ville: 'Nevers',
+    logo: 'la_cocotte.jpg',
+    courriel: 'cooperativenevers@riseup.net',
+    facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
+    avancement: 3,
+    lattitude: 46.98903,
+    longitude: 3.16134
+  },
+
+  {
+    nom: 'La Baraque En Vrac'',
+    departement: '59',
+    ville: 'La Madeleine',
+    adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
+    logo: 'la_baraque_en_vrac.png',
+    site_web: 'https://labaraqueenvrac.com/',
+    courriel: 'labaraque.vrac@gmail.com',
+    facebook: 'https://www.facebook.com/labaraque.envrac/',
+    avancement: 2,
+    lattitude: 50.65143,
+    longitude: 3.06997
   }
 ]
