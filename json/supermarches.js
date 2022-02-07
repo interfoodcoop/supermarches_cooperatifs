@@ -1485,7 +1485,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'La Baraque En Vrac'',
+    nom: 'La Baraque En Vrac',
     departement: '59',
     ville: 'La Madeleine',
     adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
