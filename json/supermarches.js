@@ -246,8 +246,8 @@ export const supermarches = [
 
   {
     nom: 'La Crèmerie',
-    departement: 'Clapiers',
-    ville: '34',
+    departement: '34',
+    ville: 'Clapiers',
     logo: 'la_cremerie.png',
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
@@ -597,7 +597,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Larrunkoop',
+    nom: 'Larrunkoop Urrugne',
     departement: '64',
     ville: 'Urrugne',
     adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
