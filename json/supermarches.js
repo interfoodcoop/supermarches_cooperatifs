@@ -1498,7 +1498,7 @@ export const supermarches = [
     longitude: -3.69835
   },
 
-    {
+  {
     nom: 'foodcoops.de',
     departement: 'DE',
     ville: 'Pays Allemagne',
@@ -1509,7 +1509,7 @@ export const supermarches = [
     longitude: 10.545
   },
 
-    {
+  {
     nom: 'foodcoops.at',
     departement: 'AT',
     ville: 'Pays Autriche',
