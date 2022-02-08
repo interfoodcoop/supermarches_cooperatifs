@@ -1496,5 +1496,27 @@ export const supermarches = [
     avancement: 5,
     lattitude: 40.47141,
     longitude: -3.69835
+  },
+
+    {
+    nom: 'foodcoops.de',
+    departement: 'DE',
+    ville: 'Pays Allemagne',
+    logo: 'foodcoop_bundes_ag.png',
+    site_web: 'http://www.oekoop.de/bag_contenido-4.8/cms/front_content.php?idcat=25',
+    avancement: 5,
+    lattitude: 51.591,
+    longitude: 10.545
+  },
+
+    {
+    nom: 'foodcoops.at',
+    departement: 'AT',
+    ville: 'Pays Autriche',
+    logo: 'foodcops_at.png',
+    site_web: 'https://foodcoops.at/bestehende-foodcoops/',
+    avancement: 5,
+    lattitude: 47.881,
+    longitude: 14.770
   }
 ]
