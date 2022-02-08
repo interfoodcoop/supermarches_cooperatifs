@@ -246,8 +246,8 @@ export const supermarches = [
 
   {
     nom: 'La Crèmerie',
-    departement: 'Clapiers',
-    ville: '34',
+    departement: '34',
+    ville: 'Clapiers',
     logo: 'la_cremerie.png',
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
@@ -597,7 +597,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'Larrunkoop',
+    nom: 'Larrunkoop Urrugne',
     departement: '64',
     ville: 'Urrugne',
     adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
@@ -1496,5 +1496,27 @@ export const supermarches = [
     avancement: 5,
     lattitude: 40.47141,
     longitude: -3.69835
+  },
+
+  {
+    nom: 'foodcoops.de',
+    departement: 'DE',
+    ville: 'Pays Allemagne',
+    logo: 'foodcoop_bundes_ag.png',
+    site_web: 'http://www.oekoop.de/bag_contenido-4.8/cms/front_content.php?idcat=25',
+    avancement: 5,
+    lattitude: 51.591,
+    longitude: 10.545
+  },
+
+  {
+    nom: 'foodcoops.at',
+    departement: 'AT',
+    ville: 'Pays Autriche',
+    logo: 'foodcops_at.png',
+    site_web: 'https://foodcoops.at/bestehende-foodcoops/',
+    avancement: 5,
+    lattitude: 47.881,
+    longitude: 14.770
   }
 ]
