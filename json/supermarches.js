@@ -289,14 +289,14 @@ export const supermarches = [
     nom: 'Le troglo',
     departement: '37',
     ville: 'Tours',
-    adresse: '',
+    adresse: '15, Bd Louis XI 37000 Tours',
     logo: 'troglo.webp',
     site_web: 'https://www.le-troglo.fr/',
     courriel: 'coop.troglo@gmail.com',
     facebook: 'https://www.facebook.com/LeTroglo/',
     avancement: 1,
-    lattitude: 47.3943,
-    longitude: 0.6951
+    lattitude: 47.37469,
+    longitude: 0.67230
   },
 
   {
