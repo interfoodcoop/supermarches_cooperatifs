@@ -1116,7 +1116,7 @@ export const supermarches = [
     logo: 'caravane.png',
     site_web: 'http://lacaravanecoop.fr/',
     courriel: 'contact@lacaravanecoop.fr',
-    facebook: 'https://www.facebook.com/Lacaravanedemontreuil/',
+    facebook: 'https://www.facebook.com/Lacaravanecoop',
     avancement: 4,
     lattitude: 48.85985,
     longitude: 2.44549
