@@ -1492,7 +1492,7 @@ export const supermarches = [
     logo: 'levorace.svg',
     site_web: 'https://levorace.ch/',
     courriel: 'info@levorace.ch',
-    facebook: 'https://www.facebook.com/VracrieVully',
+    facebook: 'https://www.facebook.com/levorace.epicerie',
     avancement: 4,
     lattitude: 46.5249147,
     longitude: 6.5748100
