@@ -1535,7 +1535,7 @@ export const supermarches = [
   },
 
   {
-    nom: 'L'Ortie Folle',
+    nom: 'L ortie folle',
     departement: 'CA',
     ville: 'Montréal',
     adresse: 'Montreal, QC, Canada, Quebec',
