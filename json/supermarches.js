@@ -1373,6 +1373,173 @@ export const supermarches = [
   },
 
   {
+    nom: 'L\'épicerie d\'à côté',
+    departement: 'CH',
+    ville: 'Neuchâtel',
+    adresse: 'Rue du Tertre 12',
+    logo: 'lepiceriedacote.svg',
+    site_web: 'https://lepiceriedacote.ch/',
+    courriel: 'contact@lepiceriedacote.ch',
+    facebook: 'https://www.facebook.com/lepiceriedacote',
+    avancement: 4,
+    lattitude: 46.9944222,
+    longitude: 6.9306194
+  },
+
+  {
+    nom: 'Epicentre',
+    departement: 'CH',
+    ville: 'Boudry',
+    adresse: 'Rue Louis-Favre 36',
+    logo: 'epicentreboudry.svg',
+    site_web: 'https://epicentre-boudry.ch/',
+    courriel: 'info@epicentre-boudry.ch',
+    facebook: 'https://www.facebook.com/EpicerieVracBoudry/',
+    avancement: 4,
+    lattitude: 46.9488861,
+    longitude: 6.8358758
+  },
+
+  {
+    nom: 'Epicoop (Riviera)',
+    departement: 'CH',
+    ville: 'Vevey',
+    adresse: 'Rue des Marronniers 3B',
+    logo: 'epicoop.svg',
+    site_web: 'https://epicoop.ch/',
+    courriel: 'contact@epicoop.ch',
+    facebook: 'https://www.facebook.com/EpicoopRiviera/',
+    avancement: 4,
+    lattitude: 46.4661444,
+    longitude: 6.8425322
+  },
+
+  {
+    nom: 'Marché d\'ici',
+    departement: 'CH',
+    ville: 'Vallorbe',
+    adresse: 'Place de la Liberté 6',
+    logo: 'marchedici.jpg',
+    site_web: 'https://about.marchedici.ch/',
+    courriel: 'epicerie@marchedici.ch',
+    facebook: 'https://www.facebook.com/March%C3%A9-dici-103369157984126/',
+    avancement: 4,
+    lattitude: 46.7118111,
+    longitude: 6.3761211
+  },
+
+  {
+    nom: 'Coupe Circuit',
+    departement: 'CH',
+    ville: 'Lausanne',
+    adresse: 'Jardins-de-Prélaz 8',
+    logo: 'coupecircuit.svg',
+    site_web: 'https://coupe-circuit.ch/',
+    courriel: 'epicerie@coupe-circuit.ch',
+    facebook: 'https://www.facebook.com/epicerie.coupe.circuit',
+    avancement: 4,
+    lattitude: 46.5268883,
+    longitude: 6.6113325
+  },
+
+  {
+    nom: 'Le Jardin Vivant',
+    departement: 'CH',
+    ville: 'Lausanne',
+    adresse: 'Av. Louis-Ruchonnet 33',
+    logo: 'jardinvivant.svg',
+    site_web: 'https://lejardinvivant.ch/',
+    courriel: 'coop@lejardinvivant.ch',
+    facebook: 'https://www.facebook.com/lejardinvivantlausanne',
+    avancement: 4,
+    lattitude: 46.5190778,
+    longitude: 6.6243197
+  },
+
+  {
+    nom: 'Le Marché Saint-Germain',
+    departement: 'CH',
+    ville: 'Porrentruy',
+    adresse: 'Route de Courgenay 18',
+    logo: 'lemarchesaintgermain.svg',
+    site_web: 'https://lemarchesaintgermain.ch/',
+    courriel: 'info@lemarchesaintgermain.ch',
+    facebook: 'https://www.facebook.com/lemarchesaintgermain',
+    avancement: 4,
+    lattitude: 47.4158272,
+    longitude: 7.0798611
+  },
+
+  {
+    nom: 'La Vracrie',
+    departement: 'CH',
+    ville: 'Praz',
+    adresse: 'Route Principale 90',
+    logo: 'lavracrie.svg',
+    site_web: 'https://lavracrie.ch/',
+    courriel: 'info@lavracrie.ch',
+    facebook: 'https://www.facebook.com/VracrieVully',
+    avancement: 4,
+    lattitude: 46.9553806,
+    longitude: 7.1021961
+  },
+
+  {
+    nom: 'La Vorace',
+    departement: 'CH',
+    ville: 'Chavannes-près-Renens',
+    adresse: 'Route de Praz-Véguey 29',
+    logo: 'levorace.svg',
+    site_web: 'https://levorace.ch/',
+    courriel: 'info@levorace.ch',
+    facebook: 'https://www.facebook.com/levorace.epicerie',
+    avancement: 4,
+    lattitude: 46.5249147,
+    longitude: 6.5748100
+  },
+
+  {
+    nom: 'Le Local',
+    departement: 'CH',
+    ville: 'Nyon',
+    adresse: 'Chemin du Midi 8',
+    logo: 'lelocalnyon.png',
+    site_web: 'https://lelocal-nyon.ch/',
+    courriel: 'info@lelocal-nyon.ch',
+    facebook: 'https://www.facebook.com/Lelocalnyon/',
+    avancement: 4,
+    lattitude: 46.3818228,
+    longitude: 6.2356514
+  },
+
+  {
+    nom: 'La Superethic',
+    departement: 'CH',
+    ville: 'Neuchâtel',
+    adresse: 'Rue de la Serre 11',
+    logo: 'superethic.png',
+    site_web: 'https://superethic.ch/',
+    courriel: 'info@superethic.ch',
+    facebook: 'https://www.facebook.com/LaSuperethic',
+    avancement: 4,
+    lattitude: 46.9937853,
+    longitude: 6.9323344
+  },
+
+  {
+    nom: 'La Canopée',
+    departement: 'CH',
+    ville: 'Muraz (Sierre)',
+    adresse: 'Rue de Mura 27',
+    logo: 'lacanopee.png',
+    site_web: 'https://epicerielacanopee.ch/',
+    courriel: 'epiceriemuraz@gmail.com',
+    avancement: 4,
+    lattitude: 46.2980042,
+    longitude: 7.5292742
+  },
+
+  {
     nom: "The People's <br>Supermarket",
     departement: 'GB',
     ville: 'Londres',
