@@ -1520,7 +1520,7 @@ export const supermarches = [
     longitude: 14.770
   },
 
-    {
+  {
     nom: 'Le détour',
     departement: 'CA',
     ville: 'Montréal',
