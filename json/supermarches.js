@@ -1532,8 +1532,8 @@ export const supermarches = [
     avancement: 4,
     lattitude: 45.48118,
     longitude: -73.55223
-  }
-  
+  },
+
   {
     nom: 'L'Ortie Folle',
     departement: 'CA',
