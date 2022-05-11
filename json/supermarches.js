@@ -1532,5 +1532,19 @@ export const supermarches = [
     avancement: 4,
     lattitude: 45.48118,
     longitude: -73.55223
+  },
+
+  {
+    nom: 'L ortie folle',
+    departement: 'CA',
+    ville: 'Montréal',
+    adresse: 'Montreal, QC, Canada, Quebec',
+    logo: 'logo_ortiefolle_canada.png',
+    site_web: 'https://ortiefolle.org',
+    courriel: 'epiceriecoopmtl@gmail.com',
+    facebook: 'https://www.facebook.com/lortiefolle',
+    avancement: 2,
+    lattitude: 45.39785,
+    longitude: -73.8122
   }
 ]
