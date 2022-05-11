@@ -1518,7 +1518,7 @@ export const supermarches = [
     avancement: 5,
     lattitude: 47.881,
     longitude: 14.770
-  }
+  },
 
     {
     nom: 'Le détour',
@@ -1532,5 +1532,5 @@ export const supermarches = [
     avancement: 4,
     lattitude: 45.48118,
     longitude: -73.55223
-  },
+  }
 ]
