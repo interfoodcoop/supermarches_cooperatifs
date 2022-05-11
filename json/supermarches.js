@@ -1518,5 +1518,19 @@ export const supermarches = [
     avancement: 5,
     lattitude: 47.881,
     longitude: 14.770
+  },
+
+  {
+    nom: 'Le détour',
+    departement: 'CA',
+    ville: 'Montréal',
+    adresse: '1900 rue le Ber local 102 <br> Montréal, QC H3K 2A4',
+    logo: 'logo_le_detour_canada.png ',
+    site_web: 'https://wordpress.epicerieledetour.org/',
+    courriel: 'info@epicerieledetour.org',
+    facebook: 'https://www.facebook.com/epicerieledetour',
+    avancement: 4,
+    lattitude: 45.48118,
+    longitude: -73.55223
   }
 ]
