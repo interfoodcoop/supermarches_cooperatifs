@@ -56,15 +56,15 @@ export const supermarches = [
   {
     nom: 'Super Cafoutch',
     departement: '13',
-    ville: 'Marseille 2',
-    adresse: '14 rue Louis Astouin',
+    ville: 'Marseille 2è arr.',
+    adresse: '16 rue du Chevalier Roze',
     logo: 'super_cafoutch.png',
     site_web: 'https://supercafoutch.fr/',
     courriel: 'contact@supercafoutch.fr',
     facebook: 'https://www.facebook.com/supercafoutch/',
-    avancement: 4,
-    lattitude: 43.30116,
-    longitude: 5.37149
+    avancement: 5,
+    lattitude: 43.29856,
+    longitude: 5.37166
   },
 
   {
