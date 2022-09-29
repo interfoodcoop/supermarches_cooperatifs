@@ -875,15 +875,15 @@ export const supermarches = [
   {
     nom: 'Valcoop',
     departement: '77',
-    ville: 'Noisiel',
-    adresse: '7 Bd Pierre Carle<br>77186 Noisiel',
+    ville: 'Torcy',
+    adresse: '4 All. Emile Reynaud <br>77200 Torcy',
     logo: 'valcoop.jpg',
     site_web: 'https://www.valcoop.fr/',
     courriel: 'contact@valcoop.fr',
     facebook: 'https://www.facebook.com/Valcoop-713079712233414/',
     avancement: 4,
-    lattitude: 48.85735,
-    longitude: 2.62382
+    lattitude: 48.83313,
+    longitude: 2.66131
   },
 
   {
