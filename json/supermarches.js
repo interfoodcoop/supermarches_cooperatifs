@@ -240,7 +240,7 @@ export const supermarches = [
     courriel: 'lesamis@lacoope.fr',
     facebook: 'https://www.facebook.com/lacoopelangon/',
     avancement: 4,
-    lattitude: 44.5474
+    lattitude: 44.5474,
     longitude: -0.2490
   },
 
