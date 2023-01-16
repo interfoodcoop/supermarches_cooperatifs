@@ -1541,6 +1541,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'La Brouette',
+    departement: 'CH',
+    ville: 'Lausanne',
+    adresse: 'Av. d\'Echallens 79',
+    logo: 'labrouette.png',
+    site_web: 'https://labrouette.ch',
+    courriel: 'info@labrouette.ch',
+    facebook: 'https://www.facebook.com/epicerielabrouette',
+    avancement: 5,
+    lattitude: 46.528140,
+    longitude: 6.615700
+  },
+
+  {
     nom: 'La Canopée',
     departement: 'CH',
     ville: 'Muraz (Sierre)',
