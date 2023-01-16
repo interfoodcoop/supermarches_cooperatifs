@@ -231,6 +231,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'La Coopé',
+    departement: '33',
+    ville: 'Langon',
+    adresse: '3 chemin de la garenne<br>33210 Langon',
+    logo: 'langon_les_amis_de_la_coope.png',
+    site_web: 'https://lacoope.fr/',
+    courriel: 'lesamis@lacoope.fr',
+    facebook: 'https://www.facebook.com/lacoopelangon/',
+    avancement: 4,
+    lattitude: 44.5474,
+    longitude: -0.2490
+  },
+
+  {
     nom: 'La cagette',
     departement: '34',
     ville: 'Montpellier',
