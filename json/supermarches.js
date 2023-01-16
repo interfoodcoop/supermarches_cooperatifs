@@ -1527,6 +1527,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'Tabernam',
+    departement: 'CH',
+    ville: 'Yverdon',
+    adresse: '',
+    logo: 'tabernam.png',
+    site_web: 'https://tabernam.ch',
+    courriel: 'info@tabernam.ch',
+    facebook: 'https://www.facebook.com/tabernam.epicerie',
+    avancement: 1,
+    lattitude: 46.788097,
+    longitude: 6.648250
+  },
+
+  {
     nom: 'La Canopée',
     departement: 'CH',
     ville: 'Muraz (Sierre)',
