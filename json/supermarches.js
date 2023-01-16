@@ -1359,20 +1359,6 @@ export const supermarches = [
   },
 
   {
-    nom: 'Epicoop Riviera',
-    departement: 'CH',
-    ville: 'Vevey',
-    adresse: 'Rue des Marroniers 3B',
-    logo: 'riviera.png',
-    site_web: 'https://epicoopriviera.ch/',
-    courriel: 'contact@epicoopriviera.ch',
-    facebook: 'https://www.facebook.com/EpicoopRiviera/',
-    avancement: 3,
-    lattitude: 46.46605,
-    longitude: 6.84260
-  },
-
-  {
     nom: 'L\'épicerie d\'à côté',
     departement: 'CH',
     ville: 'Neuchâtel',
@@ -1401,17 +1387,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Epicoop (Riviera)',
+    nom: 'Epicoop',
     departement: 'CH',
     ville: 'Vevey',
     adresse: 'Rue des Marronniers 3B',
     logo: 'epicoop.svg',
-    site_web: 'https://epicoop.ch/',
+    site_web: 'https://epicoop.ch',
     courriel: 'contact@epicoop.ch',
     facebook: 'https://www.facebook.com/EpicoopRiviera/',
     avancement: 4,
-    lattitude: 46.4661444,
-    longitude: 6.8425322
+    lattitude: 46.4660495,
+    longitude: 6.84262831
   },
 
   {
