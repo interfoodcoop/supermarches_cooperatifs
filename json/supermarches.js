@@ -229,7 +229,7 @@ export const supermarches = [
     lattitude: 45.5070,
     longitude: -1.1197
   },
-  
+
   {
     nom: 'La Coopé',
     departement: '33',
