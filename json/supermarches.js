@@ -1457,6 +1457,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'Le Rucher',
+    departement: 'CH',
+    ville: 'La Chaux-de-Fonds',
+    adresse: 'Rue des 22-Cantons 17',
+    logo: 'lerucher.png',
+    site_web: 'https://lerucher.ch',
+    courriel: 'epicerie@lerucher.ch',
+    facebook: '',
+    avancement: 4,
+    lattitude: 47.111300,
+    longitude: 6.825810
+  },
+
+  {
     nom: 'Le Marché Saint-Germain',
     departement: 'CH',
     ville: 'Porrentruy',
