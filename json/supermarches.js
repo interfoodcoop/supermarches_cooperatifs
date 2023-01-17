@@ -267,7 +267,7 @@ export const supermarches = [
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
-    avancement: 1,
+    avancement: 4,
     lattitude: 43.65719,
     longitude: 3.88784
   },
