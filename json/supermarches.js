@@ -329,6 +329,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'Les ami.e.s de Coop\'cinelles',
+    departement: '38',
+    ville: 'Bourgoin Jallieu',
+    adresse: '28 chemin des couloures<br>38300 Bourgoin Jallieu',
+    logo: 'coop-cinelles.jpg',
+    site_web: 'https://les-amies-de-coopcinelles.pepsup.com/',
+    courriel: 'coopcinelles38@gmail.com',
+    facebook: 'https://www.facebook.com/lesami.e.sdecoopcinelles/',
+    avancement: 4,
+    lattitude: 45.6130,
+    longitude: 5.2782
+  },
+
+  {
     nom: 'La Marm"Hotte',
     departement: '38',
     ville: 'Barraux',
