@@ -328,6 +328,20 @@ export const supermarches = [
   },
 
   {
+    nom: 'La Marm"Hotte',
+    departement: '38',
+    ville: 'Barraux',
+    adresse: '55 Grande Rue<br>38530 Barraux',
+    logo: 'la_marm_hotte.jpg',
+    site_web: 'https://la-marmhotte.org/',
+    courriel: 'contact@la-marmhotte.org',
+    facebook: 'https://www.facebook.com/lamarmhotte/',
+    avancement: 4,
+    lattitude: 45.4339,
+    longitude: 5.9769
+  },
+
+  {
     nom: 'La Cambuse',
     departement: '39',
     ville: 'Lons le Saunier',
