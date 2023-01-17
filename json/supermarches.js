@@ -169,6 +169,7 @@ export const supermarches = [
     ville: 'Morlaix',
     adresse: 'Chapelle St Joseph<br>13 rue Villeneuve<br>29600 Morlaix',
     logo: 'vide.png',
+    site_web: 'https://gasieresdelabaie.wordpress.com/',
     courriel: 'lesgasieresdelabaie@gmail.com',
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
     avancement: 3,
