@@ -1387,20 +1387,6 @@ export const supermarches = [
   },
 
   {
-    nom: 'Epicoop Riviera',
-    departement: 'CH',
-    ville: 'Vevey',
-    adresse: 'Rue des Marroniers 3B',
-    logo: 'riviera.png',
-    site_web: 'https://epicoopriviera.ch/',
-    courriel: 'contact@epicoopriviera.ch',
-    facebook: 'https://www.facebook.com/EpicoopRiviera/',
-    avancement: 3,
-    lattitude: 46.46605,
-    longitude: 6.84260
-  },
-
-  {
     nom: 'L\'épicerie d\'à côté',
     departement: 'CH',
     ville: 'Neuchâtel',
@@ -1429,17 +1415,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Epicoop (Riviera)',
+    nom: 'Epicoop',
     departement: 'CH',
     ville: 'Vevey',
     adresse: 'Rue des Marronniers 3B',
     logo: 'epicoop.svg',
-    site_web: 'https://epicoop.ch/',
+    site_web: 'https://epicoop.ch',
     courriel: 'contact@epicoop.ch',
     facebook: 'https://www.facebook.com/EpicoopRiviera/',
     avancement: 4,
-    lattitude: 46.4661444,
-    longitude: 6.8425322
+    lattitude: 46.4660495,
+    longitude: 6.84262831
   },
 
   {
@@ -1482,6 +1468,20 @@ export const supermarches = [
     avancement: 4,
     lattitude: 46.5190778,
     longitude: 6.6243197
+  },
+
+  {
+    nom: 'Le Rucher',
+    departement: 'CH',
+    ville: 'La Chaux-de-Fonds',
+    adresse: 'Rue des 22-Cantons 17',
+    logo: 'lerucher.png',
+    site_web: 'https://lerucher.ch',
+    courriel: 'epicerie@lerucher.ch',
+    facebook: '',
+    avancement: 4,
+    lattitude: 47.111300,
+    longitude: 6.825810
   },
 
   {
@@ -1544,14 +1544,42 @@ export const supermarches = [
     nom: 'La Superethic',
     departement: 'CH',
     ville: 'Neuchâtel',
-    adresse: 'Rue de la Serre 11',
+    adresse: 'Rue des Sablons 46',
     logo: 'superethic.png',
     site_web: 'https://superethic.ch/',
     courriel: 'info@superethic.ch',
     facebook: 'https://www.facebook.com/LaSuperethic',
     avancement: 4,
-    lattitude: 46.9937853,
-    longitude: 6.9323344
+    lattitude: 46.996140,
+    longitude: 6.932370
+  },
+
+  {
+    nom: 'Tabernam',
+    departement: 'CH',
+    ville: 'Yverdon',
+    adresse: '',
+    logo: 'tabernam.png',
+    site_web: 'https://tabernam.ch',
+    courriel: 'info@tabernam.ch',
+    facebook: 'https://www.facebook.com/tabernam.epicerie',
+    avancement: 1,
+    lattitude: 46.788097,
+    longitude: 6.648250
+  },
+
+  {
+    nom: 'La Brouette',
+    departement: 'CH',
+    ville: 'Lausanne',
+    adresse: 'Av. d\'Echallens 79',
+    logo: 'labrouette.png',
+    site_web: 'https://labrouette.ch',
+    courriel: 'info@labrouette.ch',
+    facebook: 'https://www.facebook.com/epicerielabrouette',
+    avancement: 5,
+    lattitude: 46.528140,
+    longitude: 6.615700
   },
 
   {
