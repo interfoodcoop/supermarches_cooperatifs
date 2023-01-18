@@ -169,6 +169,7 @@ export const supermarches = [
     ville: 'Morlaix',
     adresse: 'Chapelle St Joseph<br>13 rue Villeneuve<br>29600 Morlaix',
     logo: 'vide.png',
+    site_web: 'https://gasieresdelabaie.wordpress.com/',
     courriel: 'lesgasieresdelabaie@gmail.com',
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
     avancement: 3,
@@ -266,7 +267,7 @@ export const supermarches = [
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
-    avancement: 1,
+    avancement: 4,
     lattitude: 43.65719,
     longitude: 3.88784
   },
@@ -325,6 +326,20 @@ export const supermarches = [
     avancement: 4,
     lattitude: 45.18043,
     longitude: 5.72500
+  },
+
+  {
+    nom: 'Les ami.e.s de Coop\'cinelles',
+    departement: '38',
+    ville: 'Bourgoin Jallieu',
+    adresse: '28 chemin des couloures<br>38300 Bourgoin Jallieu',
+    logo: 'coop-cinelles.jpg',
+    site_web: 'https://les-amies-de-coopcinelles.pepsup.com/',
+    courriel: 'coopcinelles38@gmail.com',
+    facebook: 'https://www.facebook.com/lesami.e.sdecoopcinelles/',
+    avancement: 4,
+    lattitude: 45.6130,
+    longitude: 5.2782
   },
 
   {
