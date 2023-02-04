@@ -808,20 +808,6 @@ export const supermarches = [
   },
 
   {
-    nom: 'Les grains de sel',
-    departement: '75',
-    ville: 'Paris XIIIème',
-    adresse: '6 Rue du Moulin de la Pointe',
-    logo: 'lesgrainsdesel.png',
-    site_web: 'http://www.lesgrainsdesel.fr/',
-    courriel: 'contact@lesgrainsdesel.fr',
-    facebook: 'https://www.facebook.com/Lesgrainsdesel/',
-    avancement: 5,
-    lattitude: 48.82461,
-    longitude: 2.35708
-  },
-
-  {
     nom: 'Cago',
     departement: '75',
     ville: 'Paris XVIIIème',
