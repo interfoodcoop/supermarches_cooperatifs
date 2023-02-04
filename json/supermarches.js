@@ -1772,5 +1772,16 @@ export const supermarches = [
     avancement: 2,
     lattitude: 45.39785,
     longitude: -73.8122
+  },
+
+  {
+    nom: 'Coop Lib',
+    departement: 'FR',
+    adresse: '"Epiceries libres"',
+    logo: 'cooplib.png',
+    site_web: 'https://cooplib.fr/',
+    avancement: 4,
+    lattitude: 46.110,
+    longitude: -4.264
   }
 ]
