@@ -1776,7 +1776,7 @@ export const supermarches = [
 
   {
     nom: 'Coop Lib',
-    departement: 'France - lien externe',
+    departement: 'FR',
     adresse: '"Epiceries libres"',
     logo: 'cooplib.png',
     site_web: 'https://cooplib.fr/',
