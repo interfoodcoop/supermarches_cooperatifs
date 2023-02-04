@@ -384,16 +384,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Supcoop',
+    nom: 'La libellule',
     departement: '42',
-    ville: 'Roanne',
-    adresse: '',
-    logo: 'supcoop.png',
-    site_web: 'www.monepi.fr',
-    courriel: 'epi-roanne@framalistes.org',
-    avancement: 1,
-    lattitude: 46.03899,
-    longitude: 4.05973
+    ville: 'Le coteau',
+    adresse: '8 avenue de la Libération<br>Le Coteau 42120',
+    logo: 'la_libellule_42.jpg',
+    site_web: 'https://epicerielalibellule.wordpress.com/',
+    courriel: 'lalibellule.contact@framalistes.org',
+    facebook: 'https://www.facebook.com/lalibellule42',
+    avancement: 4,
+    lattitude: 46.0313,
+    longitude: 4.0824
   },
 
   {
