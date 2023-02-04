@@ -263,13 +263,14 @@ export const supermarches = [
     nom: 'La Crèmerie',
     departement: '34',
     ville: 'Clapiers',
+    adresse: '128 Rue du Romarin<br>34830 Clapiers',
     logo: 'la_cremerie.png',
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
     avancement: 4,
-    lattitude: 43.65719,
-    longitude: 3.88784
+    lattitude: 43.6576,
+    longitude: 3.8837
   },
 
   {
@@ -383,16 +384,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Supcoop',
+    nom: 'La libellule',
     departement: '42',
-    ville: 'Roanne',
-    adresse: '',
-    logo: 'supcoop.png',
-    site_web: 'www.monepi.fr',
-    courriel: 'epi-roanne@framalistes.org',
-    avancement: 1,
-    lattitude: 46.03899,
-    longitude: 4.05973
+    ville: 'Le coteau',
+    adresse: '8 avenue de la Libération<br>Le Coteau 42120',
+    logo: 'la_libellule_42.jpg',
+    site_web: 'https://epicerielalibellule.wordpress.com/',
+    courriel: 'lalibellule.contact@framalistes.org',
+    facebook: 'https://www.facebook.com/lalibellule42',
+    avancement: 4,
+    lattitude: 46.0313,
+    longitude: 4.0824
   },
 
   {
@@ -803,20 +805,6 @@ export const supermarches = [
     avancement: 4,
     lattitude: 48.85362,
     longitude: 2.39629
-  },
-
-  {
-    nom: 'Les grains de sel',
-    departement: '75',
-    ville: 'Paris XIIIème',
-    adresse: '6 Rue du Moulin de la Pointe',
-    logo: 'lesgrainsdesel.png',
-    site_web: 'http://www.lesgrainsdesel.fr/',
-    courriel: 'contact@lesgrainsdesel.fr',
-    facebook: 'https://www.facebook.com/Lesgrainsdesel/',
-    avancement: 5,
-    lattitude: 48.82461,
-    longitude: 2.35708
   },
 
   {
