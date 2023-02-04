@@ -263,13 +263,14 @@ export const supermarches = [
     nom: 'La Crèmerie',
     departement: '34',
     ville: 'Clapiers',
+    adresse: '128 Rue du Romarin<br>34830 Clapiers',
     logo: 'la_cremerie.png',
     site_web: 'http://www.lacremerie-coop.fr/',
     courriel: 'contact@lacremerie-coop.fr',
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
     avancement: 4,
-    lattitude: 43.65719,
-    longitude: 3.88784
+    lattitude: 43.6576,
+    longitude: 3.8837
   },
 
   {
