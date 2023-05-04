@@ -705,8 +705,8 @@ export const supermarches = [
     courriel: 'coopalim@gmail.com',
     facebook: 'https://www.facebook.com/coopalim.strasbourg/',
     avancement: 4,
-    lattitude: 48.53202,
-    longitude: 7.72485
+    lattitude: 48.58412,
+    longitude: 7.73854
   },
 
   {
