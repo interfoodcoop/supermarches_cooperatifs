@@ -302,17 +302,17 @@ export const supermarches = [
   },
 
   {
-    nom: 'Le troglo',
+    nom: 'Le Troglo',
     departement: '37',
     ville: 'Tours',
-    adresse: '15, Bd Louis XI 37000 Tours',
-    logo: 'troglo.webp',
+    adresse: '15 boulevard Louis XI',
+    logo: 'letroglo.jpg',
     site_web: 'https://www.le-troglo.fr/',
-    courriel: 'coop.troglo@gmail.com',
+    courriel: 'bureau.coops@le-troglo.fr',
     facebook: 'https://www.facebook.com/LeTroglo/',
-    avancement: 1,
-    lattitude: 47.37469,
-    longitude: 0.67230
+    avancement: 5,
+    lattitude: 47.37551, 
+    longitude: 0.671992
   },
 
   {
