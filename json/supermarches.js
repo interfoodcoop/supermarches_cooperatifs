@@ -311,7 +311,7 @@ export const supermarches = [
     courriel: 'bureau.coops@le-troglo.fr',
     facebook: 'https://www.facebook.com/LeTroglo/',
     avancement: 5,
-    lattitude: 47.37551, 
+    lattitude: 47.37551,
     longitude: 0.671992
   },
 
