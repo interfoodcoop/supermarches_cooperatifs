@@ -10,7 +10,6 @@ export const supermarches = [
     lattitude: 40.67473,
     longitude: -73.97682
   },
-
   {
     nom: 'Nice Coop',
     departement: '06',
@@ -24,7 +23,6 @@ export const supermarches = [
     lattitude: 43.70701,
     longitude: 7.25735
   },
-
   {
     nom: 'Coop La Meute',
     departement: '06',
@@ -38,7 +36,6 @@ export const supermarches = [
     lattitude: 43.64652,
     longitude: 6.91408
   },
-
   {
     nom: 'Marcasserie',
     departement: '08',
@@ -52,7 +49,6 @@ export const supermarches = [
     lattitude: 49.77742,
     longitude: 4.73542
   },
-
   {
     nom: 'Super Cafoutch',
     departement: '13',
@@ -66,7 +62,6 @@ export const supermarches = [
     lattitude: 43.29856,
     longitude: 5.37166
   },
-
   {
     nom: "Aix'Elan Coop",
     departement: '13',
@@ -80,7 +75,6 @@ export const supermarches = [
     lattitude: 43.5575,
     longitude: 5.4890
   },
-
   {
     nom: 'La Roch’coop',
     departement: '17',
@@ -94,7 +88,6 @@ export const supermarches = [
     lattitude: 46.186031,
     longitude: -1.117599
   },
-
   {
     nom: 'Court circuit 21',
     departement: '21',
@@ -108,7 +101,6 @@ export const supermarches = [
     lattitude: 47.29516,
     longitude: 5.02020
   },
-
   {
     nom: 'La briochaine',
     departement: '22',
@@ -120,7 +112,6 @@ export const supermarches = [
     lattitude: 48.49867,
     longitude: -2.74692
   },
-
   {
     nom: "T'as meilleur temps !",
     departement: '25',
@@ -134,7 +125,6 @@ export const supermarches = [
     lattitude: 47.2350,
     longitude: 5.9852
   },
-
   {
     nom: 'La Carline',
     departement: '26',
@@ -148,7 +138,6 @@ export const supermarches = [
     lattitude: 44.75223,
     longitude: 5.37471
   },
-
   {
     nom: 'Ti Coop',
     departement: '29',
@@ -162,7 +151,6 @@ export const supermarches = [
     lattitude: 48.39912,
     longitude: -4.47222
   },
-
   {
     nom: 'Le Gase de la Baie',
     departement: '29',
@@ -176,7 +164,6 @@ export const supermarches = [
     lattitude: 48.58208,
     longitude: -3.83405
   },
-
   {
     nom: 'La RieCoop',
     departement: '29',
@@ -190,7 +177,6 @@ export const supermarches = [
     lattitude: 47.84409,
     longitude: -3.69194
   },
-
   {
     nom: 'La chouette coop',
     departement: '31',
@@ -204,7 +190,6 @@ export const supermarches = [
     lattitude: 43.61127,
     longitude: 1.45657
   },
-
   {
     nom: 'SuperCoop',
     departement: '33',
@@ -218,7 +203,6 @@ export const supermarches = [
     lattitude: 44.81460,
     longitude: -0.55419
   },
-
   {
     nom: 'CoopOcéan',
     departement: '33',
@@ -230,7 +214,6 @@ export const supermarches = [
     lattitude: 45.5070,
     longitude: -1.1197
   },
-
   {
     nom: 'La Coopé',
     departement: '33',
@@ -244,7 +227,6 @@ export const supermarches = [
     lattitude: 44.5474,
     longitude: -0.2490
   },
-
   {
     nom: 'La cagette',
     departement: '34',
@@ -258,7 +240,6 @@ export const supermarches = [
     lattitude: 43.60398,
     longitude: 3.87330
   },
-
   {
     nom: 'La Crèmerie',
     departement: '34',
@@ -272,7 +253,6 @@ export const supermarches = [
     lattitude: 43.6576,
     longitude: 3.8837
   },
-
   {
     nom: 'Coop singulière',
     departement: '34',
@@ -286,7 +266,6 @@ export const supermarches = [
     lattitude: 43.40554,
     longitude: 3.69974
   },
-
   {
     nom: 'Breizhicoop',
     departement: '35',
@@ -300,7 +279,6 @@ export const supermarches = [
     lattitude: 48.08464,
     longitude: -1.65050
   },
-
   {
     nom: 'Le Troglo',
     departement: '37',
@@ -314,7 +292,6 @@ export const supermarches = [
     lattitude: 47.37551,
     longitude: 0.671992
   },
-
   {
     nom: 'L’éléfàn',
     departement: '38',
@@ -328,7 +305,6 @@ export const supermarches = [
     lattitude: 45.18043,
     longitude: 5.72500
   },
-
   {
     nom: 'Les ami.e.s de Coop\'cinelles',
     departement: '38',
@@ -342,7 +318,6 @@ export const supermarches = [
     lattitude: 45.6130,
     longitude: 5.2782
   },
-
   {
     nom: 'La Marm"Hotte',
     departement: '38',
@@ -356,7 +331,6 @@ export const supermarches = [
     lattitude: 45.4339,
     longitude: 5.9769
   },
-
   {
     nom: 'La Cambuse',
     departement: '39',
@@ -369,7 +343,6 @@ export const supermarches = [
     lattitude: 46.67450,
     longitude: 5.54819
   },
-
   {
     nom: 'La Fourmilière',
     departement: '42',
@@ -382,7 +355,6 @@ export const supermarches = [
     lattitude: 45.41849,
     longitude: 4.39713
   },
-
   {
     nom: 'La libellule',
     departement: '42',
@@ -396,7 +368,6 @@ export const supermarches = [
     lattitude: 46.0313,
     longitude: 4.0824
   },
-
   {
     nom: 'Scopéli',
     departement: '44',
@@ -410,7 +381,6 @@ export const supermarches = [
     lattitude: 47.19546,
     longitude: -1.56828
   },
-
   {
     nom: 'La Coop du Coin',
     departement: '44',
@@ -424,7 +394,6 @@ export const supermarches = [
     lattitude: 47.27771,
     longitude: -2.21737
   },
-
   {
     nom: 'La coopérette',
     departement: '45',
@@ -438,7 +407,6 @@ export const supermarches = [
     lattitude: 47.90714,
     longitude: 1.95224
   },
-
   {
     nom: 'La Gabare',
     departement: '45',
@@ -452,7 +420,6 @@ export const supermarches = [
     lattitude: 47.84593,
     longitude: 1.91945
   },
-
   {
     nom: "La coop'agenoise",
     departement: '47',
@@ -465,7 +432,6 @@ export const supermarches = [
     lattitude: 44.2046512,
     longitude: 0.622364
   },
-
   {
     nom: 'Ma Coop <br>La Vie au Vert',
     departement: '48',
@@ -479,7 +445,6 @@ export const supermarches = [
     lattitude: 44.47569,
     longitude: 3.98530
   },
-
   {
     nom: 'La Coopette',
     departement: '49',
@@ -491,7 +456,6 @@ export const supermarches = [
     lattitude: 47.47185,
     longitude: -0.54760
   },
-
   {
     nom: 'coop en Baie',
     departement: '50',
@@ -504,7 +468,6 @@ export const supermarches = [
     lattitude: 48.8418002,
     longitude: -1.5822933
   },
-
   {
     nom: 'Grande épicerie générale',
     departement: '54',
@@ -518,7 +481,6 @@ export const supermarches = [
     lattitude: 48.69811,
     longitude: 6.20029
   },
-
   {
     nom: 'Coop des Vénètes',
     departement: '56',
@@ -532,7 +494,6 @@ export const supermarches = [
     lattitude: 47.65080,
     longitude: -2.71331
   },
-
   {
     nom: 'Graoucoop',
     departement: '57',
@@ -546,7 +507,6 @@ export const supermarches = [
     lattitude: 49.103996,
     longitude: 6.165329
   },
-
   {
     nom: 'La Cocotte',
     departement: '58',
@@ -558,7 +518,6 @@ export const supermarches = [
     lattitude: 46.98903,
     longitude: 3.16134
   },
-
   {
     nom: 'SuperQuinquin',
     departement: '59',
@@ -572,7 +531,6 @@ export const supermarches = [
     lattitude: 50.63228,
     longitude: 3.08717
   },
-
   {
     nom: 'La Baraque En Vrac',
     departement: '59',
@@ -586,7 +544,6 @@ export const supermarches = [
     lattitude: 50.65143,
     longitude: 3.06997
   },
-
   {
     nom: 'La Clac',
     departement: '60',
@@ -599,7 +556,6 @@ export const supermarches = [
     lattitude: 49.2561,
     longitude: 2.4658
   },
-
   {
     nom: 'La coop des dômes',
     departement: '63',
@@ -613,7 +569,6 @@ export const supermarches = [
     lattitude: 45.81259,
     longitude: 3.12860
   },
-
   {
     nom: "L'alternateur'",
     departement: '63',
@@ -626,7 +581,6 @@ export const supermarches = [
     lattitude: 45.55090,
     longitude: 3.37189
   },
-
   {
     nom: 'Otsokop',
     departement: '64',
@@ -640,7 +594,6 @@ export const supermarches = [
     lattitude: 43.502204,
     longitude: -1.4705459
   },
-
   {
     nom: 'Larrunkoop Urrugne',
     departement: '64',
@@ -653,7 +606,6 @@ export const supermarches = [
     lattitude: 43.36436,
     longitude: -1.69864
   },
-
   {
     nom: 'Hendaia Koop',
     departement: '64',
@@ -667,7 +619,6 @@ export const supermarches = [
     lattitude: 43.35817,
     longitude: -1.77568
   },
-
   {
     nom: 'Coop des Luys',
     departement: '64',
@@ -680,7 +631,6 @@ export const supermarches = [
     lattitude: 43.404078,
     longitude: -0.38633
   },
-
   {
     nom: 'O Vrac Coop',
     departement: '66',
@@ -694,7 +644,6 @@ export const supermarches = [
     lattitude: 42.67770,
     longitude: 2.89405
   },
-
   {
     nom: 'Coopalim',
     departement: '67',
@@ -708,7 +657,6 @@ export const supermarches = [
     lattitude: 48.58412,
     longitude: 7.73854
   },
-
   {
     nom: 'Les Oies Sauvages',
     departement: '68',
@@ -722,7 +670,6 @@ export const supermarches = [
     lattitude: 48.08105,
     longitude: 7.34906
   },
-
   {
     nom: 'Le Panier du Mehlala',
     departement: '68',
@@ -736,7 +683,6 @@ export const supermarches = [
     lattitude: 47.74908,
     longitude: 7.32568
   },
-
   {
     nom: 'Demain',
     departement: '69',
@@ -750,7 +696,6 @@ export const supermarches = [
     lattitude: 45.72920,
     longitude: 4.82997
   },
-
   {
     nom: 'Les fourmis sarthoises',
     departement: '72',
@@ -764,7 +709,6 @@ export const supermarches = [
     lattitude: 48.007107,
     longitude: 0.189676
   },
-
   {
     nom: "Eko-Syst'M",
     departement: '73',
@@ -778,7 +722,6 @@ export const supermarches = [
     lattitude: 45.56864,
     longitude: 5.90300
   },
-
   {
     nom: 'Alpar Coop',
     departement: '74',
@@ -792,7 +735,6 @@ export const supermarches = [
     lattitude: 45.92011,
     longitude: 6.08801
   },
-
   {
     nom: 'Les 400 Coop',
     departement: '75',
@@ -806,7 +748,6 @@ export const supermarches = [
     lattitude: 48.85362,
     longitude: 2.39629
   },
-
   {
     nom: 'Cago',
     departement: '75',
@@ -820,7 +761,6 @@ export const supermarches = [
     lattitude: 48.88984,
     longitude: 2.35577
   },
-
   {
     nom: 'Coop 14',
     departement: '75',
@@ -834,7 +774,6 @@ export const supermarches = [
     lattitude: 48.82267,
     longitude: 2.32901
   },
-
   {
     nom: 'La Louve',
     departement: '75',
@@ -848,7 +787,6 @@ export const supermarches = [
     lattitude: 48.89444,
     longitude: 2.35306
   },
-
   {
     nom: 'La Source',
     departement: '75',
@@ -862,7 +800,6 @@ export const supermarches = [
     lattitude: 48.85731,
     longitude: 2.41086
   },
-
   {
     nom: 'jachetemonsupermarche',
     departement: '76',
@@ -875,7 +812,6 @@ export const supermarches = [
     lattitude: 49.9213789,
     longitude: 1.0739232
   },
-
   {
     nom: 'La mouette',
     departement: '76',
@@ -888,7 +824,6 @@ export const supermarches = [
     lattitude: 49.50015,
     longitude: 0.12778
   },
-
   {
     nom: 'KissiKol',
     departement: '76',
@@ -902,7 +837,6 @@ export const supermarches = [
     lattitude: 49.44242,
     longitude: 1.10561
   },
-
   {
     nom: 'Valcoop',
     departement: '77',
@@ -916,7 +850,6 @@ export const supermarches = [
     lattitude: 48.83313,
     longitude: 2.66131
   },
-
   {
     nom: 'Cooplicot',
     departement: '77',
@@ -930,7 +863,6 @@ export const supermarches = [
     lattitude: 48.37344,
     longitude: 2.82323
   },
-
   {
     nom: 'Le chaudron coop',
     departement: '78',
@@ -944,7 +876,6 @@ export const supermarches = [
     lattitude: 48.82640,
     longitude: 2.13777
   },
-
   {
     nom: 'Pop la coop',
     departement: '78',
@@ -958,7 +889,6 @@ export const supermarches = [
     lattitude: 48.87371,
     longitude: 2.08255
   },
-
   {
     nom: 'epi castelforain',
     departement: '78',
@@ -972,7 +902,6 @@ export const supermarches = [
     lattitude: 48.73654,
     longitude: 2.09161
   },
-
   {
     nom: 'le peuplié',
     departement: '80',
@@ -985,7 +914,6 @@ export const supermarches = [
     lattitude: 49.89002,
     longitude: 2.32389
   },
-
   {
     nom: 'Les amis de la CASA',
     departement: '81',
@@ -999,7 +927,6 @@ export const supermarches = [
     lattitude: 43.93032,
     longitude: 2.14615
   },
-
   {
     nom: 'La coop sur mer',
     departement: '83',
@@ -1013,7 +940,6 @@ export const supermarches = [
     lattitude: 43.11985,
     longitude: 5.95289
   },
-
   {
     nom: 'La cerise sur le Gapeau',
     departement: '83',
@@ -1027,7 +953,6 @@ export const supermarches = [
     lattitude: 43.17083,
     longitude: 6.03964
   },
-
   {
     nom: "Les Pot'iront",
     departement: '83',
@@ -1041,7 +966,6 @@ export const supermarches = [
     lattitude: 43.53779,
     longitude: 6.467465
   },
-
   {
     nom: "Les Pot'iront",
     departement: '83',
@@ -1055,7 +979,6 @@ export const supermarches = [
     lattitude: 43.422619,
     longitude: 6.742483
   },
-
   {
     nom: 'Gem la coop',
     departement: '84',
@@ -1069,7 +992,6 @@ export const supermarches = [
     lattitude: 43.94053,
     longitude: 4.82196
   },
-
   {
     nom: 'Lalouet coop',
     departement: '85',
@@ -1083,7 +1005,6 @@ export const supermarches = [
     lattitude: 46.86902,
     longitude: -1.00104
   },
-
   {
     nom: 'Le baudet',
     departement: '86',
@@ -1097,7 +1018,6 @@ export const supermarches = [
     lattitude: 46.57613,
     longitude: 0.33847
   },
-
   {
     nom: "L'Ep'autre",
     departement: '91',
@@ -1111,7 +1031,6 @@ export const supermarches = [
     lattitude: 48.68521,
     longitude: 2.37678
   },
-
   {
     nom: 'La French Coop',
     departement: '92',
@@ -1125,7 +1044,6 @@ export const supermarches = [
     lattitude: 48.90514,
     longitude: 2.28285
   },
-
   {
     nom: 'La Coop Bio du Pré',
     departement: '93',
@@ -1138,7 +1056,6 @@ export const supermarches = [
     lattitude: 48.88416,
     longitude: 2.40373
   },
-
   {
     nom: 'La caravane',
     departement: '93',
@@ -1152,7 +1069,6 @@ export const supermarches = [
     lattitude: 48.85985,
     longitude: 2.44549
   },
-
   {
     nom: "Coop'cot",
     departement: '94',
@@ -1166,7 +1082,6 @@ export const supermarches = [
     lattitude: 48.78692,
     longitude: 2.44684
   },
-
   {
     nom: 'Coquelicoop',
     departement: '94',
@@ -1180,7 +1095,6 @@ export const supermarches = [
     lattitude: 48.76133,
     longitude: 2.32645
   },
-
   {
     nom: 'Coop les bains',
     departement: '95',
@@ -1194,7 +1108,6 @@ export const supermarches = [
     lattitude: 48.96901,
     longitude: 2.30729
   },
-
   {
     nom: 'La Calebasse',
     departement: '971',
@@ -1207,7 +1120,6 @@ export const supermarches = [
     lattitude: 16.2350099,
     longitude: -61.560867
   },
-
   {
     nom: 'La coop à nous',
     departement: '988',
@@ -1221,7 +1133,6 @@ export const supermarches = [
     lattitude: -22.26569,
     longitude: 166.47021
   },
-
   {
     nom: 'BEES Coop',
     departement: 'BE',
@@ -1235,7 +1146,6 @@ export const supermarches = [
     lattitude: 50.85690,
     longitude: 4.37731
   },
-
   {
     nom: 'WooCoop',
     departement: 'BE',
@@ -1249,7 +1159,6 @@ export const supermarches = [
     lattitude: 50.71833,
     longitude: 4.38585
   },
-
   {
     nom: 'Oufticoop',
     departement: 'BE',
@@ -1263,7 +1172,6 @@ export const supermarches = [
     lattitude: 50.64565,
     longitude: 5.58813
   },
-
   {
     nom: 'Coopeco',
     departement: 'BE',
@@ -1277,7 +1185,6 @@ export const supermarches = [
     lattitude: 50.40678,
     longitude: 4.4011
   },
-
   {
     nom: 'Vervicoop',
     departement: 'BE',
@@ -1291,7 +1198,6 @@ export const supermarches = [
     lattitude: 50.59220,
     longitude: 5.86691
   },
-
   {
     nom: 'Bloum',
     departement: 'BE',
@@ -1305,7 +1211,6 @@ export const supermarches = [
     lattitude: 50.81946,
     longitude: 4.32684
   },
-
   {
     nom: 'Macavrac',
     departement: 'BE',
@@ -1319,7 +1224,6 @@ export const supermarches = [
     lattitude: 50.71466,
     longitude: 4.60906
   },
-
   {
     nom: 'Co-é-sion - La Cagette 1791',
     departement: 'CH',
@@ -1333,7 +1237,6 @@ export const supermarches = [
     lattitude: 46.24560,
     longitude: 7.37079
   },
-
   {
     nom: 'Le Nid',
     departement: 'CH',
@@ -1347,7 +1250,6 @@ export const supermarches = [
     lattitude: 46.20274,
     longitude: 6.13502
   },
-
   {
     nom: 'La fève',
     departement: 'CH',
@@ -1361,7 +1263,6 @@ export const supermarches = [
     lattitude: 46.23182,
     longitude: 6.07173
   },
-
   {
     nom: 'Système B',
     departement: 'CH',
@@ -1375,7 +1276,6 @@ export const supermarches = [
     lattitude: 46.99855,
     longitude: 6.93699
   },
-
   {
     nom: 'Chez Emmy',
     departement: 'CH',
@@ -1388,7 +1288,6 @@ export const supermarches = [
     lattitude: 47.01291,
     longitude: 6.98710
   },
-
   {
     nom: 'L\'épicerie d\'à côté',
     departement: 'CH',
@@ -1402,7 +1301,6 @@ export const supermarches = [
     lattitude: 46.9944222,
     longitude: 6.9306194
   },
-
   {
     nom: 'Epicentre',
     departement: 'CH',
@@ -1416,7 +1314,6 @@ export const supermarches = [
     lattitude: 46.9488861,
     longitude: 6.8358758
   },
-
   {
     nom: 'Epicoop',
     departement: 'CH',
@@ -1430,7 +1327,6 @@ export const supermarches = [
     lattitude: 46.4660495,
     longitude: 6.84262831
   },
-
   {
     nom: 'Marché d\'ici',
     departement: 'CH',
@@ -1444,7 +1340,6 @@ export const supermarches = [
     lattitude: 46.7118111,
     longitude: 6.3761211
   },
-
   {
     nom: 'Coupe Circuit',
     departement: 'CH',
@@ -1458,7 +1353,6 @@ export const supermarches = [
     lattitude: 46.5268883,
     longitude: 6.6113325
   },
-
   {
     nom: 'Le Jardin Vivant',
     departement: 'CH',
@@ -1472,7 +1366,6 @@ export const supermarches = [
     lattitude: 46.5190778,
     longitude: 6.6243197
   },
-
   {
     nom: 'Le Rucher',
     departement: 'CH',
@@ -1486,7 +1379,6 @@ export const supermarches = [
     lattitude: 47.111300,
     longitude: 6.825810
   },
-
   {
     nom: 'Le Marché Saint-Germain',
     departement: 'CH',
@@ -1500,7 +1392,6 @@ export const supermarches = [
     lattitude: 47.4158272,
     longitude: 7.0798611
   },
-
   {
     nom: 'La Vracrie',
     departement: 'CH',
@@ -1514,7 +1405,6 @@ export const supermarches = [
     lattitude: 46.9553806,
     longitude: 7.1021961
   },
-
   {
     nom: 'La Vorace',
     departement: 'CH',
@@ -1528,7 +1418,6 @@ export const supermarches = [
     lattitude: 46.5249147,
     longitude: 6.5748100
   },
-
   {
     nom: 'Le Local',
     departement: 'CH',
@@ -1542,7 +1431,6 @@ export const supermarches = [
     lattitude: 46.3818228,
     longitude: 6.2356514
   },
-
   {
     nom: 'La Superethic',
     departement: 'CH',
@@ -1556,7 +1444,6 @@ export const supermarches = [
     lattitude: 46.996140,
     longitude: 6.932370
   },
-
   {
     nom: 'Tabernam',
     departement: 'CH',
@@ -1570,7 +1457,6 @@ export const supermarches = [
     lattitude: 46.788097,
     longitude: 6.648250
   },
-
   {
     nom: 'La Brouette',
     departement: 'CH',
@@ -1584,7 +1470,6 @@ export const supermarches = [
     lattitude: 46.528140,
     longitude: 6.615700
   },
-
   {
     nom: 'La Canopée',
     departement: 'CH',
@@ -1597,7 +1482,6 @@ export const supermarches = [
     lattitude: 46.2980042,
     longitude: 7.5292742
   },
-
   {
     nom: "The People's <br>Supermarket",
     departement: 'GB',
@@ -1611,7 +1495,6 @@ export const supermarches = [
     lattitude: 51.5226,
     longitude: -0.11875
   },
-
   {
     nom: 'AlterCoop',
     departement: 'LU',
@@ -1625,7 +1508,6 @@ export const supermarches = [
     lattitude: 49.641337,
     longitude: 6.135053
   },
-
   {
     nom: 'Camilla',
     departement: 'IT',
@@ -1639,7 +1521,6 @@ export const supermarches = [
     lattitude: 44.50582,
     longitude: 11.36045
   },
-
   {
     nom: 'Lokatten Supermarket',
     departement: 'SE',
@@ -1653,7 +1534,6 @@ export const supermarches = [
     lattitude: 59.3255,
     longitude: 18.0711
   },
-
   {
     nom: 'Rizoma coop',
     departement: 'PT',
@@ -1667,7 +1547,6 @@ export const supermarches = [
     lattitude: 38.713767,
     longitude: -9.136232
   },
-
   {
     nom: 'Dublin FoodCoop',
     departement: 'IE',
@@ -1681,7 +1560,6 @@ export const supermarches = [
     lattitude: 53.34239,
     longitude: -6.31017
   },
-
   {
     nom: 'The Urban Co-Op',
     departement: 'IE',
@@ -1695,7 +1573,6 @@ export const supermarches = [
     lattitude: 52.64936,
     longitude: -8.58885
   },
-
   {
     nom: 'Belfast Food Co-op',
     departement: 'IE_N',
@@ -1709,7 +1586,6 @@ export const supermarches = [
     lattitude: 54.63048,
     longitude: -5.94133
   },
-
   {
     nom: 'La Osa',
     departement: 'ES',
@@ -1723,7 +1599,6 @@ export const supermarches = [
     lattitude: 40.47141,
     longitude: -3.69835
   },
-
   {
     nom: 'foodcoops.de',
     departement: 'DE',
@@ -1734,7 +1609,6 @@ export const supermarches = [
     lattitude: 51.591,
     longitude: 10.545
   },
-
   {
     nom: 'foodcoops.at',
     departement: 'AT',
@@ -1745,7 +1619,6 @@ export const supermarches = [
     lattitude: 47.881,
     longitude: 14.770
   },
-
   {
     nom: 'Le détour',
     departement: 'CA',
@@ -1759,7 +1632,6 @@ export const supermarches = [
     lattitude: 45.48118,
     longitude: -73.55223
   },
-
   {
     nom: 'L ortie folle',
     departement: 'CA',
@@ -1773,7 +1645,6 @@ export const supermarches = [
     lattitude: 45.39785,
     longitude: -73.8122
   },
-
   {
     nom: 'Coop Lib',
     departement: 'FR',
