@@ -1,11 +1,15 @@
 # Supermarchés Coopératifs
+
 Développement d'une cartographie des supermarchés coopératifs en France et dans le monde entier avec Leaflet.
-Ceci est une maquette de présentation des possibilités d'utilisation de Leaflet avant de développer une application complète (avec un back-office). 
+Ceci est une maquette de présentation des possibilités d'utilisation de Leaflet avant de développer une application complète (avec un back-office).
 
-# Pré-requis
-Un navigateur moderne, le programme a été complètement développé en ECMAScript 7, en mode Objet.
+## Liens
 
-# Fonctionnalité
+- [Vue carte](https://interfoodcoop.github.io/supermarches_cooperatifs)
+- [Vue liste](https://interfoodcoop.github.io/supermarches_cooperatifs/liste.html)
+
+## Fonctionnalités
+
 La page présente une carte du monde et les projets de supermarché coopératif sont indiqué par des plots.
 
 Les plots sont identifiés par différentes icônes :
@@ -23,13 +27,10 @@ Si on clique sur le plot, nous obtenons les informations sur le projet :
 - Courriel
 - Page Facebook
 
-Les données sur les différents projets de supermarché coopératif ont été remis à jours le 30 juin 2020.
+Les données sur les différents projets de supermarché coopératif sont mis à jour régulièrement.
 
-# Accessibilité
-Comme la cartographie interactive n'est pas accessible à tout le monde, une page alternative avec un affichage en tableau est proposé :
-[Page d'accessibilité](https://interfoodcoop.github.io/supermarches_cooperatifs/liste.html)
+## Paramétrage
 
-# Paramétrage
 Il est possible de personnaliser la carte.
 
 Les paramètres modifiables :
@@ -50,8 +51,27 @@ Pour la gestion des plots :
    - variables : les variables à intégrer dans le message suivant leur index.
    - optionnels : permet de completer le message si la variable optionnelle est renseignée en gardant la même structure que le message principal.
 
-# Démonstration
-[Page de démonstration](https://interfoodcoop.github.io/supermarches_cooperatifs/)
+## Lancer en local
 
-# Licence
-Le projet est sous licence MIT - voir la [LICENCE](./LICENSE) pour plus de détails.
+### Pré-requis
+
+- un navigateur moderne, le programme a été complètement développé en ECMAScript 7, en mode Objet
+- avoir `npm` et `python`
+
+### Installer les dépendances
+
+```
+npm install
+```
+
+### Lancer le projet
+
+```
+python -m http.server
+```
+
+Le site est accessible sur http://0.0.0.0:8000
+
+## Licence
+
+Le projet est sous licence MIT. Voir la [LICENCE](./LICENSE) pour plus de détails.
