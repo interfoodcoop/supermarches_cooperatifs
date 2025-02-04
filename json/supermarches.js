@@ -296,14 +296,14 @@ export const supermarches = [
     nom: 'L’éléfàn',
     departement: '38',
     ville: 'Grenoble',
-    adresse: '13 chemin de la Capuche',
+    adresse: '30bis Avenue Marcelin Berthelot',
     logo: 'Lelefan.png',
-    site_web: 'https://lelefan.org/',
+    site_web: 'https://lelefan.org',
     courriel: 'contact@lelefan.org',
     facebook: 'https://www.facebook.com/lelefandegrenoble/',
     avancement: 4,
-    lattitude: 45.18043,
-    longitude: 5.72500
+    lattitude: 45.1750672,
+    longitude: 5.7304083
   },
   {
     nom: 'Les ami.e.s de Coop\'cinelles',
