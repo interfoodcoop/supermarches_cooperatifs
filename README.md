@@ -8,6 +8,18 @@ Ceci est une maquette de présentation des possibilités d'utilisation de Leafle
 - [Vue carte](https://interfoodcoop.github.io/supermarches_cooperatifs)
 - [Vue liste](https://interfoodcoop.github.io/supermarches_cooperatifs/liste.html)
 
+## Comment contribuer à la carte ?
+
+- Ajouter ou modifier un supermarché
+   - ℹ️ la liste complète se trouve dans le fichier [supermarches.js](./json/supermarches.js)
+- Rajouter des fonctionnalités à l'outil
+
+### Etapes
+
+1. forker le repo
+2. faire vos modifications
+3. proposer une PR :)
+
 ## Fonctionnalités
 
 La page présente une carte du monde et les projets de supermarché coopératif sont indiqué par des plots.
