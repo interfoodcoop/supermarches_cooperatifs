@@ -296,7 +296,7 @@ export const supermarches = [
     nom: 'L’éléfàn',
     departement: '38',
     ville: 'Grenoble',
-    adresse: '30bis Avenue Marcelin Berthelot',
+    adresse: '30 bis Avenue Marcelin Berthelot',
     logo: 'Lelefan.png',
     site_web: 'https://lelefan.org',
     courriel: 'contact@lelefan.org',
