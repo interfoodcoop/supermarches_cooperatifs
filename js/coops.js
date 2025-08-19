@@ -8,10 +8,6 @@ export class SupermarchesCooperatifs {
     })
   }
 
-  getSupermarches () {
-    return this.liste
-  }
-
   getSupermarchesLocalises () {
     const SupermarchesLocalises = []
 

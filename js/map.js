@@ -135,16 +135,4 @@ export class Map {
               ? choropletheCouleur[0]
               : '#FFFFFF'
   }
-
-  // Récupère un fichier Json en Ajax
-  recupererFichierJsonEnAjax (url) {
-    // Création d'une requête HTTP
-    const requete = new XMLHttpRequest()
-    // Requête HTTP GET synchrone vers le fichier langages.txt publié localement
-    requete.open('GET', url, false)
-    // Envoi de la requête
-    requete.send(null)
-    // Affiche la réponse reçue pour la requête
-    console.log(requete.responseText)
-  }
 }
