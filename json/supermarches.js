@@ -1328,19 +1328,6 @@ export const supermarches = [
     longitude: 6.84262831
   },
   {
-    nom: 'Marché d\'ici',
-    departement: 'CH',
-    ville: 'Vallorbe',
-    adresse: 'Place de la Liberté 6',
-    logo: 'marchedici.jpg',
-    site_web: 'https://about.marchedici.ch/',
-    courriel: 'epicerie@marchedici.ch',
-    facebook: 'https://www.facebook.com/March%C3%A9-dici-103369157984126/',
-    avancement: 4,
-    lattitude: 46.7118111,
-    longitude: 6.3761211
-  },
-  {
     nom: 'Coupe Circuit',
     departement: 'CH',
     ville: 'Lausanne',
