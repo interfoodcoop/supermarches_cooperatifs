@@ -1469,6 +1469,18 @@ export const supermarches = [
     longitude: 6.90387011
   },
   {
+    nom: 'Les P\'tits Pois',
+    departement: 'CH',
+    ville: 'Morges',
+    adresse: 'Promenade de l\'Eglantine 1',
+    logo: 'lesptitspois.jpg',
+    site_web: 'https://lesptitspois.ch/',
+    courriel: '',
+    avancement: 4,
+    lattitude: 46.51195213,
+    longitude: 6.484526483
+  },
+  {
     nom: "The People's <br>Supermarket",
     departement: 'GB',
     ville: 'Londres',
