@@ -1457,6 +1457,18 @@ export const supermarches = [
     longitude: 7.5292742
   },
   {
+    nom: 'Les Enfants de la Terre',
+    departement: 'CH',
+    ville: 'Cernier',
+    adresse: '24, rue Frédéric-Soguel',
+    logo: 'lesenfantsdelaterre.webp',
+    site_web: 'https://www.lesenfantsdelaterre.ch/site/',
+    courriel: 'epicerie@lesenfantsdelaterre.ch',
+    avancement: 4,
+    lattitude: 47.0595840,
+    longitude: 6.90387011
+  },
+  {
     nom: "The People's <br>Supermarket",
     departement: 'GB',
     ville: 'Londres',
