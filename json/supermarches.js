@@ -880,7 +880,7 @@ export const supermarches = [
     nom: 'Pop la coop',
     departement: '78',
     ville: 'Marly-le-roi',
-    adresse: '46 Chem. de Montval à la Montagne<b>78160 Marly-le-Roi',
+    adresse: '46 Chem. de Montval à la Montagne<br>78160 Marly-le-Roi',
     logo: 'poplacoop.jpeg',
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
