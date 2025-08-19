@@ -1419,19 +1419,6 @@ export const supermarches = [
     longitude: 6.2356514
   },
   {
-    nom: 'La Superethic',
-    departement: 'CH',
-    ville: 'Neuchâtel',
-    adresse: 'Rue des Sablons 46',
-    logo: 'superethic.png',
-    site_web: 'https://superethic.ch/',
-    courriel: 'info@superethic.ch',
-    facebook: 'https://www.facebook.com/LaSuperethic',
-    avancement: 4,
-    lattitude: 46.996140,
-    longitude: 6.932370
-  },
-  {
     nom: 'Tabernam',
     departement: 'CH',
     ville: 'Yverdon',
