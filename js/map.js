@@ -66,7 +66,7 @@ export class Map {
       }
 
       const iconeMagasin = L.AwesomeMarkers.icon({ icon: typeIcone, prefix: 'fa', markerColor: couleurIcone })
-      const marker = L.marker([element.lattitude, element.longitude], { icon: iconeMagasin }).addTo(this.map)
+      const marker = L.marker([element.latitude, element.longitude], { icon: iconeMagasin }).addTo(this.map)
 
       let affichage = this.genererLeMessageDuMarqueur(JSON.stringify(element), this.parametres.affichageMarqueur.message, this.parametres.affichageMarqueur.variables)
       affichage += this.genererLaPartieOptionnelleDuMessage(element)

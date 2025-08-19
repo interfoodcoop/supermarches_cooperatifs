@@ -7,7 +7,7 @@ export const supermarches = [
     logo: 'food_coop.png',
     site_web: 'https://www.foodcoop.com/',
     avancement: 5,
-    lattitude: 40.67473,
+    latitude: 40.67473,
     longitude: -73.97682
   },
   {
@@ -20,7 +20,7 @@ export const supermarches = [
     courriel: 'nicecoop06@gmail.com',
     facebook: 'https://www.facebook.com/nicecoop2/',
     avancement: 4,
-    lattitude: 43.70701,
+    latitude: 43.70701,
     longitude: 7.25735
   },
   {
@@ -33,7 +33,7 @@ export const supermarches = [
     courriel: 'contact@cooplameute.fr',
     facebook: 'https://www.facebook.com/cooplameute/',
     avancement: 4,
-    lattitude: 43.64652,
+    latitude: 43.64652,
     longitude: 6.91408
   },
   {
@@ -46,7 +46,7 @@ export const supermarches = [
     courriel: 'contact@marcasserie.org',
     facebook: 'https://www.facebook.com/marcasserie/',
     avancement: 4,
-    lattitude: 49.77742,
+    latitude: 49.77742,
     longitude: 4.73542
   },
   {
@@ -59,7 +59,7 @@ export const supermarches = [
     courriel: 'contact@supercafoutch.fr',
     facebook: 'https://www.facebook.com/supercafoutch/',
     avancement: 5,
-    lattitude: 43.29856,
+    latitude: 43.29856,
     longitude: 5.37166
   },
   {
@@ -72,7 +72,7 @@ export const supermarches = [
     courriel: 'contact.aixelancoop@gmail.com',
     facebook: 'https://www.facebook.com/AixElanCoop/',
     avancement: 1,
-    lattitude: 43.5575,
+    latitude: 43.5575,
     longitude: 5.4890
   },
   {
@@ -85,7 +85,7 @@ export const supermarches = [
     courriel: 'contact@larochcoop.fr',
     facebook: 'https://www.facebook.com/LaRochcoop',
     avancement: 5,
-    lattitude: 46.186031,
+    latitude: 46.186031,
     longitude: -1.117599
   },
   {
@@ -98,7 +98,7 @@ export const supermarches = [
     courriel: 'contact@courtcircuit21.org',
     facebook: 'https://www.facebook.com/courtcircuit21/',
     avancement: 4,
-    lattitude: 47.29516,
+    latitude: 47.29516,
     longitude: 5.02020
   },
   {
@@ -109,7 +109,7 @@ export const supermarches = [
     courriel: 'bienvenue@labriochaine.fr',
     facebook: 'https://www.facebook.com/labriochaine/',
     avancement: 1,
-    lattitude: 48.49867,
+    latitude: 48.49867,
     longitude: -2.74692
   },
   {
@@ -122,7 +122,7 @@ export const supermarches = [
     courriel: 'magasin@tasmeilleurtemps.fr',
     facebook: 'https://www.facebook.com/creacoop25/',
     avancement: 4,
-    lattitude: 47.2350,
+    latitude: 47.2350,
     longitude: 5.9852
   },
   {
@@ -135,7 +135,7 @@ export const supermarches = [
     courriel: 'epicerie@lacarline.coop',
     facebook: 'https://www.facebook.com/LaCarlineCoop/',
     avancement: 4,
-    lattitude: 44.75223,
+    latitude: 44.75223,
     longitude: 5.37471
   },
   {
@@ -148,7 +148,7 @@ export const supermarches = [
     courriel: 'contact@ticoop.fr',
     facebook: 'https://www.facebook.com/TiCoopBrest',
     avancement: 4,
-    lattitude: 48.39912,
+    latitude: 48.39912,
     longitude: -4.47222
   },
   {
@@ -161,7 +161,7 @@ export const supermarches = [
     courriel: 'lesgasieresdelabaie@gmail.com',
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
     avancement: 3,
-    lattitude: 48.58208,
+    latitude: 48.58208,
     longitude: -3.83405
   },
   {
@@ -174,7 +174,7 @@ export const supermarches = [
     courriel: 'lariecoop@gmail.com',
     facebook: 'https://www.facebook.com/laRIECoop/',
     avancement: 4,
-    lattitude: 47.84409,
+    latitude: 47.84409,
     longitude: -3.69194
   },
   {
@@ -187,7 +187,7 @@ export const supermarches = [
     courriel: 'contact@lachouettecoop.fr',
     facebook: 'https://www.facebook.com/lachouettecoop/',
     avancement: 4,
-    lattitude: 43.61127,
+    latitude: 43.61127,
     longitude: 1.45657
   },
   {
@@ -200,7 +200,7 @@ export const supermarches = [
     courriel: 'contact@supercoop.fr',
     facebook: 'https://www.facebook.com/supercoopbdx/',
     avancement: 5,
-    lattitude: 44.81460,
+    latitude: 44.81460,
     longitude: -0.55419
   },
   {
@@ -211,7 +211,7 @@ export const supermarches = [
     logo: 'coopocean.jpg',
     facebook: 'https://www.facebook.com/groups/1035375806594111/',
     avancement: 1,
-    lattitude: 45.5070,
+    latitude: 45.5070,
     longitude: -1.1197
   },
   {
@@ -224,7 +224,7 @@ export const supermarches = [
     courriel: 'lesamis@lacoope.fr',
     facebook: 'https://www.facebook.com/lacoopelangon/',
     avancement: 4,
-    lattitude: 44.5474,
+    latitude: 44.5474,
     longitude: -0.2490
   },
   {
@@ -237,7 +237,7 @@ export const supermarches = [
     courriel: 'contact@lacagette-coop.fr',
     facebook: 'https://www.facebook.com/LaCagette34',
     avancement: 5,
-    lattitude: 43.60398,
+    latitude: 43.60398,
     longitude: 3.87330
   },
   {
@@ -250,7 +250,7 @@ export const supermarches = [
     courriel: 'contact@lacremerie-coop.fr',
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
     avancement: 4,
-    lattitude: 43.6576,
+    latitude: 43.6576,
     longitude: 3.8837
   },
   {
@@ -263,7 +263,7 @@ export const supermarches = [
     courriel: 'contact@coopsinguliere.fr',
     facebook: 'https://www.facebook.com/CoopSinguliere/',
     avancement: 4,
-    lattitude: 43.40554,
+    latitude: 43.40554,
     longitude: 3.69974
   },
   {
@@ -276,7 +276,7 @@ export const supermarches = [
     courriel: 'contact@breizhicoop.fr',
     facebook: 'https://www.facebook.com/breizhicoop/',
     avancement: 4,
-    lattitude: 48.08464,
+    latitude: 48.08464,
     longitude: -1.65050
   },
   {
@@ -289,7 +289,7 @@ export const supermarches = [
     courriel: 'bureau.coops@le-troglo.fr',
     facebook: 'https://www.facebook.com/LeTroglo/',
     avancement: 5,
-    lattitude: 47.37551,
+    latitude: 47.37551,
     longitude: 0.671992
   },
   {
@@ -302,7 +302,7 @@ export const supermarches = [
     courriel: 'contact@lelefan.org',
     facebook: 'https://www.facebook.com/lelefandegrenoble/',
     avancement: 4,
-    lattitude: 45.1750672,
+    latitude: 45.1750672,
     longitude: 5.7304083
   },
   {
@@ -315,7 +315,7 @@ export const supermarches = [
     courriel: 'coopcinelles38@gmail.com',
     facebook: 'https://www.facebook.com/lesami.e.sdecoopcinelles/',
     avancement: 4,
-    lattitude: 45.6130,
+    latitude: 45.6130,
     longitude: 5.2782
   },
   {
@@ -328,7 +328,7 @@ export const supermarches = [
     courriel: 'contact@la-marmhotte.org',
     facebook: 'https://www.facebook.com/lamarmhotte/',
     avancement: 4,
-    lattitude: 45.4339,
+    latitude: 45.4339,
     longitude: 5.9769
   },
   {
@@ -340,7 +340,7 @@ export const supermarches = [
     courriel: 'contact@cooplacambuse.fr',
     facebook: 'https://www.facebook.com/magasincooperatitflonslesaunier/',
     avancement: 4,
-    lattitude: 46.67450,
+    latitude: 46.67450,
     longitude: 5.54819
   },
   {
@@ -352,7 +352,7 @@ export const supermarches = [
     site_web: 'http://coop-lafourmiliere.fr/',
     courriel: 'contact@coop-lafourmiliere.fr',
     avancement: 5,
-    lattitude: 45.41849,
+    latitude: 45.41849,
     longitude: 4.39713
   },
   {
@@ -365,7 +365,7 @@ export const supermarches = [
     courriel: 'lalibellule.contact@framalistes.org',
     facebook: 'https://www.facebook.com/lalibellule42',
     avancement: 4,
-    lattitude: 46.0313,
+    latitude: 46.0313,
     longitude: 4.0824
   },
   {
@@ -378,7 +378,7 @@ export const supermarches = [
     courriel: 'contact@scopeli.fr',
     facebook: 'https://www.facebook.com/Scopeli/',
     avancement: 5,
-    lattitude: 47.19546,
+    latitude: 47.19546,
     longitude: -1.56828
   },
   {
@@ -391,7 +391,7 @@ export const supermarches = [
     courriel: 'lesamisdelacoopducoin@gmail.com',
     facebook: 'https://www.facebook.com/lesamisdelacoopducoin/',
     avancement: 4,
-    lattitude: 47.27771,
+    latitude: 47.27771,
     longitude: -2.21737
   },
   {
@@ -404,7 +404,7 @@ export const supermarches = [
     courriel: 'contact@lacooperette.fr',
     facebook: 'https://www.facebook.com/supermarchecooperatiforleans',
     avancement: 3,
-    lattitude: 47.90714,
+    latitude: 47.90714,
     longitude: 1.95224
   },
   {
@@ -417,7 +417,7 @@ export const supermarches = [
     courriel: 'hello@la-gabare-orleans.coop',
     facebook: 'https://www.facebook.com/LaGabare45/',
     avancement: 5,
-    lattitude: 47.84593,
+    latitude: 47.84593,
     longitude: 1.91945
   },
   {
@@ -429,7 +429,7 @@ export const supermarches = [
     courriel: 'supermarchecoopagen@bbox.fr',
     facebook: 'https://www.facebook.com/LaCoopAgenaise/',
     avancement: 1,
-    lattitude: 44.2046512,
+    latitude: 44.2046512,
     longitude: 0.622364
   },
   {
@@ -442,7 +442,7 @@ export const supermarches = [
     courriel: 'macoop@cdurable.info',
     facebook: 'https://www.facebook.com/MaCoopLaVieAuVert/',
     avancement: 4,
-    lattitude: 44.47569,
+    latitude: 44.47569,
     longitude: 3.98530
   },
   {
@@ -453,7 +453,7 @@ export const supermarches = [
     courriel: 'coopette@netc.fr',
     facebook: 'https://www.facebook.com/coopette.angers/',
     avancement: 3,
-    lattitude: 47.47185,
+    latitude: 47.47185,
     longitude: -0.54760
   },
   {
@@ -465,7 +465,7 @@ export const supermarches = [
     site_web: 'http://coopenbaie.fr/',
     facebook: 'https://www.facebook.com/coopenbaie/',
     avancement: 1,
-    lattitude: 48.8418002,
+    latitude: 48.8418002,
     longitude: -1.5822933
   },
   {
@@ -478,7 +478,7 @@ export const supermarches = [
     courriel: 'contact@grandeepiceriegenerale.fr',
     facebook: 'https://www.facebook.com/GEGNancy/',
     avancement: 4,
-    lattitude: 48.69811,
+    latitude: 48.69811,
     longitude: 6.20029
   },
   {
@@ -491,7 +491,7 @@ export const supermarches = [
     courriel: 'contact@coopdesvenetes.bzh',
     facebook: 'https://www.facebook.com/coopdesvenetes/',
     avancement: 4,
-    lattitude: 47.65080,
+    latitude: 47.65080,
     longitude: -2.71331
   },
   {
@@ -504,7 +504,7 @@ export const supermarches = [
     courriel: 'info@graoucoop.fr',
     facebook: 'https://www.facebook.com/graoucoop',
     avancement: 4,
-    lattitude: 49.103996,
+    latitude: 49.103996,
     longitude: 6.165329
   },
   {
@@ -515,7 +515,7 @@ export const supermarches = [
     courriel: 'cooperativenevers@riseup.net',
     facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
     avancement: 3,
-    lattitude: 46.98903,
+    latitude: 46.98903,
     longitude: 3.16134
   },
   {
@@ -528,7 +528,7 @@ export const supermarches = [
     courriel: 'jarrive@superquinquin.fr',
     facebook: 'https://www.facebook.com/SuperQuinquin-1060478380629115/',
     avancement: 5,
-    lattitude: 50.63228,
+    latitude: 50.63228,
     longitude: 3.08717
   },
   {
@@ -541,7 +541,7 @@ export const supermarches = [
     courriel: 'labaraque.vrac@gmail.com',
     facebook: 'https://www.facebook.com/labaraque.envrac/',
     avancement: 2,
-    lattitude: 50.65143,
+    latitude: 50.65143,
     longitude: 3.06997
   },
   {
@@ -553,7 +553,7 @@ export const supermarches = [
     courriel: 'asso.creonslacoop@gmail.com',
     facebook: 'https://www.facebook.com/Creonslacoop/',
     avancement: 4,
-    lattitude: 49.2561,
+    latitude: 49.2561,
     longitude: 2.4658
   },
   {
@@ -566,7 +566,7 @@ export const supermarches = [
     courriel: 'contact@coopdesdomes.fr',
     facebook: 'https://www.facebook.com/CoopDesDomes',
     avancement: 4,
-    lattitude: 45.81259,
+    latitude: 45.81259,
     longitude: 3.12860
   },
   {
@@ -578,7 +578,7 @@ export const supermarches = [
     site_web: 'http://www.alternateur63.fr/',
     facebook: 'https://www.facebook.com/alternateursauxillanges/',
     avancement: 4,
-    lattitude: 45.55090,
+    latitude: 45.55090,
     longitude: 3.37189
   },
   {
@@ -591,7 +591,7 @@ export const supermarches = [
     courriel: 'contact@otsokop.org',
     facebook: 'https://www.facebook.com/otsokop/',
     avancement: 4,
-    lattitude: 43.502204,
+    latitude: 43.502204,
     longitude: -1.4705459
   },
   {
@@ -603,7 +603,7 @@ export const supermarches = [
     courriel: 'larrunkoop@gmail.com',
     facebook: 'https://www.facebook.com/larrunkoop/',
     avancement: 4,
-    lattitude: 43.36436,
+    latitude: 43.36436,
     longitude: -1.69864
   },
   {
@@ -616,7 +616,7 @@ export const supermarches = [
     courriel: 'hendaiakoop@gmail.com',
     facebook: 'https://www.facebook.com/hendaiakoop/',
     avancement: 4,
-    lattitude: 43.35817,
+    latitude: 43.35817,
     longitude: -1.77568
   },
   {
@@ -628,7 +628,7 @@ export const supermarches = [
     site_web: 'https://coopdesluys.fr/',
     courriel: 'contact.coopdesluys@gmail.com',
     avancement: 4,
-    lattitude: 43.404078,
+    latitude: 43.404078,
     longitude: -0.38633
   },
   {
@@ -641,7 +641,7 @@ export const supermarches = [
     courriel: 'o.vrac.coop66@gmail.com',
     facebook: 'https://www.facebook.com/ovrac.coop/',
     avancement: 4,
-    lattitude: 42.67770,
+    latitude: 42.67770,
     longitude: 2.89405
   },
   {
@@ -654,7 +654,7 @@ export const supermarches = [
     courriel: 'coopalim@gmail.com',
     facebook: 'https://www.facebook.com/coopalim.strasbourg/',
     avancement: 4,
-    lattitude: 48.58412,
+    latitude: 48.58412,
     longitude: 7.73854
   },
   {
@@ -667,7 +667,7 @@ export const supermarches = [
     courriel: 'contact@CoopLesOiesSauvages.Alsace',
     facebook: 'https://www.facebook.com/CoopLesOiesSauvages/',
     avancement: 4,
-    lattitude: 48.08105,
+    latitude: 48.08105,
     longitude: 7.34906
   },
   {
@@ -680,7 +680,7 @@ export const supermarches = [
     courriel: 'contact@mehlala.net',
     facebook: 'https://www.facebook.com/epicerieparticipativemulhouse/',
     avancement: 4,
-    lattitude: 47.74908,
+    latitude: 47.74908,
     longitude: 7.32568
   },
   {
@@ -693,7 +693,7 @@ export const supermarches = [
     courriel: 'communicationdemain@gmail.com',
     facebook: 'https://www.facebook.com/Lameltingcoop',
     avancement: 4,
-    lattitude: 45.76850,
+    latitude: 45.76850,
     longitude: 4.88600
   },
   {
@@ -706,7 +706,7 @@ export const supermarches = [
     courriel: 'mailto:contact@lesfourmissarthoises.fr',
     facebook: 'https://www.facebook.com/Les-fourmis-sarthoises-Super-Coop-Le-Mans-113575293764329',
     avancement: 4,
-    lattitude: 48.007107,
+    latitude: 48.007107,
     longitude: 0.189676
   },
   {
@@ -719,7 +719,7 @@ export const supermarches = [
     courriel: 'contact@ekosystm.com',
     facebook: 'https://www.facebook.com/EkosystM',
     avancement: 5,
-    lattitude: 45.56864,
+    latitude: 45.56864,
     longitude: 5.90300
   },
   {
@@ -732,7 +732,7 @@ export const supermarches = [
     courriel: 'contact@alpar.fr',
     facebook: 'https://www.facebook.com/alparcoop/',
     avancement: 4,
-    lattitude: 45.92011,
+    latitude: 45.92011,
     longitude: 6.08801
   },
   {
@@ -745,7 +745,7 @@ export const supermarches = [
     courriel: 'contact@les400coop.fr',
     facebook: 'https://www.facebook.com/les400coop/',
     avancement: 4,
-    lattitude: 48.85362,
+    latitude: 48.85362,
     longitude: 2.39629
   },
   {
@@ -758,7 +758,7 @@ export const supermarches = [
     courriel: 'communication@coopaparis.fr',
     facebook: 'https://www.facebook.com/coopalimentairegouttedor/',
     avancement: 4,
-    lattitude: 48.88984,
+    latitude: 48.88984,
     longitude: 2.35577
   },
   {
@@ -771,7 +771,7 @@ export const supermarches = [
     courriel: 'contact@coop14.fr',
     facebook: 'https://www.facebook.com/coop14paris',
     avancement: 4,
-    lattitude: 48.82267,
+    latitude: 48.82267,
     longitude: 2.32901
   },
   {
@@ -784,7 +784,7 @@ export const supermarches = [
     courriel: 'info@cooplalouve.fr',
     facebook: 'https://www.facebook.com/CoopLaLouve',
     avancement: 5,
-    lattitude: 48.89444,
+    latitude: 48.89444,
     longitude: 2.35306
   },
   {
@@ -797,7 +797,7 @@ export const supermarches = [
     courriel: 'contact@cooplasource.fr',
     facebook: 'https://www.facebook.com/cooplasource/',
     avancement: 4,
-    lattitude: 48.85731,
+    latitude: 48.85731,
     longitude: 2.41086
   },
   {
@@ -809,7 +809,7 @@ export const supermarches = [
     site_web: 'https://jachetemonsupermarche.com/',
     courriel: 'contact@laserrecitoyenne.fr',
     avancement: 1,
-    lattitude: 49.9213789,
+    latitude: 49.9213789,
     longitude: 1.0739232
   },
   {
@@ -821,7 +821,7 @@ export const supermarches = [
     courriel: 'epicerie.cooperative@gmail.com',
     facebook: 'https://www.facebook.com/LaMouette.epicerie.coop.havraise/',
     avancement: 4,
-    lattitude: 49.50015,
+    latitude: 49.50015,
     longitude: 0.12778
   },
   {
@@ -834,7 +834,7 @@ export const supermarches = [
     courriel: 'kissikol@ik.me',
     facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
     avancement: 3,
-    lattitude: 49.44242,
+    latitude: 49.44242,
     longitude: 1.10561
   },
   {
@@ -847,7 +847,7 @@ export const supermarches = [
     courriel: 'contact@valcoop.fr',
     facebook: 'https://www.facebook.com/Valcoop-713079712233414/',
     avancement: 4,
-    lattitude: 48.83313,
+    latitude: 48.83313,
     longitude: 2.66131
   },
   {
@@ -860,7 +860,7 @@ export const supermarches = [
     courriel: 'cooplicot@gmail.com',
     facebook: 'https://www.facebook.com/Cooplicot/',
     avancement: 3,
-    lattitude: 48.37344,
+    latitude: 48.37344,
     longitude: 2.82323
   },
   {
@@ -873,7 +873,7 @@ export const supermarches = [
     courriel: 'info@lechaudroncoop.fr',
     facebook: 'https://www.facebook.com/lechaudroncoop/',
     avancement: 3,
-    lattitude: 48.82640,
+    latitude: 48.82640,
     longitude: 2.13777
   },
   {
@@ -886,7 +886,7 @@ export const supermarches = [
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
     avancement: 4,
-    lattitude: 48.87371,
+    latitude: 48.87371,
     longitude: 2.08255
   },
   {
@@ -899,7 +899,7 @@ export const supermarches = [
     courriel: 'contact@lepicastelfortain.fr',
     facebook: 'https://www.facebook.com/lepicastelfortain/',
     avancement: 4,
-    lattitude: 48.73654,
+    latitude: 48.73654,
     longitude: 2.09161
   },
   {
@@ -911,7 +911,7 @@ export const supermarches = [
     site_web: 'http://www.lepeuplie.org/',
     courriel: 'contact@lepeuplie.org',
     avancement: 4,
-    lattitude: 49.89002,
+    latitude: 49.89002,
     longitude: 2.32389
   },
   {
@@ -924,7 +924,7 @@ export const supermarches = [
     courriel: 'lesamisdelacasa81@gmail.com',
     facebook: 'https://www.facebook.com/Les-amis-de-la-CASA-144243456174379/',
     avancement: 4,
-    lattitude: 43.93032,
+    latitude: 43.93032,
     longitude: 2.14615
   },
   {
@@ -937,7 +937,7 @@ export const supermarches = [
     courriel: 'bonjour@lacoopsurmer.fr',
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
     avancement: 5,
-    lattitude: 43.11985,
+    latitude: 43.11985,
     longitude: 5.95289
   },
   {
@@ -950,7 +950,7 @@ export const supermarches = [
     courriel: 'contact@cooplacerise.fr',
     facebook: 'https://www.facebook.com/lacerisesurlegapeau/',
     avancement: 4,
-    lattitude: 43.17083,
+    latitude: 43.17083,
     longitude: 6.03964
   },
   {
@@ -963,7 +963,7 @@ export const supermarches = [
     courriel: 'lespotiront83@gmail.com',
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
-    lattitude: 43.53779,
+    latitude: 43.53779,
     longitude: 6.467465
   },
   {
@@ -976,7 +976,7 @@ export const supermarches = [
     courriel: 'lespotiront83@gmail.com',
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
-    lattitude: 43.422619,
+    latitude: 43.422619,
     longitude: 6.742483
   },
   {
@@ -989,7 +989,7 @@ export const supermarches = [
     courriel: 'contact@gem-la-coop.org',
     facebook: 'https://www.facebook.com/lesamiesgemlacoop/',
     avancement: 4,
-    lattitude: 43.94053,
+    latitude: 43.94053,
     longitude: 4.82196
   },
   {
@@ -1002,7 +1002,7 @@ export const supermarches = [
     courriel: 'contact@lalouetcoop.fr',
     facebook: 'https://www.facebook.com/LalouetCoop/',
     avancement: 5,
-    lattitude: 46.86902,
+    latitude: 46.86902,
     longitude: -1.00104
   },
   {
@@ -1015,7 +1015,7 @@ export const supermarches = [
     courriel: 'infos@lebaudet.fr',
     facebook: 'https://www.facebook.com/LeBaudetduPoitou/',
     avancement: 4,
-    lattitude: 46.57613,
+    latitude: 46.57613,
     longitude: 0.33847
   },
   {
@@ -1028,7 +1028,7 @@ export const supermarches = [
     courriel: 'contact@epautre.fr',
     facebook: 'https://www.facebook.com/Ep.autre',
     avancement: 3,
-    lattitude: 48.68521,
+    latitude: 48.68521,
     longitude: 2.37678
   },
   {
@@ -1041,7 +1041,7 @@ export const supermarches = [
     courriel: 'lesamisdelafrenchcoop@gmail.com',
     facebook: 'https://www.facebook.com/lafrenchcoop/',
     avancement: 4,
-    lattitude: 48.90514,
+    latitude: 48.90514,
     longitude: 2.28285
   },
   {
@@ -1053,7 +1053,7 @@ export const supermarches = [
     courriel: 'coopdupre@gmail.com',
     facebook: 'https://www.facebook.com/coopdupre/',
     avancement: 2,
-    lattitude: 48.88416,
+    latitude: 48.88416,
     longitude: 2.40373
   },
   {
@@ -1066,7 +1066,7 @@ export const supermarches = [
     courriel: 'contact@lacaravanecoop.fr',
     facebook: 'https://www.facebook.com/Lacaravanecoop',
     avancement: 4,
-    lattitude: 48.85985,
+    latitude: 48.85985,
     longitude: 2.44549
   },
   {
@@ -1079,7 +1079,7 @@ export const supermarches = [
     courriel: 'contact@coopcot.fr',
     facebook: 'https://fr-fr.facebook.com/supermarchecooperatif94/',
     avancement: 3,
-    lattitude: 48.78692,
+    latitude: 48.78692,
     longitude: 2.44684
   },
   {
@@ -1092,7 +1092,7 @@ export const supermarches = [
     courriel: 'contact@coquelicoop.fr',
     facebook: 'https://www.facebook.com/coquelicoop.fr/',
     avancement: 4,
-    lattitude: 48.76133,
+    latitude: 48.76133,
     longitude: 2.32645
   },
   {
@@ -1105,7 +1105,7 @@ export const supermarches = [
     courriel: 'contact@cooplesbains.fr',
     facebook: 'https://www.facebook.com/coopenghien/',
     avancement: 4,
-    lattitude: 48.96901,
+    latitude: 48.96901,
     longitude: 2.30729
   },
   {
@@ -1117,7 +1117,7 @@ export const supermarches = [
     courriel: 'lacalebasse.coop@gmail.com',
     facebook: 'https://www.facebook.com/lacalebasse971/',
     avancement: 2,
-    lattitude: 16.2350099,
+    latitude: 16.2350099,
     longitude: -61.560867
   },
   {
@@ -1130,7 +1130,7 @@ export const supermarches = [
     courriel: 'lacoopanous@gmail.com',
     facebook: 'https://www.facebook.com/coopanous/',
     avancement: 3,
-    lattitude: -22.26569,
+    latitude: -22.26569,
     longitude: 166.47021
   },
   {
@@ -1143,7 +1143,7 @@ export const supermarches = [
     courriel: 'contact@bees-coop.be',
     facebook: 'https://www.facebook.com/CooperativeBEES/',
     avancement: 5,
-    lattitude: 50.85690,
+    latitude: 50.85690,
     longitude: 4.37731
   },
   {
@@ -1156,7 +1156,7 @@ export const supermarches = [
     courriel: 'info@woocoop.be',
     facebook: 'https://www.facebook.com/WooCoop/',
     avancement: 4,
-    lattitude: 50.71833,
+    latitude: 50.71833,
     longitude: 4.38585
   },
   {
@@ -1169,7 +1169,7 @@ export const supermarches = [
     courriel: 'contact@oufticoop.be',
     facebook: 'https://www.facebook.com/Oufticoop-2003796329891655',
     avancement: 4,
-    lattitude: 50.64565,
+    latitude: 50.64565,
     longitude: 5.58813
   },
   {
@@ -1182,7 +1182,7 @@ export const supermarches = [
     courriel: 'info@coopeco-supermarche.be',
     facebook: 'https://www.facebook.com/coopecosupermarche/',
     avancement: 4,
-    lattitude: 50.40678,
+    latitude: 50.40678,
     longitude: 4.4011
   },
   {
@@ -1195,7 +1195,7 @@ export const supermarches = [
     courriel: 'info@vervicoop.be',
     facebook: 'https://www.facebook.com/vervicoop/',
     avancement: 4,
-    lattitude: 50.59220,
+    latitude: 50.59220,
     longitude: 5.86691
   },
   {
@@ -1208,7 +1208,7 @@ export const supermarches = [
     courriel: 'info@bloum.be',
     facebook: 'https://www.facebook.com/bloumcoop1190/',
     avancement: 4,
-    lattitude: 50.81946,
+    latitude: 50.81946,
     longitude: 4.32684
   },
   {
@@ -1221,7 +1221,7 @@ export const supermarches = [
     courriel: 'miam@macavrac.be',
     facebook: 'https://www.facebook.com/Macavrac/',
     avancement: 4,
-    lattitude: 50.71466,
+    latitude: 50.71466,
     longitude: 4.60906
   },
   {
@@ -1234,7 +1234,7 @@ export const supermarches = [
     courriel: 'contact@co-e-sion.ch',
     facebook: 'https://www.facebook.com/coopcoesion/',
     avancement: 4,
-    lattitude: 46.24560,
+    latitude: 46.24560,
     longitude: 7.37079
   },
   {
@@ -1247,7 +1247,7 @@ export const supermarches = [
     courriel: 'info@lenid.ch',
     facebook: 'https://www.facebook.com/lenidgeneve/',
     avancement: 4,
-    lattitude: 46.20274,
+    latitude: 46.20274,
     longitude: 6.13502
   },
   {
@@ -1260,7 +1260,7 @@ export const supermarches = [
     courriel: 'info@spp-vergers.ch',
     facebook: 'https://www.facebook.com/SupermarcheParticipatifPaysan/',
     avancement: 4,
-    lattitude: 46.23182,
+    latitude: 46.23182,
     longitude: 6.07173
   },
   {
@@ -1273,7 +1273,7 @@ export const supermarches = [
     courriel: 'contact@systeme-b.ch',
     facebook: 'https://www.facebook.com/SystemeB.ch/',
     avancement: 4,
-    lattitude: 46.99855,
+    latitude: 46.99855,
     longitude: 6.93699
   },
   {
@@ -1285,7 +1285,7 @@ export const supermarches = [
     site_web: 'https://about.chez-emmy.ch/',
     courriel: 'epicerie@chez-emmy.ch',
     avancement: 4,
-    lattitude: 47.01291,
+    latitude: 47.01291,
     longitude: 6.98710
   },
   {
@@ -1298,7 +1298,7 @@ export const supermarches = [
     courriel: 'contact@lepiceriedacote.ch',
     facebook: 'https://www.facebook.com/lepiceriedacote',
     avancement: 4,
-    lattitude: 46.9944222,
+    latitude: 46.9944222,
     longitude: 6.9306194
   },
   {
@@ -1311,7 +1311,7 @@ export const supermarches = [
     courriel: 'info@epicentre-boudry.ch',
     facebook: 'https://www.facebook.com/EpicerieVracBoudry/',
     avancement: 4,
-    lattitude: 46.9488861,
+    latitude: 46.9488861,
     longitude: 6.8358758
   },
   {
@@ -1324,7 +1324,7 @@ export const supermarches = [
     courriel: 'contact@epicoop.ch',
     facebook: 'https://www.facebook.com/EpicoopRiviera/',
     avancement: 4,
-    lattitude: 46.4660495,
+    latitude: 46.4660495,
     longitude: 6.84262831
   },
   {
@@ -1337,7 +1337,7 @@ export const supermarches = [
     courriel: 'epicerie@coupe-circuit.ch',
     facebook: 'https://www.facebook.com/epicerie.coupe.circuit',
     avancement: 4,
-    lattitude: 46.5268883,
+    latitude: 46.5268883,
     longitude: 6.6113325
   },
   {
@@ -1350,7 +1350,7 @@ export const supermarches = [
     courriel: 'coop@lejardinvivant.ch',
     facebook: 'https://www.facebook.com/lejardinvivantlausanne',
     avancement: 4,
-    lattitude: 46.5190778,
+    latitude: 46.5190778,
     longitude: 6.6243197
   },
   {
@@ -1363,7 +1363,7 @@ export const supermarches = [
     courriel: 'epicerie@lerucher.ch',
     facebook: '',
     avancement: 4,
-    lattitude: 47.111300,
+    latitude: 47.111300,
     longitude: 6.825810
   },
   {
@@ -1376,7 +1376,7 @@ export const supermarches = [
     courriel: 'info@lemarchesaintgermain.ch',
     facebook: 'https://www.facebook.com/lemarchesaintgermain',
     avancement: 4,
-    lattitude: 47.4158272,
+    latitude: 47.4158272,
     longitude: 7.0798611
   },
   {
@@ -1389,7 +1389,7 @@ export const supermarches = [
     courriel: 'info@lavracrie.ch',
     facebook: 'https://www.facebook.com/VracrieVully',
     avancement: 4,
-    lattitude: 46.9553806,
+    latitude: 46.9553806,
     longitude: 7.1021961
   },
   {
@@ -1402,7 +1402,7 @@ export const supermarches = [
     courriel: 'info@levorace.ch',
     facebook: 'https://www.facebook.com/levorace.epicerie',
     avancement: 4,
-    lattitude: 46.5249147,
+    latitude: 46.5249147,
     longitude: 6.5748100
   },
   {
@@ -1415,7 +1415,7 @@ export const supermarches = [
     courriel: 'info@lelocal-nyon.ch',
     facebook: 'https://www.facebook.com/Lelocalnyon/',
     avancement: 4,
-    lattitude: 46.3818228,
+    latitude: 46.3818228,
     longitude: 6.2356514
   },
   {
@@ -1428,7 +1428,7 @@ export const supermarches = [
     courriel: 'info@tabernam.ch',
     facebook: 'https://www.facebook.com/tabernam.epicerie',
     avancement: 4,
-    lattitude: 46.788097,
+    latitude: 46.788097,
     longitude: 6.648250
   },
   {
@@ -1441,7 +1441,7 @@ export const supermarches = [
     courriel: 'info@labrouette.ch',
     facebook: 'https://www.facebook.com/epicerielabrouette',
     avancement: 5,
-    lattitude: 46.528140,
+    latitude: 46.528140,
     longitude: 6.615700
   },
   {
@@ -1453,7 +1453,7 @@ export const supermarches = [
     site_web: 'https://epicerielacanopee.ch/',
     courriel: 'epiceriemuraz@gmail.com',
     avancement: 4,
-    lattitude: 46.2980042,
+    latitude: 46.2980042,
     longitude: 7.5292742
   },
   {
@@ -1465,7 +1465,7 @@ export const supermarches = [
     site_web: 'https://www.lesenfantsdelaterre.ch/site/',
     courriel: 'epicerie@lesenfantsdelaterre.ch',
     avancement: 4,
-    lattitude: 47.0595840,
+    latitude: 47.0595840,
     longitude: 6.90387011
   },
   {
@@ -1477,7 +1477,7 @@ export const supermarches = [
     site_web: 'https://lesptitspois.ch/',
     courriel: '',
     avancement: 4,
-    lattitude: 46.51195213,
+    latitude: 46.51195213,
     longitude: 6.484526483
   },
   {
@@ -1490,7 +1490,7 @@ export const supermarches = [
     courriel: 'gemma@thepeoplessupermarket.org',
     facebook: 'https://www.facebook.com/thepeoplessupermarket/',
     avancement: 5,
-    lattitude: 51.5226,
+    latitude: 51.5226,
     longitude: -0.11875
   },
   {
@@ -1503,7 +1503,7 @@ export const supermarches = [
     courriel: 'contact@altercoop.lu',
     facebook: 'https://www.facebook.com/AlterCoopLuxembourg/',
     avancement: 4,
-    lattitude: 49.641337,
+    latitude: 49.641337,
     longitude: 6.135053
   },
   {
@@ -1516,7 +1516,7 @@ export const supermarches = [
     courriel: 'info@camilla.coop',
     facebook: 'https://www.facebook.com/cooperativacamilla/',
     avancement: 5,
-    lattitude: 44.50582,
+    latitude: 44.50582,
     longitude: 11.36045
   },
   {
@@ -1529,7 +1529,7 @@ export const supermarches = [
     courriel: 'contact@lokatten.org',
     facebook: 'https://www.facebook.com/groups/1503136399808982/',
     avancement: 3,
-    lattitude: 59.3255,
+    latitude: 59.3255,
     longitude: 18.0711
   },
   {
@@ -1542,7 +1542,7 @@ export const supermarches = [
     courriel: 'geral@rizomacoop.pt',
     facebook: 'https://www.facebook.com/rizomacoop.pt',
     avancement: 4,
-    lattitude: 38.713767,
+    latitude: 38.713767,
     longitude: -9.136232
   },
   {
@@ -1555,7 +1555,7 @@ export const supermarches = [
     courriel: 'info@dublinfood.coop',
     facebook: 'https://www.facebook.com/DublinFoodCoop/',
     avancement: 5,
-    lattitude: 53.34239,
+    latitude: 53.34239,
     longitude: -6.31017
   },
   {
@@ -1568,7 +1568,7 @@ export const supermarches = [
     courriel: 'info@theurbanco-op.ie',
     facebook: 'https://www.facebook.com/TheUrbanCoOp/',
     avancement: 5,
-    lattitude: 52.64936,
+    latitude: 52.64936,
     longitude: -8.58885
   },
   {
@@ -1581,7 +1581,7 @@ export const supermarches = [
     courriel: 'belfastfoodcoopni@gmail.com',
     facebook: 'https://www.facebook.com/belfastfoodcoop/',
     avancement: 5,
-    lattitude: 54.63048,
+    latitude: 54.63048,
     longitude: -5.94133
   },
   {
@@ -1594,7 +1594,7 @@ export const supermarches = [
     courriel: 'hola@laosa.coop',
     facebook: 'https://www.facebook.com/LaOsaCoop/',
     avancement: 5,
-    lattitude: 40.47141,
+    latitude: 40.47141,
     longitude: -3.69835
   },
   {
@@ -1604,7 +1604,7 @@ export const supermarches = [
     logo: 'foodcoop_bundes_ag.png',
     site_web: 'http://www.oekoop.de/bag_contenido-4.8/cms/front_content.php?idcat=25',
     avancement: 5,
-    lattitude: 51.591,
+    latitude: 51.591,
     longitude: 10.545
   },
   {
@@ -1614,7 +1614,7 @@ export const supermarches = [
     logo: 'foodcops_at.png',
     site_web: 'https://foodcoops.at/bestehende-foodcoops/',
     avancement: 5,
-    lattitude: 47.881,
+    latitude: 47.881,
     longitude: 14.770
   },
   {
@@ -1627,7 +1627,7 @@ export const supermarches = [
     courriel: 'info@epicerieledetour.org',
     facebook: 'https://www.facebook.com/epicerieledetour',
     avancement: 4,
-    lattitude: 45.48118,
+    latitude: 45.48118,
     longitude: -73.55223
   },
   {
@@ -1640,7 +1640,7 @@ export const supermarches = [
     courriel: 'epiceriecoopmtl@gmail.com',
     facebook: 'https://www.facebook.com/lortiefolle',
     avancement: 2,
-    lattitude: 45.39785,
+    latitude: 45.39785,
     longitude: -73.8122
   },
   {
@@ -1650,7 +1650,7 @@ export const supermarches = [
     logo: 'cooplib.png',
     site_web: 'https://cooplib.fr/',
     avancement: 4,
-    lattitude: 46.110,
+    latitude: 46.110,
     longitude: -4.264
   }
 ]
