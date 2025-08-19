@@ -1,0 +1,29 @@
+#! /usr/bin/env node
+
+import {readdirSync} from 'node:fs';
+import {supermarches} from "../json/supermarches.js";
+
+const logosOnDisk = readdirSync('logo');
+const logosConfigured = supermarches.map(element => element.logo).filter(logo => logo !== '');
+const logoMissingOnDisk = logosConfigured.filter(logo => !logosOnDisk.includes(logo))
+const logoNotConfigured = logosOnDisk.filter(logo => !logosConfigured.includes(logo))
+
+function print(message, list) {
+  if (!list.length) {
+    return
+  }
+
+  console.error(list.length + ' ' + message);
+  console.log();
+  list.forEach(logo => console.log('- ' + logo));
+  console.log();
+}
+
+print(`logos sont manquant dans logo/`, logoMissingOnDisk);
+print(`logos existent dans logo/ mais ne sont jamais configuré`, logoNotConfigured);
+
+if (logoMissingOnDisk.length || logoNotConfigured.length) {
+  process.exit(1)
+}else{
+  console.log('Tous les logos sont OK');
+}
