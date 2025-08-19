@@ -9,7 +9,7 @@ body {
 
 #mapid
 {
-    min-width: 100vh; 
+    min-width: 100vh;
     min-height: 100vh;
 }
 
@@ -25,9 +25,8 @@ h2{
 table {
     border-collapse:collapse;
     width:100%;
-    text-align:center;
 }
-    
+
 caption {
     caption-side:top;
     font-weight:bold;
@@ -42,7 +41,7 @@ th {
 table,th, td {
     border: 1px solid gray;
 }
-    
+
 th, td {
     padding:5px;
     vertical-align:middle;
@@ -50,4 +49,8 @@ th, td {
 
 table tr:nth-child(odd) td {
     background-color: #F0F0F0;
+}
+
+table tr:hover td {
+    background: #c9c9c9 ;
 }
