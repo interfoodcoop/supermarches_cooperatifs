@@ -684,17 +684,17 @@ export const supermarches = [
     longitude: 7.32568
   },
   {
-    nom: 'Demain',
+    nom: 'La Melting Coop<br>(Anciennement Demain)',
     departement: '69',
-    ville: 'Lyon',
-    adresse: '2 place des Pavillons',
-    logo: 'demain.jpg',
+    ville: 'Villeurbanne',
+    adresse: '229 cours Émile Zola',
+    logo: 'lameltingcoop.jpg',
     site_web: 'http://www.demainsupermarche.org/',
     courriel: 'communicationdemain@gmail.com',
-    facebook: 'https://www.facebook.com/Demainsupermarche/',
+    facebook: 'https://www.facebook.com/Lameltingcoop',
     avancement: 4,
-    lattitude: 45.72920,
-    longitude: 4.82997
+    lattitude: 45.76850,
+    longitude: 4.88600
   },
   {
     nom: 'Les fourmis sarthoises',
