@@ -1328,19 +1328,6 @@ export const supermarches = [
     longitude: 6.84262831
   },
   {
-    nom: 'Marché d\'ici',
-    departement: 'CH',
-    ville: 'Vallorbe',
-    adresse: 'Place de la Liberté 6',
-    logo: 'marchedici.jpg',
-    site_web: 'https://about.marchedici.ch/',
-    courriel: 'epicerie@marchedici.ch',
-    facebook: 'https://www.facebook.com/March%C3%A9-dici-103369157984126/',
-    avancement: 4,
-    lattitude: 46.7118111,
-    longitude: 6.3761211
-  },
-  {
     nom: 'Coupe Circuit',
     departement: 'CH',
     ville: 'Lausanne',
@@ -1432,19 +1419,6 @@ export const supermarches = [
     longitude: 6.2356514
   },
   {
-    nom: 'La Superethic',
-    departement: 'CH',
-    ville: 'Neuchâtel',
-    adresse: 'Rue des Sablons 46',
-    logo: 'superethic.png',
-    site_web: 'https://superethic.ch/',
-    courriel: 'info@superethic.ch',
-    facebook: 'https://www.facebook.com/LaSuperethic',
-    avancement: 4,
-    lattitude: 46.996140,
-    longitude: 6.932370
-  },
-  {
     nom: 'Tabernam',
     departement: 'CH',
     ville: 'Yverdon',
@@ -1453,7 +1427,7 @@ export const supermarches = [
     site_web: 'https://tabernam.ch',
     courriel: 'info@tabernam.ch',
     facebook: 'https://www.facebook.com/tabernam.epicerie',
-    avancement: 1,
+    avancement: 4,
     lattitude: 46.788097,
     longitude: 6.648250
   },
@@ -1481,6 +1455,30 @@ export const supermarches = [
     avancement: 4,
     lattitude: 46.2980042,
     longitude: 7.5292742
+  },
+  {
+    nom: 'Les Enfants de la Terre',
+    departement: 'CH',
+    ville: 'Cernier',
+    adresse: '24, rue Frédéric-Soguel',
+    logo: 'lesenfantsdelaterre.webp',
+    site_web: 'https://www.lesenfantsdelaterre.ch/site/',
+    courriel: 'epicerie@lesenfantsdelaterre.ch',
+    avancement: 4,
+    lattitude: 47.0595840,
+    longitude: 6.90387011
+  },
+  {
+    nom: 'Les P\'tits Pois',
+    departement: 'CH',
+    ville: 'Morges',
+    adresse: 'Promenade de l\'Eglantine 1',
+    logo: 'lesptitspois.jpg',
+    site_web: 'https://lesptitspois.ch/',
+    courriel: '',
+    avancement: 4,
+    lattitude: 46.51195213,
+    longitude: 6.484526483
   },
   {
     nom: "The People's <br>Supermarket",
