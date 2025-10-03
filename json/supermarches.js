@@ -1,6 +1,6 @@
 export const supermarches = [
   {
-    nom: 'Park Slop<br>Food Coop',
+    nom: 'Park Slop Food Coop',
     adresse: '782 Union Street, Brooklyn',
     ville: 'New York',
     departement: '',
@@ -166,7 +166,8 @@ export const supermarches = [
   },
   {
     nom: 'Le Gase de la Baie',
-    adresse: 'Chapelle St Joseph<br>13 rue Villeneuve<br>29600 Morlaix',
+    adresse: 'Chapelle St Joseph, 13 rue Villeneuve',
+    code_postal: '29600',
     ville: 'Morlaix',
     departement: '29',
     pays: 'France',
@@ -180,7 +181,8 @@ export const supermarches = [
   },
   {
     nom: 'La RieCoop',
-    adresse: '25 rue François Cadoret<br>29340 Riec-sur-Bélon',
+    adresse: '25 rue François Cadoret',
+    code_postal: '29340',
     ville: 'Riec-sur-Bélon',
     departement: '29',
     pays: 'France',
@@ -234,7 +236,8 @@ export const supermarches = [
   },
   {
     nom: 'La Coopé',
-    adresse: '3 chemin de la garenne<br>33210 Langon',
+    adresse: '3 chemin de la garenne',
+    code_postal: '33210',
     ville: 'Langon',
     departement: '33',
     pays: 'France',
@@ -269,7 +272,8 @@ export const supermarches = [
   },
   {
     nom: 'La Crèmerie',
-    adresse: '128 Rue du Romarin<br>34830 Clapiers',
+    adresse: '128 Rue du Romarin',
+    code_postal: '34830',
     ville: 'Clapiers',
     departement: '34',
     pays: 'France',
@@ -338,8 +342,9 @@ export const supermarches = [
     longitude: 5.7304083
   },
   {
-    nom: 'Les ami.e.s de Coop\'cinelles',
-    adresse: '28 chemin des couloures<br>38300 Bourgoin Jallieu',
+    nom: "Les ami.e.s de Coop'cinelles",
+    adresse: '28 chemin des couloures',
+    code_postal: '38300',
     ville: 'Bourgoin Jallieu',
     departement: '38',
     pays: 'France',
@@ -353,7 +358,8 @@ export const supermarches = [
   },
   {
     nom: 'La Marm"Hotte',
-    adresse: '55 Grande Rue<br>38530 Barraux',
+    adresse: '55 Grande Rue',
+    code_postal: '38530',
     ville: 'Barraux',
     departement: '38',
     pays: 'France',
@@ -367,7 +373,8 @@ export const supermarches = [
   },
   {
     nom: 'La Cambuse',
-    adresse: '69, rue du Pont Neuf<br>39000 Lons le Saunier',
+    adresse: '69, rue du Pont Neuf',
+    code_postal: '39000',
     ville: 'Lons le Saunier',
     departement: '39',
     pays: 'France',
@@ -393,7 +400,8 @@ export const supermarches = [
   },
   {
     nom: 'La libellule',
-    adresse: '8 avenue de la Libération<br>Le Coteau 42120',
+    adresse: '8 avenue de la Libération',
+    code_postal: '42120',
     ville: 'Le coteau',
     departement: '42',
     pays: 'France',
@@ -407,7 +415,8 @@ export const supermarches = [
   },
   {
     nom: 'Scopéli',
-    adresse: '20 Rue de l’Abbé Grégoire,<br> 44 400 Rezé',
+    adresse: '20 Rue de l’Abbé Grégoire',
+    code_postal: '44400',
     ville: 'Nantes',
     departement: '44',
     pays: 'France',
@@ -435,8 +444,9 @@ export const supermarches = [
   },
   {
     nom: 'La coopérette',
-    adresse: '10 avenue francois rabelais<br>Saint Jean de Braye – 45800',
-    ville: 'Orléans',
+    adresse: '10 avenue francois rabelais',
+    code_postal: '45800',
+    ville: 'Saint Jean de Braye (Orléans)',
     departement: '45',
     pays: 'France',
     logo: 'cooperette.jpg',
@@ -449,8 +459,9 @@ export const supermarches = [
   },
   {
     nom: 'La Gabare',
-    adresse: '1455 Rue de la Bergeresse<br>Olivet - 45160',
-    ville: 'Orléans',
+    adresse: '1455 Rue de la Bergeresse',
+    code_postal: '45160',
+    ville: 'Olivet (Orléans)',
     departement: '45',
     pays: 'France',
     logo: 'la_gabare.png',
@@ -530,7 +541,8 @@ export const supermarches = [
   },
   {
     nom: 'Coop des Vénètes',
-    adresse: '3 Rue de Lorraine<br>56860 Séné',
+    adresse: '3 Rue de Lorraine',
+    code_postal: '56860',
     ville: 'Séné',
     departement: '56',
     pays: 'France',
@@ -585,7 +597,8 @@ export const supermarches = [
   },
   {
     nom: 'La Baraque En Vrac',
-    adresse: '44 Rue Jeanne Maillotte<br>59110 La Madeleine',
+    adresse: '44 Rue Jeanne Maillotte',
+    code_postal: '59110',
     ville: 'La Madeleine',
     departement: '59',
     pays: 'France',
@@ -653,7 +666,8 @@ export const supermarches = [
   },
   {
     nom: 'Larrunkoop Urrugne',
-    adresse: 'Go Etche<br>3 Rue Dongaitz Anaiak<br>64122 Urrugne',
+    adresse: 'Go Etche, 3 Rue Dongaitz Anaiak',
+    code_postal: '64122',
     ville: 'Urrugne',
     departement: '64',
     pays: 'France',
@@ -666,7 +680,8 @@ export const supermarches = [
   },
   {
     nom: 'Hendaia Koop',
-    adresse: '10 rue du Port <br> 64700 Hendaye',
+    adresse: '10 rue du Port',
+    code_postal: '64700',
     ville: 'Hendaye',
     departement: '64',
     pays: 'France',
@@ -693,7 +708,8 @@ export const supermarches = [
   },
   {
     nom: 'O Vrac Coop',
-    adresse: '145 Chemin de la  Passio Vella<br>66100 Perpignan',
+    adresse: '145 Chemin de la  Passio Vella',
+    code_postal: '66100',
     ville: 'Perpignan',
     departement: '66',
     pays: 'France',
@@ -888,7 +904,8 @@ export const supermarches = [
   },
   {
     nom: 'La mouette',
-    adresse: '145, rue du Maréchal Joffre<br>76600 Le Havre',
+    adresse: '145, rue du Maréchal Joffre',
+    code_postal: '76600',
     ville: 'Le Havre',
     departement: '76',
     pays: 'France',
@@ -915,7 +932,8 @@ export const supermarches = [
   },
   {
     nom: 'Valcoop',
-    adresse: '4 All. Emile Reynaud <br>77200 Torcy',
+    adresse: '4 All. Emile Reynaud',
+    code_postal: '77200',
     ville: 'Torcy',
     departement: '77',
     pays: 'France',
@@ -957,7 +975,8 @@ export const supermarches = [
   },
   {
     nom: 'Pop la coop',
-    adresse: '46 Chem. de Montval à la Montagne<br>78160 Marly-le-Roi',
+    adresse: '46 Chem. de Montval à la Montagne',
+    code_postal: '78160',
     ville: 'Marly-le-roi',
     departement: '78',
     pays: 'France',
@@ -1027,7 +1046,8 @@ export const supermarches = [
   },
   {
     nom: 'La cerise sur le Gapeau',
-    adresse: '136 Rue du Partégal<br>83210 La Farlède',
+    adresse: '136 Rue du Partégal',
+    code_postal: '83210',
     ville: 'La Farlède',
     departement: '83',
     pays: 'France',
@@ -1069,7 +1089,8 @@ export const supermarches = [
   },
   {
     nom: 'Gem la coop',
-    adresse: '49 Rue Alexandre Blanc<br>84000 Avignon',
+    adresse: '49 Rue Alexandre Blanc',
+    code_postal: '84000',
     ville: 'Avignon',
     departement: '84',
     pays: 'France',
@@ -1166,7 +1187,7 @@ export const supermarches = [
   },
   {
     nom: "Coop'cot",
-    adresse: 'Centre Commercial l’Échat<br>92 Avenue du Général de Gaulle',
+    adresse: 'Centre Commercial l’Échat, 92 Avenue du Général de Gaulle',
     ville: 'Créteil',
     departement: '94',
     pays: 'France',
@@ -1194,7 +1215,8 @@ export const supermarches = [
   },
   {
     nom: 'Coop les bains',
-    adresse: '22 bis Rue de Malleville<br>95880 Enghien-les-Bains',
+    adresse: '22 bis Rue de Malleville',
+    code_postal: '95880',
     ville: 'Enghien-les-Bains',
     departement: '95',
     pays: 'France',
@@ -1319,7 +1341,8 @@ export const supermarches = [
   },
   {
     nom: 'Macavrac',
-    adresse: 'Rue des Fontaines 51<br>1300 Wavre',
+    adresse: 'Rue des Fontaines 51',
+    code_postal: '1300',
     ville: 'Wavre',
     departement: '',
     pays: 'Belgique',
@@ -1361,7 +1384,8 @@ export const supermarches = [
   },
   {
     nom: 'La fève',
-    adresse: 'Esplanade des Récréations 19<br>1217 Meyrin',
+    adresse: 'Esplanade des Récréations 19',
+    code_postal: '1217',
     ville: 'Meyrin',
     departement: '',
     pays: 'Suisse',
@@ -1401,7 +1425,7 @@ export const supermarches = [
     longitude: 6.98710
   },
   {
-    nom: 'L\'épicerie d\'à côté',
+    nom: "L'épicerie d'à côté",
     adresse: 'Rue du Tertre 12',
     ville: 'Neuchâtel',
     departement: '',
@@ -1556,7 +1580,7 @@ export const supermarches = [
   },
   {
     nom: 'La Brouette',
-    adresse: 'Av. d\'Echallens 79',
+    adresse: "Av. d'Echallens 79",
     ville: 'Lausanne',
     departement: '',
     pays: 'Suisse',
@@ -1595,8 +1619,8 @@ export const supermarches = [
     longitude: 6.90387011
   },
   {
-    nom: 'Les P\'tits Pois',
-    adresse: 'Promenade de l\'Eglantine 1',
+    nom: "Les P'tits Pois",
+    adresse: "Promenade de l'Eglantine 1",
     ville: 'Morges',
     departement: '',
     pays: 'Suisse',
@@ -1608,7 +1632,7 @@ export const supermarches = [
     longitude: 6.484526483
   },
   {
-    nom: "The People's <br>Supermarket",
+    nom: "The People's Supermarket",
     adresse: "72-78 Lamb's Conduit Street",
     ville: 'Londres',
     departement: '',
@@ -1623,7 +1647,7 @@ export const supermarches = [
   },
   {
     nom: 'AlterCoop',
-    adresse: '18A & 18D rue de la cimenterie 1337 Luxembourg',
+    adresse: '18A & 18D rue de la cimenterie',
     ville: 'Luxembourg',
     departement: '',
     pays: 'Luxembourg',
@@ -1721,7 +1745,7 @@ export const supermarches = [
   },
   {
     nom: 'La Osa',
-    adresse: 'Av. de Asturias, 57<br>28029 Madrid',
+    adresse: 'Av. de Asturias, 57',
     ville: 'Madrid',
     departement: '',
     pays: 'Espagne',
@@ -1757,7 +1781,7 @@ export const supermarches = [
   },
   {
     nom: 'Le détour',
-    adresse: '1900 rue le Ber local 102 <br> Montréal, QC H3K 2A4',
+    adresse: '1900 rue le Ber local 102',
     ville: 'Montréal',
     departement: '',
     pays: 'Canada',
@@ -1771,7 +1795,7 @@ export const supermarches = [
   },
   {
     nom: "L'ortie folle",
-    adresse: 'Montreal, QC, Canada, Quebec',
+    adresse: '',
     ville: 'Montréal',
     departement: '',
     pays: 'Canada',
