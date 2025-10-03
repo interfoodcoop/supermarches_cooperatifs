@@ -236,7 +236,14 @@ export const supermarches = [
     logo: 'cagette.jpg',
     site_web: 'https://lacagette-coop.fr/',
     courriel: 'contact@lacagette-coop.fr',
+    bluesky: 'https://bsky.app/profile/lacagette34.bsky.social',
+    instagram: 'https://www.instagram.com/lacagette34/',
     facebook: 'https://www.facebook.com/LaCagette34',
+    linkedin: 'https://www.linkedin.com/company/la-cagette-de-montpellier',
+    mastodon: 'https://piaille.fr/%40lacagette34',
+    peertube: 'https://indymotion.fr/c/la_cagette/videos',
+    // twitter: 'https://twitter.com/LaCagetteMtp34',
+    // youtube: 'https://www.youtube.com/channel/UCWaWBUP1OQukUew8MWCDymQ',
     avancement: 5,
     latitude: 43.60398,
     longitude: 3.87330
@@ -888,6 +895,7 @@ export const supermarches = [
     site_web: 'https://poplacoop.fr/',
     courriel: 'info@poplacoop.fr',
     facebook: 'https://www.facebook.com/POPLACOOP/',
+    instagram: 'https://www.instagram.com/poplacoop/',
     avancement: 4,
     latitude: 48.87371,
     longitude: 2.08255

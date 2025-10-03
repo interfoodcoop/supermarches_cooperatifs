@@ -44,12 +44,12 @@ export const parametres = {
         variables: ['site_web']
       },
       {
-        message: '<a href=\'{0}\'>Page Facebook</a><br>',
-        variables: ['facebook']
-      },
-      {
         message: '<a href=\'mailto:{0}\'>Courriel</a><br>',
         variables: ['courriel']
+      },
+      {
+        message: '<a href=\'{0}\'>Page Facebook</a><br>',
+        variables: ['facebook']
       }
     ]
   }
