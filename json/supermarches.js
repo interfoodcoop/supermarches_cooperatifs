@@ -1758,28 +1758,6 @@ export const supermarches = [
     longitude: -3.69835
   },
   {
-    nom: 'foodcoops.de',
-    ville: 'Pays Allemagne',
-    departement: '',
-    pays: 'Allemagne',
-    logo: 'foodcoop_bundes_ag.png',
-    site_web: 'http://www.oekoop.de/bag_contenido-4.8/cms/front_content.php?idcat=25',
-    avancement: 5,
-    latitude: 51.591,
-    longitude: 10.545
-  },
-  {
-    nom: 'foodcoops.at',
-    ville: 'Pays Autriche',
-    departement: '',
-    pays: 'Autriche',
-    logo: 'foodcops_at.png',
-    site_web: 'https://foodcoops.at/bestehende-foodcoops/',
-    avancement: 5,
-    latitude: 47.881,
-    longitude: 14.770
-  },
-  {
     nom: 'Le détour',
     adresse: '1900 rue le Ber local 102',
     ville: 'Montréal',
@@ -1807,15 +1785,4 @@ export const supermarches = [
     latitude: 45.39785,
     longitude: -73.8122
   },
-  {
-    nom: 'Coop Lib',
-    adresse: '"Epiceries libres"',
-    departement: '',
-    pays: 'France',
-    logo: 'cooplib.png',
-    site_web: 'https://cooplib.fr/',
-    avancement: 4,
-    latitude: 46.110,
-    longitude: -4.264
-  }
 ]
