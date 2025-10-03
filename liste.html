@@ -19,24 +19,27 @@
                <th>Adresse</th>
                <th>Site web</th>
                <th>Courriel</th>
-               <th>Facebook</th>
+               <th width="100">Réseaux sociaux</th>
                <th>Avancement</th>
             </tr>
          </thead>
          <tbody>
             <tr  v-for="item in items">
-               <td>{{item.departement}}</td>
-               <td>{{item.ville}}</td>
+               <td>{{ item.departement }}</td>
+               <td>{{ item.ville }}</td>
                <td v-html="item.nom"></td>
                <td v-html="item.adresse"></td>
                <td>
-                  <a :href="item.site_web">{{item.site_web}}</a>                 
+                  <a :href="item.site_web">{{ item.site_web }}</a>
                </td>
                <td>
-                  <a :href="'mailto:' + item.courriel">Courriel</a>      
+                  <a :href="'mailto:' + item.courriel">Courriel</a>
                </td>
                <td>
-                  <a :href="item.facebook">Facebook</a>                 
+                  <a v-if="item.facebook" :href="item.facebook">Facebook</a>
+                  <a v-if="item.twitter" :href="item.twitter">Twitter</a>
+                  <a v-if="item.instagram" :href="item.instagram">Instagram</a>
+                  <a v-if="item.linkedin" :href="item.linkedin">LinkedIn</a>
                </td>
                <td>
                   <div v-if="item.avancement === 1">
