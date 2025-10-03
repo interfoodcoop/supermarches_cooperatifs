@@ -66,7 +66,7 @@ export class Map {
       }
 
       const iconeMagasin = L.AwesomeMarkers.icon({ icon: typeIcone, prefix: 'fa', markerColor: couleurIcone })
-      const marker = L.marker([element.lattitude, element.longitude], { icon: iconeMagasin }).addTo(this.map)
+      const marker = L.marker([element.latitude, element.longitude], { icon: iconeMagasin }).addTo(this.map)
 
       let affichage = this.genererLeMessageDuMarqueur(JSON.stringify(element), this.parametres.affichageMarqueur.message, this.parametres.affichageMarqueur.variables)
       affichage += this.genererLaPartieOptionnelleDuMessage(element)
@@ -134,17 +134,5 @@ export class Map {
             : d >= choropletheReferent[0]
               ? choropletheCouleur[0]
               : '#FFFFFF'
-  }
-
-  // Récupère un fichier Json en Ajax
-  recupererFichierJsonEnAjax (url) {
-    // Création d'une requête HTTP
-    const requete = new XMLHttpRequest()
-    // Requête HTTP GET synchrone vers le fichier langages.txt publié localement
-    requete.open('GET', url, false)
-    // Envoi de la requête
-    requete.send(null)
-    // Affiche la réponse reçue pour la requête
-    console.log(requete.responseText)
   }
 }
