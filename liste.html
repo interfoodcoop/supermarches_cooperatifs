@@ -36,10 +36,14 @@
                   <a :href="'mailto:' + item.courriel">Courriel</a>
                </td>
                <td>
+                  <a v-if="item.bluesky" :href="item.bluesky">Bluesky</a>
                   <a v-if="item.facebook" :href="item.facebook">Facebook</a>
-                  <a v-if="item.twitter" :href="item.twitter">Twitter</a>
                   <a v-if="item.instagram" :href="item.instagram">Instagram</a>
                   <a v-if="item.linkedin" :href="item.linkedin">LinkedIn</a>
+                  <a v-if="item.mastodon" :href="item.mastodon">Mastodon</a>
+                  <a v-if="item.peertube" :href="item.peertube">PeerTube</a>
+                  <a v-if="item.twitter" :href="item.twitter">Twitter</a>
+                  <a v-if="item.youtube" :href="item.youtube">YouTube</a>
                </td>
                <td>
                   <div v-if="item.avancement === 1">
