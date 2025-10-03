@@ -13,10 +13,11 @@
          <caption>Supermarchés coopératifs</caption>
          <thead>
             <tr>
-               <th><abbr title="Département">Dpt</abbr></th>
-               <th>Ville</th>
                <th>Nom</th>
                <th>Adresse</th>
+               <th>Ville</th>
+               <th><abbr title="Département">Dpt</abbr></th>
+               <th>Pays</th>
                <th>Site web</th>
                <th>Courriel</th>
                <th width="100">Réseaux sociaux</th>
@@ -25,10 +26,11 @@
          </thead>
          <tbody>
             <tr  v-for="item in items">
-               <td>{{ item.departement }}</td>
-               <td>{{ item.ville }}</td>
                <td v-html="item.nom"></td>
                <td v-html="item.adresse"></td>
+               <td>{{ item.ville }}</td>
+               <td>{{ item.departement }}</td>
+               <td>{{ item.pays }}</td>
                <td>
                   <a :href="item.site_web">{{ item.site_web }}</a>
                </td>
