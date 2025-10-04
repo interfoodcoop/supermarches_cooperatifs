@@ -24,7 +24,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/nicecoop2/',
     avancement: 4,
     latitude: 43.70701,
-    longitude: 7.25735
+    longitude: 7.25735,
+    openstreetmap: ''
   },
   {
     nom: 'Coop La Meute',
@@ -38,7 +39,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/cooplameute/',
     avancement: 4,
     latitude: 43.64652,
-    longitude: 6.91408
+    longitude: 6.91408,
+    openstreetmap: ''
   },
   {
     nom: 'Marcasserie',
@@ -52,7 +54,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/marcasserie/',
     avancement: 4,
     latitude: 49.77742,
-    longitude: 4.73542
+    longitude: 4.73542,
+    openstreetmap: ''
   },
   {
     nom: 'Super Cafoutch',
@@ -81,7 +84,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/AixElanCoop/',
     avancement: 1,
     latitude: 43.5575,
-    longitude: 5.4890
+    longitude: 5.4890,
+    openstreetmap: ''
   },
   {
     nom: 'La Roch’coop',
@@ -95,7 +99,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaRochcoop',
     avancement: 5,
     latitude: 46.186031,
-    longitude: -1.117599
+    longitude: -1.117599,
+    openstreetmap: ''
   },
   {
     nom: 'Court circuit 21',
@@ -109,7 +114,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/courtcircuit21/',
     avancement: 4,
     latitude: 47.29516,
-    longitude: 5.02020
+    longitude: 5.02020,
+    openstreetmap: ''
   },
   {
     nom: 'La briochaine',
@@ -122,7 +128,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/labriochaine/',
     avancement: 1,
     latitude: 48.49867,
-    longitude: -2.74692
+    longitude: -2.74692,
+    openstreetmap: ''
   },
   {
     nom: "T'as meilleur temps !",
@@ -136,7 +143,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/creacoop25/',
     avancement: 4,
     latitude: 47.2350,
-    longitude: 5.9852
+    longitude: 5.9852,
+    openstreetmap: ''
   },
   {
     nom: 'La Carline',
@@ -150,7 +158,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaCarlineCoop/',
     avancement: 4,
     latitude: 44.75223,
-    longitude: 5.37471
+    longitude: 5.37471,
+    openstreetmap: ''
   },
   {
     nom: 'Ti Coop',
@@ -164,7 +173,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/TiCoopBrest',
     avancement: 4,
     latitude: 48.39912,
-    longitude: -4.47222
+    longitude: -4.47222,
+    openstreetmap: ''
   },
   {
     nom: 'Le Gase de la Baie',
@@ -179,7 +189,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Supermarch%C3%A9-Coop%C3%A9ratif-Morlaix-103110237852247/',
     avancement: 3,
     latitude: 48.58208,
-    longitude: -3.83405
+    longitude: -3.83405,
+    openstreetmap: ''
   },
   {
     nom: 'La RieCoop',
@@ -194,7 +205,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/laRIECoop/',
     avancement: 4,
     latitude: 47.84409,
-    longitude: -3.69194
+    longitude: -3.69194,
+    openstreetmap: ''
   },
   {
     nom: 'La chouette coop',
@@ -208,7 +220,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lachouettecoop/',
     avancement: 4,
     latitude: 43.61127,
-    longitude: 1.45657
+    longitude: 1.45657,
+    openstreetmap: ''
   },
   {
     nom: 'SuperCoop',
@@ -222,7 +235,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/supercoopbdx/',
     avancement: 5,
     latitude: 44.81460,
-    longitude: -0.55419
+    longitude: -0.55419,
+    openstreetmap: ''
   },
   {
     nom: 'CoopOcéan',
@@ -234,7 +248,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/groups/1035375806594111/',
     avancement: 1,
     latitude: 45.5070,
-    longitude: -1.1197
+    longitude: -1.1197,
+    openstreetmap: ''
   },
   {
     nom: 'La Coopé',
@@ -249,7 +264,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lacoopelangon/',
     avancement: 4,
     latitude: 44.5474,
-    longitude: -0.2490
+    longitude: -0.2490,
+    openstreetmap: ''
   },
   {
     nom: 'La cagette',
@@ -286,7 +302,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaCremerieCoopClapiers',
     avancement: 4,
     latitude: 43.6576,
-    longitude: 3.8837
+    longitude: 3.8837,
+    openstreetmap: ''
   },
   {
     nom: 'Coop singulière',
@@ -300,7 +317,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/CoopSinguliere/',
     avancement: 4,
     latitude: 43.40554,
-    longitude: 3.69974
+    longitude: 3.69974,
+    openstreetmap: ''
   },
   {
     nom: 'Breizhicoop',
@@ -314,7 +332,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/breizhicoop/',
     avancement: 4,
     latitude: 48.08464,
-    longitude: -1.65050
+    longitude: -1.65050,
+    openstreetmap: ''
   },
   {
     nom: 'Le Troglo',
@@ -328,7 +347,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LeTroglo/',
     avancement: 5,
     latitude: 47.37551,
-    longitude: 0.671992
+    longitude: 0.671992,
+    openstreetmap: ''
   },
   {
     nom: 'L’éléfàn',
@@ -358,7 +378,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lesami.e.sdecoopcinelles/',
     avancement: 4,
     latitude: 45.6130,
-    longitude: 5.2782
+    longitude: 5.2782,
+    openstreetmap: ''
   },
   {
     nom: 'La Marm"Hotte',
@@ -373,7 +394,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lamarmhotte/',
     avancement: 4,
     latitude: 45.4339,
-    longitude: 5.9769
+    longitude: 5.9769,
+    openstreetmap: ''
   },
   {
     nom: 'La Cambuse',
@@ -387,7 +409,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/magasincooperatitflonslesaunier/',
     avancement: 4,
     latitude: 46.67450,
-    longitude: 5.54819
+    longitude: 5.54819,
+    openstreetmap: ''
   },
   {
     nom: 'La Fourmilière',
@@ -400,7 +423,8 @@ export const supermarches = [
     courriel: 'contact@coop-lafourmiliere.fr',
     avancement: 5,
     latitude: 45.41849,
-    longitude: 4.39713
+    longitude: 4.39713,
+    openstreetmap: ''
   },
   {
     nom: 'La libellule',
@@ -415,7 +439,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lalibellule42',
     avancement: 4,
     latitude: 46.0313,
-    longitude: 4.0824
+    longitude: 4.0824,
+    openstreetmap: ''
   },
   {
     nom: 'Scopéli',
@@ -430,7 +455,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Scopeli/',
     avancement: 5,
     latitude: 47.19546,
-    longitude: -1.56828
+    longitude: -1.56828,
+    openstreetmap: ''
   },
   {
     nom: 'La Coop du Coin',
@@ -444,7 +470,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lesamisdelacoopducoin/',
     avancement: 4,
     latitude: 47.27771,
-    longitude: -2.21737
+    longitude: -2.21737,
+    openstreetmap: ''
   },
   {
     nom: 'La coopérette',
@@ -459,7 +486,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/supermarchecooperatiforleans',
     avancement: 3,
     latitude: 47.90714,
-    longitude: 1.95224
+    longitude: 1.95224,
+    openstreetmap: ''
   },
   {
     nom: 'La Gabare',
@@ -474,7 +502,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaGabare45/',
     avancement: 5,
     latitude: 47.84593,
-    longitude: 1.91945
+    longitude: 1.91945,
+    openstreetmap: ''
   },
   {
     nom: "La coop'agenoise",
@@ -487,7 +516,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaCoopAgenaise/',
     avancement: 1,
     latitude: 44.2046512,
-    longitude: 0.622364
+    longitude: 0.622364,
+    openstreetmap: ''
   },
   {
     nom: 'Ma Coop <br>La Vie au Vert',
@@ -501,7 +531,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/MaCoopLaVieAuVert/',
     avancement: 4,
     latitude: 44.47569,
-    longitude: 3.98530
+    longitude: 3.98530,
+    openstreetmap: ''
   },
   {
     nom: 'La Coopette',
@@ -514,7 +545,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopette.angers/',
     avancement: 3,
     latitude: 47.47185,
-    longitude: -0.54760
+    longitude: -0.54760,
+    openstreetmap: ''
   },
   {
     nom: 'coop en Baie',
@@ -527,7 +559,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopenbaie/',
     avancement: 1,
     latitude: 48.8418002,
-    longitude: -1.5822933
+    longitude: -1.5822933,
+    openstreetmap: ''
   },
   {
     nom: 'Grande épicerie générale',
@@ -541,7 +574,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/GEGNancy/',
     avancement: 4,
     latitude: 48.69811,
-    longitude: 6.20029
+    longitude: 6.20029,
+    openstreetmap: ''
   },
   {
     nom: 'Coop des Vénètes',
@@ -556,7 +590,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopdesvenetes/',
     avancement: 4,
     latitude: 47.65080,
-    longitude: -2.71331
+    longitude: -2.71331,
+    openstreetmap: ''
   },
   {
     nom: 'Graoucoop',
@@ -570,7 +605,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/graoucoop',
     avancement: 4,
     latitude: 49.103996,
-    longitude: 6.165329
+    longitude: 6.165329,
+    openstreetmap: ''
   },
   {
     nom: 'La Cocotte',
@@ -583,7 +619,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lacocottemagasincooperatifnevers',
     avancement: 3,
     latitude: 46.98903,
-    longitude: 3.16134
+    longitude: 3.16134,
+    openstreetmap: ''
   },
   {
     nom: 'SuperQuinquin',
@@ -597,7 +634,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/SuperQuinquin-1060478380629115/',
     avancement: 5,
     latitude: 50.63228,
-    longitude: 3.08717
+    longitude: 3.08717,
+    openstreetmap: ''
   },
   {
     nom: 'La Baraque En Vrac',
@@ -612,7 +650,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/labaraque.envrac/',
     avancement: 2,
     latitude: 50.65143,
-    longitude: 3.06997
+    longitude: 3.06997,
+    openstreetmap: ''
   },
   {
     nom: 'La Clac',
@@ -625,7 +664,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Creonslacoop/',
     avancement: 4,
     latitude: 49.2561,
-    longitude: 2.4658
+    longitude: 2.4658,
+    openstreetmap: ''
   },
   {
     nom: 'La coop des dômes',
@@ -639,7 +679,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/CoopDesDomes',
     avancement: 4,
     latitude: 45.81259,
-    longitude: 3.12860
+    longitude: 3.12860,
+    openstreetmap: ''
   },
   {
     nom: "L'alternateur'",
@@ -652,7 +693,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/alternateursauxillanges/',
     avancement: 4,
     latitude: 45.55090,
-    longitude: 3.37189
+    longitude: 3.37189,
+    openstreetmap: ''
   },
   {
     nom: 'Otsokop',
@@ -666,7 +708,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/otsokop/',
     avancement: 4,
     latitude: 43.502204,
-    longitude: -1.4705459
+    longitude: -1.4705459,
+    openstreetmap: ''
   },
   {
     nom: 'Larrunkoop Urrugne',
@@ -680,7 +723,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/larrunkoop/',
     avancement: 4,
     latitude: 43.36436,
-    longitude: -1.69864
+    longitude: -1.69864,
+    openstreetmap: ''
   },
   {
     nom: 'Hendaia Koop',
@@ -695,7 +739,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/hendaiakoop/',
     avancement: 4,
     latitude: 43.35817,
-    longitude: -1.77568
+    longitude: -1.77568,
+    openstreetmap: ''
   },
   {
     nom: 'Coop des Luys',
@@ -708,7 +753,8 @@ export const supermarches = [
     courriel: 'contact.coopdesluys@gmail.com',
     avancement: 4,
     latitude: 43.404078,
-    longitude: -0.38633
+    longitude: -0.38633,
+    openstreetmap: ''
   },
   {
     nom: 'O Vrac Coop',
@@ -723,7 +769,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/ovrac.coop/',
     avancement: 4,
     latitude: 42.67770,
-    longitude: 2.89405
+    longitude: 2.89405,
+    openstreetmap: ''
   },
   {
     nom: 'Coopalim',
@@ -737,7 +784,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopalim.strasbourg/',
     avancement: 4,
     latitude: 48.58412,
-    longitude: 7.73854
+    longitude: 7.73854,
+    openstreetmap: ''
   },
   {
     nom: 'Les Oies Sauvages',
@@ -751,7 +799,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/CoopLesOiesSauvages/',
     avancement: 4,
     latitude: 48.08105,
-    longitude: 7.34906
+    longitude: 7.34906,
+    openstreetmap: ''
   },
   {
     nom: 'Le Panier du Mehlala',
@@ -765,7 +814,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/epicerieparticipativemulhouse/',
     avancement: 4,
     latitude: 47.74908,
-    longitude: 7.32568
+    longitude: 7.32568,
+    openstreetmap: ''
   },
   {
     nom: 'La Melting Coop<br>(Anciennement Demain)',
@@ -779,7 +829,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Lameltingcoop',
     avancement: 4,
     latitude: 45.76850,
-    longitude: 4.88600
+    longitude: 4.88600,
+    openstreetmap: ''
   },
   {
     nom: 'Les fourmis sarthoises',
@@ -793,7 +844,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Les-fourmis-sarthoises-Super-Coop-Le-Mans-113575293764329',
     avancement: 4,
     latitude: 48.007107,
-    longitude: 0.189676
+    longitude: 0.189676,
+    openstreetmap: ''
   },
   {
     nom: "Eko-Syst'M",
@@ -807,7 +859,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/EkosystM',
     avancement: 5,
     latitude: 45.56864,
-    longitude: 5.90300
+    longitude: 5.90300,
+    openstreetmap: ''
   },
   {
     nom: 'Alpar Coop',
@@ -821,7 +874,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/alparcoop/',
     avancement: 4,
     latitude: 45.92011,
-    longitude: 6.08801
+    longitude: 6.08801,
+    openstreetmap: ''
   },
   {
     nom: 'Les 400 Coop',
@@ -835,7 +889,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/les400coop/',
     avancement: 4,
     latitude: 48.85362,
-    longitude: 2.39629
+    longitude: 2.39629,
+    openstreetmap: ''
   },
   {
     nom: 'Coop 14',
@@ -849,7 +904,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coop14paris',
     avancement: 4,
     latitude: 48.82267,
-    longitude: 2.32901
+    longitude: 2.32901,
+    openstreetmap: ''
   },
   {
     nom: 'La Louve',
@@ -863,7 +919,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/CoopLaLouve',
     avancement: 5,
     latitude: 48.89444,
-    longitude: 2.35306
+    longitude: 2.35306,
+    openstreetmap: ''
   },
   {
     nom: 'Cago',
@@ -877,7 +934,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopalimentairegouttedor/',
     avancement: 4,
     latitude: 48.88984,
-    longitude: 2.35577
+    longitude: 2.35577,
+    openstreetmap: ''
   },
   {
     nom: 'La Source',
@@ -891,7 +949,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/cooplasource/',
     avancement: 4,
     latitude: 48.85731,
-    longitude: 2.41086
+    longitude: 2.41086,
+    openstreetmap: ''
   },
   {
     nom: 'jachetemonsupermarche',
@@ -904,7 +963,8 @@ export const supermarches = [
     courriel: 'contact@laserrecitoyenne.fr',
     avancement: 1,
     latitude: 49.9213789,
-    longitude: 1.0739232
+    longitude: 1.0739232,
+    openstreetmap: ''
   },
   {
     nom: 'La mouette',
@@ -918,7 +978,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaMouette.epicerie.coop.havraise/',
     avancement: 4,
     latitude: 49.50015,
-    longitude: 0.12778
+    longitude: 0.12778,
+    openstreetmap: ''
   },
   {
     nom: 'KissiKol',
@@ -932,7 +993,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Magasin-coop%C3%A9ratif-et-participatif-%C3%A0-ROUEN-105373297971520',
     avancement: 3,
     latitude: 49.44242,
-    longitude: 1.10561
+    longitude: 1.10561,
+    openstreetmap: ''
   },
   {
     nom: 'Valcoop',
@@ -947,7 +1009,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Valcoop-713079712233414/',
     avancement: 4,
     latitude: 48.83313,
-    longitude: 2.66131
+    longitude: 2.66131,
+    openstreetmap: ''
   },
   {
     nom: 'Cooplicot',
@@ -961,7 +1024,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Cooplicot/',
     avancement: 3,
     latitude: 48.37344,
-    longitude: 2.82323
+    longitude: 2.82323,
+    openstreetmap: ''
   },
   {
     nom: 'Le chaudron coop',
@@ -975,7 +1039,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lechaudroncoop/',
     avancement: 3,
     latitude: 48.82640,
-    longitude: 2.13777
+    longitude: 2.13777,
+    openstreetmap: ''
   },
   {
     nom: 'Pop la coop',
@@ -991,7 +1056,8 @@ export const supermarches = [
     instagram: 'https://www.instagram.com/poplacoop/',
     avancement: 4,
     latitude: 48.87371,
-    longitude: 2.08255
+    longitude: 2.08255,
+    openstreetmap: ''
   },
   {
     nom: 'epi castelforain',
@@ -1005,7 +1071,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lepicastelfortain/',
     avancement: 4,
     latitude: 48.73654,
-    longitude: 2.09161
+    longitude: 2.09161,
+    openstreetmap: ''
   },
   {
     nom: 'le peuplié',
@@ -1018,7 +1085,8 @@ export const supermarches = [
     courriel: 'contact@lepeuplie.org',
     avancement: 4,
     latitude: 49.89002,
-    longitude: 2.32389
+    longitude: 2.32389,
+    openstreetmap: ''
   },
   {
     nom: 'Les amis de la CASA',
@@ -1032,7 +1100,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Les-amis-de-la-CASA-144243456174379/',
     avancement: 4,
     latitude: 43.93032,
-    longitude: 2.14615
+    longitude: 2.14615,
+    openstreetmap: ''
   },
   {
     nom: 'La coop sur mer',
@@ -1046,7 +1115,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaCoopSurMer/',
     avancement: 5,
     latitude: 43.11985,
-    longitude: 5.95289
+    longitude: 5.95289,
+    openstreetmap: ''
   },
   {
     nom: 'La cerise sur le Gapeau',
@@ -1061,7 +1131,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lacerisesurlegapeau/',
     avancement: 4,
     latitude: 43.17083,
-    longitude: 6.03964
+    longitude: 6.03964,
+    openstreetmap: ''
   },
   {
     nom: "Les Pot'iront",
@@ -1075,7 +1146,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
     latitude: 43.53779,
-    longitude: 6.467465
+    longitude: 6.467465,
+    openstreetmap: ''
   },
   {
     nom: "Les Pot'iront",
@@ -1089,7 +1161,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/cooperativepotiront/',
     avancement: 4,
     latitude: 43.422619,
-    longitude: 6.742483
+    longitude: 6.742483,
+    openstreetmap: ''
   },
   {
     nom: 'Gem la coop',
@@ -1104,7 +1177,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lesamiesgemlacoop/',
     avancement: 4,
     latitude: 43.94053,
-    longitude: 4.82196
+    longitude: 4.82196,
+    openstreetmap: ''
   },
   {
     nom: 'Lalouet coop',
@@ -1118,7 +1192,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LalouetCoop/',
     avancement: 5,
     latitude: 46.86902,
-    longitude: -1.00104
+    longitude: -1.00104,
+    openstreetmap: ''
   },
   {
     nom: 'Le baudet',
@@ -1132,7 +1207,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LeBaudetduPoitou/',
     avancement: 4,
     latitude: 46.57613,
-    longitude: 0.33847
+    longitude: 0.33847,
+    openstreetmap: ''
   },
   {
     nom: "L'Ep'autre",
@@ -1146,7 +1222,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Ep.autre',
     avancement: 3,
     latitude: 48.68521,
-    longitude: 2.37678
+    longitude: 2.37678,
+    openstreetmap: ''
   },
   {
     nom: 'La French Coop',
@@ -1160,7 +1237,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lafrenchcoop/',
     avancement: 4,
     latitude: 48.90514,
-    longitude: 2.28285
+    longitude: 2.28285,
+    openstreetmap: ''
   },
   {
     nom: 'La Coop Bio du Pré',
@@ -1173,7 +1251,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopdupre/',
     avancement: 2,
     latitude: 48.88416,
-    longitude: 2.40373
+    longitude: 2.40373,
+    openstreetmap: ''
   },
   {
     nom: 'La caravane',
@@ -1187,7 +1266,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Lacaravanecoop',
     avancement: 4,
     latitude: 48.85985,
-    longitude: 2.44549
+    longitude: 2.44549,
+    openstreetmap: ''
   },
   {
     nom: "Coop'cot",
@@ -1201,7 +1281,8 @@ export const supermarches = [
     facebook: 'https://fr-fr.facebook.com/supermarchecooperatif94/',
     avancement: 3,
     latitude: 48.78692,
-    longitude: 2.44684
+    longitude: 2.44684,
+    openstreetmap: ''
   },
   {
     nom: 'Coquelicoop',
@@ -1215,7 +1296,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coquelicoop.fr/',
     avancement: 4,
     latitude: 48.76133,
-    longitude: 2.32645
+    longitude: 2.32645,
+    openstreetmap: ''
   },
   {
     nom: 'Coop les bains',
@@ -1230,7 +1312,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopenghien/',
     avancement: 4,
     latitude: 48.96901,
-    longitude: 2.30729
+    longitude: 2.30729,
+    openstreetmap: ''
   },
   {
     nom: 'La Calebasse',
@@ -1243,7 +1326,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lacalebasse971/',
     avancement: 2,
     latitude: 16.2350099,
-    longitude: -61.560867
+    longitude: -61.560867,
+    openstreetmap: ''
   },
   {
     nom: 'La coop à nous',
@@ -1257,7 +1341,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopanous/',
     avancement: 3,
     latitude: -22.26569,
-    longitude: 166.47021
+    longitude: 166.47021,
+    openstreetmap: ''
   },
   {
     nom: 'BEES Coop',
@@ -1271,7 +1356,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/CooperativeBEES/',
     avancement: 5,
     latitude: 50.85690,
-    longitude: 4.37731
+    longitude: 4.37731,
+    openstreetmap: ''
   },
   {
     nom: 'WooCoop',
@@ -1285,7 +1371,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/WooCoop/',
     avancement: 4,
     latitude: 50.71833,
-    longitude: 4.38585
+    longitude: 4.38585,
+    openstreetmap: ''
   },
   {
     nom: 'Oufticoop',
@@ -1299,7 +1386,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Oufticoop-2003796329891655',
     avancement: 4,
     latitude: 50.64565,
-    longitude: 5.58813
+    longitude: 5.58813,
+    openstreetmap: ''
   },
   {
     nom: 'Coopeco',
@@ -1313,7 +1401,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopecosupermarche/',
     avancement: 4,
     latitude: 50.40678,
-    longitude: 4.4011
+    longitude: 4.4011,
+    openstreetmap: ''
   },
   {
     nom: 'Vervicoop',
@@ -1327,7 +1416,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/vervicoop/',
     avancement: 4,
     latitude: 50.59220,
-    longitude: 5.86691
+    longitude: 5.86691,
+    openstreetmap: ''
   },
   {
     nom: 'Bloum',
@@ -1341,7 +1431,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/bloumcoop1190/',
     avancement: 4,
     latitude: 50.81946,
-    longitude: 4.32684
+    longitude: 4.32684,
+    openstreetmap: ''
   },
   {
     nom: 'Macavrac',
@@ -1356,7 +1447,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Macavrac/',
     avancement: 4,
     latitude: 50.71466,
-    longitude: 4.60906
+    longitude: 4.60906,
+    openstreetmap: ''
   },
   {
     nom: 'Co-é-sion - La Cagette 1791',
@@ -1370,7 +1462,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/coopcoesion/',
     avancement: 4,
     latitude: 46.24560,
-    longitude: 7.37079
+    longitude: 7.37079,
+    openstreetmap: ''
   },
   {
     nom: 'Le Nid',
@@ -1384,7 +1477,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lenidgeneve/',
     avancement: 4,
     latitude: 46.20274,
-    longitude: 6.13502
+    longitude: 6.13502,
+    openstreetmap: ''
   },
   {
     nom: 'La fève',
@@ -1399,7 +1493,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/SupermarcheParticipatifPaysan/',
     avancement: 4,
     latitude: 46.23182,
-    longitude: 6.07173
+    longitude: 6.07173,
+    openstreetmap: ''
   },
   {
     nom: 'Système B',
@@ -1413,7 +1508,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/SystemeB.ch/',
     avancement: 4,
     latitude: 46.99855,
-    longitude: 6.93699
+    longitude: 6.93699,
+    openstreetmap: ''
   },
   {
     nom: 'Chez Emmy',
@@ -1426,7 +1522,8 @@ export const supermarches = [
     courriel: 'epicerie@chez-emmy.ch',
     avancement: 4,
     latitude: 47.01291,
-    longitude: 6.98710
+    longitude: 6.98710,
+    openstreetmap: ''
   },
   {
     nom: "L'épicerie d'à côté",
@@ -1440,7 +1537,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lepiceriedacote',
     avancement: 4,
     latitude: 46.9944222,
-    longitude: 6.9306194
+    longitude: 6.9306194,
+    openstreetmap: ''
   },
   {
     nom: 'Epicentre',
@@ -1454,7 +1552,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/EpicerieVracBoudry/',
     avancement: 4,
     latitude: 46.9488861,
-    longitude: 6.8358758
+    longitude: 6.8358758,
+    openstreetmap: ''
   },
   {
     nom: 'Epicoop',
@@ -1468,7 +1567,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/EpicoopRiviera/',
     avancement: 4,
     latitude: 46.4660495,
-    longitude: 6.84262831
+    longitude: 6.84262831,
+    openstreetmap: ''
   },
   {
     nom: 'Coupe Circuit',
@@ -1482,7 +1582,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/epicerie.coupe.circuit',
     avancement: 4,
     latitude: 46.5268883,
-    longitude: 6.6113325
+    longitude: 6.6113325,
+    openstreetmap: ''
   },
   {
     nom: 'Le Jardin Vivant',
@@ -1496,7 +1597,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lejardinvivantlausanne',
     avancement: 4,
     latitude: 46.5190778,
-    longitude: 6.6243197
+    longitude: 6.6243197,
+    openstreetmap: ''
   },
   {
     nom: 'Le Rucher',
@@ -1510,7 +1612,8 @@ export const supermarches = [
     facebook: '',
     avancement: 4,
     latitude: 47.111300,
-    longitude: 6.825810
+    longitude: 6.825810,
+    openstreetmap: ''
   },
   {
     nom: 'Le Marché Saint-Germain',
@@ -1524,7 +1627,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lemarchesaintgermain',
     avancement: 4,
     latitude: 47.4158272,
-    longitude: 7.0798611
+    longitude: 7.0798611,
+    openstreetmap: ''
   },
   {
     nom: 'La Vracrie',
@@ -1538,7 +1642,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/VracrieVully',
     avancement: 4,
     latitude: 46.9553806,
-    longitude: 7.1021961
+    longitude: 7.1021961,
+    openstreetmap: ''
   },
   {
     nom: 'La Vorace',
@@ -1552,7 +1657,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/levorace.epicerie',
     avancement: 4,
     latitude: 46.5249147,
-    longitude: 6.5748100
+    longitude: 6.5748100,
+    openstreetmap: ''
   },
   {
     nom: 'Le Local',
@@ -1566,7 +1672,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/Lelocalnyon/',
     avancement: 4,
     latitude: 46.3818228,
-    longitude: 6.2356514
+    longitude: 6.2356514,
+    openstreetmap: ''
   },
   {
     nom: 'Tabernam',
@@ -1580,7 +1687,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/tabernam.epicerie',
     avancement: 4,
     latitude: 46.788097,
-    longitude: 6.648250
+    longitude: 6.648250,
+    openstreetmap: ''
   },
   {
     nom: 'La Brouette',
@@ -1594,7 +1702,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/epicerielabrouette',
     avancement: 5,
     latitude: 46.528140,
-    longitude: 6.615700
+    longitude: 6.615700,
+    openstreetmap: ''
   },
   {
     nom: 'La Canopée',
@@ -1607,7 +1716,8 @@ export const supermarches = [
     courriel: 'epiceriemuraz@gmail.com',
     avancement: 4,
     latitude: 46.2980042,
-    longitude: 7.5292742
+    longitude: 7.5292742,
+    openstreetmap: ''
   },
   {
     nom: 'Les Enfants de la Terre',
@@ -1620,7 +1730,8 @@ export const supermarches = [
     courriel: 'epicerie@lesenfantsdelaterre.ch',
     avancement: 4,
     latitude: 47.0595840,
-    longitude: 6.90387011
+    longitude: 6.90387011,
+    openstreetmap: ''
   },
   {
     nom: "Les P'tits Pois",
@@ -1633,7 +1744,8 @@ export const supermarches = [
     courriel: '',
     avancement: 4,
     latitude: 46.51195213,
-    longitude: 6.484526483
+    longitude: 6.484526483,
+    openstreetmap: ''
   },
   {
     nom: "The People's Supermarket",
@@ -1647,7 +1759,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/thepeoplessupermarket/',
     avancement: 5,
     latitude: 51.5226,
-    longitude: -0.11875
+    longitude: -0.11875,
+    openstreetmap: ''
   },
   {
     nom: 'AlterCoop',
@@ -1661,7 +1774,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/AlterCoopLuxembourg/',
     avancement: 4,
     latitude: 49.641337,
-    longitude: 6.135053
+    longitude: 6.135053,
+    openstreetmap: ''
   },
   {
     nom: 'Camilla',
@@ -1675,7 +1789,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/cooperativacamilla/',
     avancement: 5,
     latitude: 44.50582,
-    longitude: 11.36045
+    longitude: 11.36045,
+    openstreetmap: ''
   },
   {
     nom: 'Lokatten Supermarket',
@@ -1689,7 +1804,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/groups/1503136399808982/',
     avancement: 3,
     latitude: 59.3255,
-    longitude: 18.0711
+    longitude: 18.0711,
+    openstreetmap: ''
   },
   {
     nom: 'Rizoma coop',
@@ -1703,7 +1819,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/rizomacoop.pt',
     avancement: 4,
     latitude: 38.713767,
-    longitude: -9.136232
+    longitude: -9.136232,
+    openstreetmap: ''
   },
   {
     nom: 'Dublin FoodCoop',
@@ -1717,7 +1834,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/DublinFoodCoop/',
     avancement: 5,
     latitude: 53.34239,
-    longitude: -6.31017
+    longitude: -6.31017,
+    openstreetmap: ''
   },
   {
     nom: 'The Urban Co-Op',
@@ -1731,7 +1849,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/TheUrbanCoOp/',
     avancement: 5,
     latitude: 52.64936,
-    longitude: -8.58885
+    longitude: -8.58885,
+    openstreetmap: ''
   },
   {
     nom: 'Belfast Food Co-op',
@@ -1745,7 +1864,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/belfastfoodcoop/',
     avancement: 5,
     latitude: 54.63048,
-    longitude: -5.94133
+    longitude: -5.94133,
+    openstreetmap: ''
   },
   {
     nom: 'La Osa',
@@ -1759,7 +1879,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/LaOsaCoop/',
     avancement: 5,
     latitude: 40.47141,
-    longitude: -3.69835
+    longitude: -3.69835,
+    openstreetmap: ''
   },
   {
     nom: 'foodcoops.de',
@@ -1795,7 +1916,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/epicerieledetour',
     avancement: 4,
     latitude: 45.48118,
-    longitude: -73.55223
+    longitude: -73.55223,
+    openstreetmap: ''
   },
   {
     nom: "L'ortie folle",
@@ -1809,7 +1931,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lortiefolle',
     avancement: 2,
     latitude: 45.39785,
-    longitude: -73.8122
+    longitude: -73.8122,
+    openstreetmap: ''
   },
   {
     nom: 'Coop Lib',
