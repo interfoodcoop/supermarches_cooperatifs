@@ -9,7 +9,8 @@ export const supermarches = [
     site_web: 'https://www.foodcoop.com/',
     avancement: 5,
     latitude: 40.67473,
-    longitude: -73.97682
+    longitude: -73.97682,
+    openstreetmap: 'way/248159746'
   },
   {
     nom: 'Nice Coop',
@@ -65,7 +66,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/supercafoutch/',
     avancement: 5,
     latitude: 43.29856,
-    longitude: 5.37166
+    longitude: 5.37166,
+    openstreetmap: 'node/9750214038'
   },
   {
     nom: "Aix'Elan Coop",
@@ -268,7 +270,8 @@ export const supermarches = [
     // youtube: 'https://www.youtube.com/channel/UCWaWBUP1OQukUew8MWCDymQ',
     avancement: 5,
     latitude: 43.60398,
-    longitude: 3.87330
+    longitude: 3.87330,
+    openstreetmap: 'node/660189646'
   },
   {
     nom: 'La Crèmerie',
@@ -339,7 +342,8 @@ export const supermarches = [
     facebook: 'https://www.facebook.com/lelefandegrenoble/',
     avancement: 4,
     latitude: 45.1750672,
-    longitude: 5.7304083
+    longitude: 5.7304083,
+    openstreetmap: 'node/1392117416'
   },
   {
     nom: "Les ami.e.s de Coop'cinelles",
