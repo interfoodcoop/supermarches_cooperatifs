@@ -21,6 +21,7 @@
                <th>Site web</th>
                <th>Courriel</th>
                <th width="100">Réseaux sociaux</th>
+               <th width="100">Autres liens</th>
                <th>Avancement</th>
             </tr>
          </thead>
@@ -46,6 +47,9 @@
                   <a v-if="item.peertube" :href="item.peertube">PeerTube</a>
                   <a v-if="item.twitter" :href="item.twitter">Twitter</a>
                   <a v-if="item.youtube" :href="item.youtube">YouTube</a>
+               </td>
+               <td>
+                  <a v-if="item.openstreetmap" :href="'https://www.openstreetmap.org/' + item.openstreetmap">OpenStreetMap</a>
                </td>
                <td>
                   <div v-if="item.avancement === 1">
